@@ -1,0 +1,290 @@
+[
+  {
+    "category": "verb-forms",
+    "group": "Real verb",
+    "term": "is delivering",
+    "definition": "Real verb: be + -ing carries the tense.",
+    "example": "The lecturer is delivering a topic.",
+    "position": 1
+  },
+  {
+    "category": "verb-forms",
+    "group": "Modifier",
+    "term": "delivering (no be)",
+    "definition": "Modifier: -ing without be only describes a noun.",
+    "example": "The lecturer delivering a topic is a journalist.",
+    "position": 2
+  },
+  {
+    "category": "verb-forms",
+    "group": "Real verb",
+    "term": "were grown",
+    "definition": "Real verb: be + past participle (passive).",
+    "example": "The trees were grown on a farm.",
+    "position": 3
+  },
+  {
+    "category": "verb-forms",
+    "group": "Modifier",
+    "term": "grown (no be)",
+    "definition": "Modifier: -ed without be or have only describes a noun.",
+    "example": "The trees grown on a farm were sold.",
+    "position": 4
+  },
+  {
+    "category": "verb-forms",
+    "group": "Real verb",
+    "term": "has produced",
+    "definition": "Real verb: have + past participle.",
+    "example": "The factory has produced rubber for years.",
+    "position": 5
+  },
+  {
+    "category": "verb-forms",
+    "group": "Real verb",
+    "term": "will contain / can add",
+    "definition": "Real verb: modal + base verb.",
+    "example": "The papers will contain the news.",
+    "position": 6
+  },
+  {
+    "category": "verb-forms",
+    "group": "Modifier",
+    "term": "to + verb",
+    "definition": "Modifier or purpose: not a real verb by itself.",
+    "example": "She went there to buy a gift.",
+    "position": 7
+  },
+  {
+    "category": "verb-forms",
+    "group": "Real verb",
+    "term": "went / opens",
+    "definition": "Real verb: simple past or simple present form.",
+    "example": "He opens the store at nine.",
+    "position": 8
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "after",
+    "definition": "later than another event",
+    "example": "After he ate, he left.",
+    "position": 9
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "as",
+    "definition": "at the same time as",
+    "example": "As she walked, she sang.",
+    "position": 10
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "as long as",
+    "definition": "during the whole time that",
+    "example": "Stay as long as you like.",
+    "position": 11
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "as soon as",
+    "definition": "right when something happens",
+    "example": "Call me as soon as you arrive.",
+    "position": 12
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "before",
+    "definition": "earlier than another event",
+    "example": "Lock the door before you leave.",
+    "position": 13
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "by the time",
+    "definition": "not later than that moment",
+    "example": "By the time we came, the show had ended.",
+    "position": 14
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "once",
+    "definition": "after one thing happens",
+    "example": "Once it stops raining, we will go.",
+    "position": 15
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "since",
+    "definition": "from a past time until now",
+    "example": "I have lived here since 2020.",
+    "position": 16
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "until",
+    "definition": "up to that time",
+    "example": "Wait until the bell rings.",
+    "position": 17
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "when",
+    "definition": "at the time that",
+    "example": "When the phone rang, she answered.",
+    "position": 18
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "whenever",
+    "definition": "every time that",
+    "example": "Whenever it rains, the road floods.",
+    "position": 19
+  },
+  {
+    "category": "connector-time",
+    "group": "Time",
+    "term": "while",
+    "definition": "during the time that",
+    "example": "He read while she cooked.",
+    "position": 20
+  },
+  {
+    "category": "connector-cause",
+    "group": "Cause",
+    "term": "as",
+    "definition": "for the reason that",
+    "example": "As it was late, we left.",
+    "position": 21
+  },
+  {
+    "category": "connector-cause",
+    "group": "Cause",
+    "term": "because",
+    "definition": "for the reason that",
+    "example": "Teresa went inside because it was raining.",
+    "position": 22
+  },
+  {
+    "category": "connector-cause",
+    "group": "Cause",
+    "term": "now that",
+    "definition": "because of a new situation",
+    "example": "Now that he is here, we can start.",
+    "position": 23
+  },
+  {
+    "category": "connector-cause",
+    "group": "Cause",
+    "term": "since",
+    "definition": "because (the reason is known)",
+    "example": "Since he is sick, he stays home.",
+    "position": 24
+  },
+  {
+    "category": "connector-cause",
+    "group": "Cause",
+    "term": "inasmuch as",
+    "definition": "because (formal)",
+    "example": "Inasmuch as the data is old, we must check it.",
+    "position": 25
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "what, who, where, why, how",
+    "definition": "WH-word that joins a question inside a sentence",
+    "example": "I know what you did.",
+    "position": 26
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "whatever",
+    "definition": "anything that",
+    "example": "Whatever you choose is fine.",
+    "position": 27
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "whenever",
+    "definition": "any time that",
+    "example": "Come whenever you want.",
+    "position": 28
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "whether",
+    "definition": "used for two possibilities",
+    "example": "I wonder whether he will come.",
+    "position": 29
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "if",
+    "definition": "like whether, but not at the start of the sentence",
+    "example": "I asked if he was ready.",
+    "position": 30
+  },
+  {
+    "category": "connector-noun",
+    "group": "Noun clause",
+    "term": "that",
+    "definition": "introduces a statement",
+    "example": "She said that he was sick.",
+    "position": 31
+  },
+  {
+    "category": "connector-adjective",
+    "group": "Adjective clause",
+    "term": "who",
+    "definition": "for people, as the subject of the clause",
+    "example": "The man who called is my uncle.",
+    "position": 32
+  },
+  {
+    "category": "connector-adjective",
+    "group": "Adjective clause",
+    "term": "whom",
+    "definition": "for people, as the object of the clause",
+    "example": "The man whom I met is kind.",
+    "position": 33
+  },
+  {
+    "category": "connector-adjective",
+    "group": "Adjective clause",
+    "term": "which",
+    "definition": "for things",
+    "example": "The book which I read is old.",
+    "position": 34
+  },
+  {
+    "category": "connector-adjective",
+    "group": "Adjective clause",
+    "term": "that",
+    "definition": "for people or things",
+    "example": "The book that I read is old.",
+    "position": 35
+  },
+  {
+    "category": "connector-adjective",
+    "group": "Adjective clause",
+    "term": "whose",
+    "definition": "shows ownership",
+    "example": "The girl whose bag is red left.",
+    "position": 36
+  }
+]

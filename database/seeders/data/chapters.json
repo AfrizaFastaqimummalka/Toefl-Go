@@ -1,0 +1,233 @@
+[
+  {
+    "slug": "structure-subject-verb",
+    "section": "structure",
+    "title": "Subject & Verb",
+    "subtitle": "Kapan bentuk verb benar-benar jadi verb",
+    "position": 1,
+    "available": true,
+    "phase": 1,
+    "recommend": [
+      "verb-forms"
+    ],
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan inti",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Aturan inti"
+          },
+          {
+            "t": "p",
+            "text": "Satu klausa butuh tepat satu subject dan satu verb sejati. Kurang, atau berlebih tanpa connector, berarti kalimatnya salah."
+          },
+          {
+            "t": "h",
+            "text": "Subject"
+          },
+          {
+            "t": "p",
+            "text": "Frasa depan (in the morning, with his secretary) dan keterangan waktu bukan subject. Lewati frasa depan, cari kata benda yang melakukan aksi."
+          },
+          {
+            "t": "xray",
+            "marked": "P{On her lunch hour} S{she} V{went} P{to a nearby department store}.",
+            "caption": "Frasa depan dicoret, sisanya satu subject dan satu verb."
+          },
+          {
+            "t": "h",
+            "text": "Verb sejati vs penerang"
+          },
+          {
+            "t": "p",
+            "text": "Verb sejati membawa tense: bentuk lampau atau present, atau didampingi be, have, modal. Bentuk -ing tanpa be dan -ed tanpa be/have hanya penerang."
+          },
+          {
+            "t": "xray",
+            "marked": "S{The papers} M{being delivered at 4:00} V{will contain} the announcement P{of the resignation}.",
+            "caption": "'being delivered' tidak membawa tense, jadi penerang. Verb sejatinya will contain."
+          },
+          {
+            "t": "xray",
+            "marked": "S{The fir trees} V{were grown} P{for the holiday season} V{were harvested} P{in November}.",
+            "caption": "Dua verb sejati, satu subject, tanpa connector: salah. Jadikan 'grown' penerang."
+          },
+          {
+            "t": "h",
+            "text": "Cek cepat"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Coret frasa depan.",
+              "Tandai penerang: -ing atau -ed tanpa be/have, appositive.",
+              "Cari subject dan verb sejati.",
+              "Hitung: satu pasang per klausa?"
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-1",
+        "kind": "practice",
+        "title": "Lead-in 1: cari bagian yang salah",
+        "position": 2
+      },
+      {
+        "slug": "review-1",
+        "kind": "practice",
+        "title": "Review 1: lengkapi kalimat",
+        "position": 3
+      }
+    ]
+  },
+  {
+    "slug": "structure-diagnostic-completion",
+    "section": "structure",
+    "title": "Diagnostic: Completion",
+    "subtitle": "15 soal pemanasan, campur semua testing point",
+    "position": 2,
+    "available": true,
+    "phase": 1,
+    "recommend": [
+      "verb-forms",
+      "connector-time",
+      "connector-cause",
+      "connector-noun",
+      "connector-adjective"
+    ],
+    "lessons": [
+      {
+        "slug": "diagnostic-completion",
+        "kind": "practice",
+        "title": "Diagnostic completion 1-15",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "slug": "structure-connector",
+    "section": "structure",
+    "title": "Connector",
+    "subtitle": "Time, cause, noun, adjective",
+    "position": 3,
+    "available": false,
+    "phase": 2,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "structure-inversion",
+    "section": "structure",
+    "title": "Inversion",
+    "subtitle": "Negative expression, place, conditional",
+    "position": 4,
+    "available": false,
+    "phase": 2,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "structure-parallel",
+    "section": "structure",
+    "title": "Parallel Structure",
+    "subtitle": "Conjunction, paired, comparative",
+    "position": 5,
+    "available": false,
+    "phase": 2,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "structure-passive-usage",
+    "section": "structure",
+    "title": "Passive, Article, Usage",
+    "subtitle": "like, alike, another, other",
+    "position": 6,
+    "available": false,
+    "phase": 2,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "structure-diagnostic-error",
+    "section": "structure",
+    "title": "Diagnostic: Error ID",
+    "subtitle": "25 soal tap bagian yang salah",
+    "position": 7,
+    "available": false,
+    "phase": 2,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "listening-part-a",
+    "section": "listening",
+    "title": "Part A",
+    "subtitle": "Percakapan pendek",
+    "position": 1,
+    "available": false,
+    "phase": 3,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "listening-part-bc",
+    "section": "listening",
+    "title": "Part B & C",
+    "subtitle": "Percakapan panjang dan talk",
+    "position": 2,
+    "available": false,
+    "phase": 3,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "reading-passages",
+    "section": "reading",
+    "title": "Passage & 5 tipe soal",
+    "subtitle": "Main idea sampai vocabulary",
+    "position": 1,
+    "available": false,
+    "phase": 4,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "reading-word-parts",
+    "section": "reading",
+    "title": "Word parts",
+    "subtitle": "Prefix dan root",
+    "position": 2,
+    "available": false,
+    "phase": 4,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "writing-twe",
+    "section": "writing",
+    "title": "Test of Written English",
+    "subtitle": "Esai 30 menit, skala 1-6",
+    "position": 1,
+    "available": false,
+    "phase": 5,
+    "recommend": [],
+    "lessons": []
+  },
+  {
+    "slug": "writing-appendix",
+    "section": "writing",
+    "title": "Appendix",
+    "subtitle": "Phrasal verb, idiom, active vs passive",
+    "position": 2,
+    "available": false,
+    "phase": 5,
+    "recommend": [],
+    "lessons": []
+  }
+]

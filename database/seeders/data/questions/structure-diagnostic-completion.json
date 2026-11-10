@@ -1,0 +1,622 @@
+{
+  "lesson": "structure-diagnostic-completion/diagnostic-completion",
+  "questions": [
+    {
+      "id": "str-diag-c01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "The North Pole _____ a latitude of 90 degrees north.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it has"
+        },
+        {
+          "id": "B",
+          "text": "is having"
+        },
+        {
+          "id": "C",
+          "text": "which is having"
+        },
+        {
+          "id": "D",
+          "text": "has"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Subject ada, butuh satu verb sejati: 'has'. 'it has' menambah subject, 'which is having' membuka klausa baru tanpa perlu, dan 'have' bermakna memiliki tidak lazim dipakai dengan -ing.",
+      "hints": [
+        "Kalimat butuh apa?",
+        "Subject 'The North Pole' sudah ada. Pilih bentuk paling sederhana yang membawa tense.",
+        "D 'has'. A menambah subject, C membuka klausa tambahan."
+      ],
+      "xray": {
+        "marked": "S{The North Pole} V{has} a latitude P{of 90 degrees} north."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "completion",
+      "text": "The city of Beverly Hills is surrounded on _____ the city of Los Angeles.",
+      "options": [
+        {
+          "id": "A",
+          "text": "its sides"
+        },
+        {
+          "id": "B",
+          "text": "the sides are"
+        },
+        {
+          "id": "C",
+          "text": "it is the side of"
+        },
+        {
+          "id": "D",
+          "text": "all sides by"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'is surrounded' passive, butuh pelaku dengan 'by'. 'on all sides by' frasa depan yang pas. Pilihan lain menambah verb atau subject.",
+      "hints": [
+        "Verb sejati sudah ada. Apa yang kurang?",
+        "'is surrounded' passive. Pelaku passive biasanya ditandai kata apa?",
+        "D 'all sides by'. A, B, C menambah subject atau verb yang tidak diperlukan."
+      ],
+      "xray": {
+        "marked": "S{The city of Beverly Hills} V{is surrounded} P{on all sides} P{by the city of Los Angeles}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "completion",
+      "text": "_____ greyhound, can achieve speeds up to thirty-six miles per hour.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The"
+        },
+        {
+          "id": "B",
+          "text": "The fastest"
+        },
+        {
+          "id": "C",
+          "text": "The fastest dog"
+        },
+        {
+          "id": "D",
+          "text": "The fastest dog, the"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Setelah 'greyhound' ada koma, jadi 'the greyhound' appositive. Subject 'the fastest dog' diikuti appositive 'the greyhound'.",
+      "hints": [
+        "Perhatikan koma setelah 'greyhound'. Bagian itu fungsinya apa?",
+        "Kalau 'greyhound' di antara koma, ia appositive. Siapa subjectnya?",
+        "D. 'The fastest dog, the greyhound,' subject + appositive."
+      ],
+      "xray": {
+        "marked": "S{The fastest dog}, M{the greyhound}, V{can achieve} speeds P{up to thirty-six miles per hour}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "completion",
+      "text": "Marmots spend their time foraging among meadow plants and flowers or _____ on rocky cliffs.",
+      "options": [
+        {
+          "id": "A",
+          "text": "gets sun"
+        },
+        {
+          "id": "B",
+          "text": "sunning"
+        },
+        {
+          "id": "C",
+          "text": "the sun"
+        },
+        {
+          "id": "D",
+          "text": "sunny"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'or' menghubungkan dua bentuk yang sejajar: 'foraging ...' dan 'sunning ...'. Keduanya -ing.",
+      "hints": [
+        "Kata 'or' menyambung apa dengan apa?",
+        "Bentuk sebelum 'or' adalah 'foraging'. Cari yang sejajar.",
+        "B 'sunning'. 'gets sun' menambah verb dengan tense, 'the sun' dan 'sunny' tidak sejajar."
+      ],
+      "xray": {
+        "marked": "S{Marmots} V{spend} their time M{foraging among meadow plants and flowers} or M{sunning on rocky cliffs}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "The greenhouse effect occurs _____ heat radiated from the Sun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "when does the Earth's atmosphere trap"
+        },
+        {
+          "id": "B",
+          "text": "does the Earth's atmosphere trap"
+        },
+        {
+          "id": "C",
+          "text": "when the Earth's atmosphere traps"
+        },
+        {
+          "id": "D",
+          "text": "the Earth's atmosphere traps"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Dua klausa butuh connector. 'when' menyambung, dan setelah connector urutan subject-verb biasa (bukan inversi): 'the Earth's atmosphere traps'.",
+      "hints": [
+        "Sudah ada klausa 'The greenhouse effect occurs'. Yang kosong adalah klausa kedua?",
+        "Klausa kedua butuh connector, dan urutannya subject lalu verb.",
+        "C. A dan B memakai inversi 'does' yang hanya untuk pertanyaan langsung; D tanpa connector."
+      ],
+      "xray": {
+        "marked": "S{The greenhouse effect} V{occurs} C{when} S{the Earth's atmosphere} V{traps} heat M{radiated from the Sun}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "The Rose Bowl, _____ place on New Year's Day, is the oldest postseason collegiate football game in the United States.",
+      "options": [
+        {
+          "id": "A",
+          "text": "takes"
+        },
+        {
+          "id": "B",
+          "text": "it takes"
+        },
+        {
+          "id": "C",
+          "text": "which takes"
+        },
+        {
+          "id": "D",
+          "text": "took"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Bagian di antara koma menerangkan 'The Rose Bowl' dan punya verb sendiri, jadi butuh connector yang juga jadi subject: 'which takes'.",
+      "hints": [
+        "Ada dua verb di kalimat ini ('...place' dan 'is'). Apa yang menghubungkannya?",
+        "Klausa tambahan yang menerangkan benda butuh adjective clause connector.",
+        "C 'which takes'. 'it takes' dan 'took' membuat dua klausa tanpa connector."
+      ],
+      "xray": {
+        "marked": "S{The Rose Bowl}, R{which} V{takes} place P{on New Year's Day}, V{is} the oldest postseason collegiate football game P{in the United States}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 39
+    },
+    {
+      "id": "str-diag-c07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "Experiments _____ represent a giant step into the medicine of the future.",
+      "options": [
+        {
+          "id": "A",
+          "text": "using gene therapy"
+        },
+        {
+          "id": "B",
+          "text": "use gene therapy"
+        },
+        {
+          "id": "C",
+          "text": "they use"
+        },
+        {
+          "id": "D",
+          "text": "gene therapy uses"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Verb sejati 'represent' sudah ada. 'using gene therapy' penerang untuk 'experiments'. B, C, D menambah verb kedua tanpa connector.",
+      "hints": [
+        "Cari verb sejati yang sudah ada di kalimat.",
+        "Kalau 'represent' sudah verb, bagian yang kosong tidak boleh membawa verb sejati lagi.",
+        "A 'using gene therapy' penerang (-ing tanpa be)."
+      ],
+      "xray": {
+        "marked": "S{Experiments} M{using gene therapy} V{represent} a giant step P{into the medicine of the future}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "_____ off the Hawaiian coastline are living, others are dead.",
+      "options": [
+        {
+          "id": "A",
+          "text": "While some types of coral reefs"
+        },
+        {
+          "id": "B",
+          "text": "Some types of coral reefs"
+        },
+        {
+          "id": "C",
+          "text": "There are many types of coral reefs"
+        },
+        {
+          "id": "D",
+          "text": "Coral reefs"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Ada dua klausa ('... are living' dan 'others are dead') dengan koma di tengah. Klausa pertama butuh connector: 'While'.",
+      "hints": [
+        "Hitung klausa: ada 'are living' dan 'are dead'. Cukup connector-nya?",
+        "Dua klausa dipisah koma tanpa connector tidak sah.",
+        "A 'While some types of coral reefs'. B, C, D tidak punya connector."
+      ],
+      "xray": {
+        "marked": "C{While} S{some types} P{of coral reefs} P{off the Hawaiian coastline} V{are} living, S{others} V{are} dead."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "Nimbostratus clouds are thick, dark gray clouds _____ forebode rain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "what"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "what they"
+        },
+        {
+          "id": "D",
+          "text": "which they"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'forebode' perlu subject. 'which' sekaligus connector dan subject (menggantikan 'clouds'). 'which they' menambah subject kedua.",
+      "hints": [
+        "'forebode' butuh subject. Siapa subjectnya?",
+        "Connector yang bisa sekaligus jadi subject untuk benda: who, which, that.",
+        "B 'which'. A 'what' tidak dipakai sebagai adjective clause; C dan D menambah subject kedua."
+      ],
+      "xray": {
+        "marked": "S{Nimbostratus clouds} V{are} thick, dark gray clouds R{which} V{forebode} rain."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "Some economists now suggest that home equity loans are merely a new trap to push consumers beyond _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "they can afford"
+        },
+        {
+          "id": "B",
+          "text": "they can afford it"
+        },
+        {
+          "id": "C",
+          "text": "what is affordable"
+        },
+        {
+          "id": "D",
+          "text": "able to afford"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Setelah 'beyond' butuh noun clause. 'what is affordable' lengkap: 'what' connector dan subject, 'is' verb. 'they can afford' kekurangan connector/objek.",
+      "hints": [
+        "Setelah 'beyond' butuh benda atau klausa benda?",
+        "Noun clause butuh connector (what, that, whether...). Mana yang punya?",
+        "C. 'what is affordable' noun clause lengkap."
+      ],
+      "xray": {
+        "marked": "S{Some economists} now V{suggest} C{that} S{home equity loans} V{are} merely a new trap M{to push consumers beyond} R{what} V{is} affordable."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c11",
+      "position": 11,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "People who reverse the letters of words _____ to read suffer from dyslexia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "when trying"
+        },
+        {
+          "id": "B",
+          "text": "if they tried"
+        },
+        {
+          "id": "C",
+          "text": "when tried"
+        },
+        {
+          "id": "D",
+          "text": "if he tries"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'suffer' sudah verb utama dan 'who reverse' verb relatif. Bagian kosong hanya boleh penerang: 'when trying' (bentuk ringkas dari when they try).",
+      "hints": [
+        "Hitung verb sejati yang sudah ada.",
+        "'reverse' dan 'suffer' sudah dua verb. Yang kosong tidak boleh membawa verb sejati baru.",
+        "A 'when trying'. B dan D membawa verb sejati ('tried', 'tries') dan subject baru."
+      ],
+      "xray": {
+        "marked": "S{People} R{who} V{reverse} the letters P{of words} M{when trying to read} V{suffer} P{from dyslexia}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c12",
+      "position": 12,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "completion",
+      "text": "Featured at the Henry Ford Museum _____ of antique cars dating from 1865.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is an exhibit"
+        },
+        {
+          "id": "B",
+          "text": "an exhibit"
+        },
+        {
+          "id": "C",
+          "text": "an exhibit is"
+        },
+        {
+          "id": "D",
+          "text": "which is an exhibit"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Frasa tempat di depan kalimat memicu inversi: verb dulu, subject sesudahnya ('is an exhibit'). Subject asli: 'an exhibit'.",
+      "hints": [
+        "'Featured at the Henry Ford Museum' itu penerang. Di mana subject dan verbnya?",
+        "Frasa tempat di awal sering diikuti inversi.",
+        "A 'is an exhibit'. Subject 'an exhibit' muncul setelah verb."
+      ],
+      "xray": {
+        "marked": "M{Featured at the Henry Ford Museum} V{is} S{an exhibit} P{of antique cars} M{dating from 1865}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c13",
+      "position": 13,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "Rubber _____ from vulcanized silicones with a high molecular weight is difficult to distinguish from natural rubber.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is produced"
+        },
+        {
+          "id": "B",
+          "text": "producing"
+        },
+        {
+          "id": "C",
+          "text": "that produces"
+        },
+        {
+          "id": "D",
+          "text": "produced"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Verb sejati 'is' sudah ada. Bagian kosong harus penerang: 'produced' (-ed tanpa be/have, bermakna pasif).",
+      "hints": [
+        "Verb sejati mana yang sudah ada?",
+        "Karena 'is' sudah ada, yang kosong harus penerang. Rubber 'dihasilkan' atau 'menghasilkan'?",
+        "D 'produced'. 'is produced' menambah verb, 'that produces' maknanya terbalik."
+      ],
+      "xray": {
+        "marked": "S{Rubber} M{produced from vulcanized silicones with a high molecular weight} V{is} difficult M{to distinguish from natural rubber}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c14",
+      "position": 14,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "_____ appears considerably larger at the horizon than it does overhead is merely an optical illusion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon"
+        },
+        {
+          "id": "B",
+          "text": "That the Moon"
+        },
+        {
+          "id": "C",
+          "text": "When the Moon"
+        },
+        {
+          "id": "D",
+          "text": "The Moon which"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Seluruh bagian sampai 'overhead' adalah subject dari 'is'. Subject berupa klausa, jadi butuh noun clause connector: 'That the Moon appears ...'.",
+      "hints": [
+        "Verb utama kalimat adalah 'is'. Apa subjectnya?",
+        "Subject-nya panjang dan punya verb sendiri ('appears'). Bentuk apa yang bisa jadi subject?",
+        "B 'That the Moon'. 'When' membuat klausa keterangan, bukan subject."
+      ],
+      "xray": {
+        "marked": "S{That the Moon appears considerably larger at the horizon than it does overhead} V{is} merely an optical illusion."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    },
+    {
+      "id": "str-diag-c15",
+      "position": 15,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "completion",
+      "text": "According to the World Health Organization, _____ any of the six most dangerous diseases to break out, it could be cause for quarantine.",
+      "options": [
+        {
+          "id": "A",
+          "text": "were"
+        },
+        {
+          "id": "B",
+          "text": "they were"
+        },
+        {
+          "id": "C",
+          "text": "there were"
+        },
+        {
+          "id": "D",
+          "text": "were they"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Pengandaian tanpa 'if' memakai inversi: 'were any of ... to break out' sama dengan 'if any of ... were to break out'.",
+      "hints": [
+        "Kata 'if' tidak ada, tapi ada kondisi. Bentuk apa yang menggantikannya?",
+        "Inversi kondisional memakai were / had / should di depan subject.",
+        "A 'were'. Urutannya verb (were) lalu subject (any of the six ...)."
+      ],
+      "xray": {
+        "marked": "P{According to the World Health Organization}, V{were} S{any of the six most dangerous diseases} M{to break out}, S{it} V{could be} cause P{for quarantine}.",
+        "implicitConnectors": 1,
+        "note": "Inversi kondisional menggantikan 'if', jadi connector tersirat."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 40
+    }
+  ]
+}

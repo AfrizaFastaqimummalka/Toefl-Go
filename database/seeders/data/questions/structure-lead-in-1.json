@@ -1,0 +1,313 @@
+{
+  "lesson": "structure-subject-verb/lead-in-1",
+  "questions": [
+    {
+      "id": "str-lead1-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "error-find",
+      "text": "For three weeks at the beginning of the semester students with fewer than the maximum number of units can add additional courses.",
+      "segments": [
+        "For three weeks",
+        "at the beginning of the semester",
+        "students",
+        "with fewer than the maximum number of units",
+        "can add additional courses"
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. Subject 'students', verb sejati 'can add'. Dua frasa depan di awal dan 'with fewer than ...' hanya penerang.",
+      "hints": [
+        "Ada berapa klausa di kalimat ini?",
+        "Coret frasa depan dulu, lalu cari bagian yang membawa tense. Apa subjectnya?",
+        "Kalimat sudah benar: satu subject 'students' dan satu verb 'can add'. 'with fewer than ...' hanya penerang."
+      ],
+      "xray": {
+        "marked": "P{For three weeks} P{at the beginning of the semester} S{students} P{with fewer than the maximum number of units} V{can add} additional courses."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "error-find",
+      "text": "On her lunch hour went to a nearby department store to purchase a wedding gift.",
+      "segments": [
+        "On her lunch hour",
+        "went",
+        "to a nearby department store",
+        "to purchase a wedding gift"
+      ],
+      "answer": {
+        "kind": "missing",
+        "what": "subject",
+        "fix": "On her lunch hour she went to a nearby department store to purchase a wedding gift."
+      },
+      "explanation": "Subject hilang. 'On her lunch hour' frasa depan, bukan subject. Tambahkan 'she' sebelum 'went'.",
+      "hints": [
+        "Siapa yang melakukan 'went'? Ada ke mana subjectnya?",
+        "Coret 'On her lunch hour' dan 'to a nearby ...'. Masih ada kata benda atau pronoun sebelum 'went'?",
+        "Subject hilang. Tambahkan 'she' sebelum 'went'."
+      ],
+      "xray": {
+        "marked": "P{On her lunch hour} V{went} P{to a nearby department store} M{to purchase a wedding gift}.",
+        "fixedMarked": "P{On her lunch hour} S{she} V{went} P{to a nearby department store} M{to purchase a wedding gift}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "The fir trees were grown for the holiday season were harvested in November.",
+      "segments": [
+        "The fir trees",
+        "were grown",
+        "for the holiday season",
+        "were harvested",
+        "in November"
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "grown"
+      },
+      "explanation": "Satu subject, dua verb sejati tanpa connector. Jadikan 'grown' penerang (buang 'were') atau tambah 'that' sebelum 'were grown'.",
+      "hints": [
+        "Ada berapa klausa? Ada connector?",
+        "Cari bagian yang membawa tense. Ada berapa?",
+        "'were grown' dan 'were harvested' sama-sama verb sejati, subject cuma satu. Buang 'were' pada bagian kedua."
+      ],
+      "xray": {
+        "marked": "S{The fir trees} V{were grown} P{for the holiday season} V{were harvested} P{in November}.",
+        "fixedMarked": "S{The fir trees} M{grown for the holiday season} V{were harvested} P{in November}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "In the grove the overripe oranges were falling on the ground.",
+      "segments": [
+        "In the grove",
+        "the overripe oranges",
+        "were falling",
+        "on the ground"
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'were falling' = be + -ing, jadi verb sejati. Subject 'the overripe oranges'.",
+      "hints": [
+        "Coret frasa depan 'In the grove' dan 'on the ground'.",
+        "Cek 'falling': ada be sebelumnya?",
+        "Benar. 'were' mendampingi 'falling', jadi 'were falling' verb sejati."
+      ],
+      "xray": {
+        "marked": "P{In the grove} S{the overripe oranges} V{were falling} P{on the ground}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "The papers being delivered at 4:00 will contain the announcement of the president's resignation.",
+      "segments": [
+        "The papers",
+        "being delivered at 4:00",
+        "will contain",
+        "the announcement of the president's resignation"
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'being delivered' tidak membawa tense (tidak ada be yang memegang tense), jadi hanya penerang. Verb sejati: 'will contain'.",
+      "hints": [
+        "Hati-hati 'being delivered': ada be yang membawa tense?",
+        "'being' sendiri tidak membawa tense. Cari verb yang membawa tense setelah penerang itu.",
+        "Benar. 'being delivered at 4:00' penerang, verb sejati 'will contain'."
+      ],
+      "xray": {
+        "marked": "S{The papers} M{being delivered at 4:00} V{will contain} the announcement P{of the president's resignation}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "A specialty shop with various blends from around the world in the shopping mall.",
+      "segments": [
+        "A specialty shop",
+        "with various blends",
+        "from around the world",
+        "in the shopping mall"
+      ],
+      "answer": {
+        "kind": "missing",
+        "what": "verb",
+        "fix": "A specialty shop with various blends from around the world is in the shopping mall."
+      },
+      "explanation": "Verb hilang. Setelah semua frasa depan dicoret, hanya ada subject. Tambahkan 'is' sebelum 'in the shopping mall'.",
+      "hints": [
+        "Coret semua frasa depan: with..., from..., in....",
+        "Setelah dicoret, ada kata yang membawa tense?",
+        "Verb hilang. Tambahkan 'is' sebelum 'in the shopping mall'."
+      ],
+      "xray": {
+        "marked": "S{A specialty shop} P{with various blends} P{from around the world} P{in the shopping mall}.",
+        "fixedMarked": "S{A specialty shop} P{with various blends} P{from around the world} V{is} P{in the shopping mall}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "The portraits exhibited in the Houston Museum last month are now on display in Dallas.",
+      "segments": [
+        "The portraits",
+        "exhibited in the Houston Museum last month",
+        "are",
+        "now on display in Dallas"
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'exhibited ...' tanpa be/have adalah penerang untuk 'portraits'. Verb sejati: 'are'.",
+      "hints": [
+        "Cek 'exhibited': ada be atau have sebelumnya?",
+        "Tanpa be/have, 'exhibited ...' berfungsi sebagai apa?",
+        "Benar. 'exhibited in the Houston Museum last month' penerang, verb sejati 'are'."
+      ],
+      "xray": {
+        "marked": "S{The portraits} M{exhibited in the Houston Museum last month} V{are} now P{on display} P{in Dallas}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "error-find",
+      "text": "With a sudden jerk of his hand threw the ball across the field to one of the other players.",
+      "segments": [
+        "With a sudden jerk of his hand",
+        "threw",
+        "the ball",
+        "across the field",
+        "to one of the other players"
+      ],
+      "answer": {
+        "kind": "missing",
+        "what": "subject",
+        "fix": "With a sudden jerk of his hand he threw the ball across the field to one of the other players."
+      },
+      "explanation": "Subject hilang. 'With a sudden jerk of his hand' frasa depan, dan 'hand' adalah object of preposition, bukan subject. Tambahkan 'he'.",
+      "hints": [
+        "'hand' di awal itu subject atau bagian frasa depan?",
+        "Coret 'With a sudden jerk of his hand'. Siapa yang 'threw'?",
+        "Subject hilang. Tambahkan 'he' sebelum 'threw'."
+      ],
+      "xray": {
+        "marked": "P{With a sudden jerk of his hand} V{threw} the ball P{across the field} P{to one of the other players}.",
+        "fixedMarked": "P{With a sudden jerk of his hand} S{he} V{threw} the ball P{across the field} P{to one of the other players}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "error-find",
+      "text": "Construction of the housing development it will be underway by the first of the month.",
+      "segments": [
+        "Construction of the housing development",
+        "it",
+        "will be",
+        "underway by the first of the month"
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "(hapus 'it')"
+      },
+      "explanation": "Subject berlebih. 'Construction' sudah jadi subject; 'it' memunculkan subject kedua untuk verb yang sama. Hapus 'it'.",
+      "hints": [
+        "Hitung berapa subject dan berapa verb sejati.",
+        "'Construction' dan 'it' sama-sama kandidat subject. Verb sejatinya berapa?",
+        "Subject berlebih. Hapus 'it'."
+      ],
+      "xray": {
+        "marked": "S{Construction} P{of the housing development} S{it} V{will be} underway P{by the first of the month}.",
+        "fixedMarked": "S{Construction} P{of the housing development} V{will be} underway P{by the first of the month}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-lead1-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "Those applicants returning their completed forms at the earliest date have the highest priority.",
+      "segments": [
+        "Those applicants",
+        "returning their completed forms at the earliest date",
+        "have",
+        "the highest priority"
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'returning ...' tanpa be adalah penerang. Subject 'those applicants', verb sejati 'have'.",
+      "hints": [
+        "Cek 'returning': ada be sebelumnya?",
+        "'returning ... date' tanpa be jadi penerang. Verb sejati mana yang tersisa?",
+        "Benar. Subject 'those applicants', penerang 'returning ...', verb 'have'."
+      ],
+      "xray": {
+        "marked": "S{Those applicants} M{returning their completed forms at the earliest date} V{have} the highest priority."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    }
+  ]
+}

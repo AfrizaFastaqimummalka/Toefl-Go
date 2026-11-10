@@ -1,0 +1,415 @@
+{
+  "lesson": "structure-subject-verb/review-1",
+  "questions": [
+    {
+      "id": "str-rev1-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "The North Platte River _____ from Wyoming into Nebraska.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it flowed"
+        },
+        {
+          "id": "B",
+          "text": "flows"
+        },
+        {
+          "id": "C",
+          "text": "flowing"
+        },
+        {
+          "id": "D",
+          "text": "with flowing water"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Subject sudah ada, kurang satu verb sejati: 'flows'. 'it flowed' menambah subject; 'flowing' tanpa be hanya penerang; 'with flowing water' tidak ada verb.",
+      "hints": [
+        "Kalimat ini butuh apa: subject, verb, atau keduanya?",
+        "Subject sudah ada. Pilih bagian yang membawa tense, tanpa menambah subject.",
+        "B 'flows'. 'it flowed' membuat dua subject; 'flowing' bukan verb tanpa be."
+      ],
+      "xray": {
+        "marked": "S{The North Platte River} V{flows} P{from Wyoming} P{into Nebraska}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "completion",
+      "text": "_____ Biloxi received its name from a Sioux word meaning \"first people.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The city of"
+        },
+        {
+          "id": "B",
+          "text": "Located in"
+        },
+        {
+          "id": "C",
+          "text": "It is in"
+        },
+        {
+          "id": "D",
+          "text": "The tour included"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Verb 'received' sudah ada, yang kurang subject. 'The city of Biloxi' jadi subject. Pilihan lain tidak memberi subject yang benar atau menambah verb.",
+      "hints": [
+        "Kalimat butuh apa? Lihat dulu bagian setelah titik kosong.",
+        "'received' sudah verb sejati. Yang kosong harus berisi kata benda sebagai subject.",
+        "A. 'The city of Biloxi' = subject. 'It is in' dan 'The tour included' menambah verb."
+      ],
+      "xray": {
+        "marked": "S{The city of Biloxi} V{received} its name P{from a Sioux word} M{meaning \"first people.\"}"
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "A pride of lions _____ up to forty lions, including one to three males, several females, and cubs.",
+      "options": [
+        {
+          "id": "A",
+          "text": "can contain"
+        },
+        {
+          "id": "B",
+          "text": "it contains"
+        },
+        {
+          "id": "C",
+          "text": "contain"
+        },
+        {
+          "id": "D",
+          "text": "containing"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Subject 'a pride' (singular) butuh verb sejati: 'can contain'. 'it contains' menambah subject, 'contain' tidak cocok dengan 'pride', 'containing' hanya penerang.",
+      "hints": [
+        "Subject-nya apa? Ingat 'of lions' itu frasa depan.",
+        "Subject 'a pride' singular. Cari verb sejati yang tidak menambah subject.",
+        "A 'can contain'. 'contain' tidak cocok (pride singular), 'containing' bukan verb tanpa be."
+      ],
+      "xray": {
+        "marked": "S{A pride} P{of lions} V{can contain} up to forty lions, M{including one to three males, several females, and cubs}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "completion",
+      "text": "_____ tea plant are small and white.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The"
+        },
+        {
+          "id": "B",
+          "text": "On the"
+        },
+        {
+          "id": "C",
+          "text": "Having flowers the"
+        },
+        {
+          "id": "D",
+          "text": "The flowers of the"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Verb 'are' sudah ada, yang kurang subject: 'The flowers of the tea plant'. 'On the' membuat frasa depan tanpa subject.",
+      "hints": [
+        "Kalimat butuh apa?",
+        "'are' sudah ada. Yang kosong harus membentuk subject plural yang utuh bersama 'tea plant'.",
+        "D. 'The flowers' subject plural cocok dengan 'are'; 'of the tea plant' frasa depan."
+      ],
+      "xray": {
+        "marked": "S{The flowers} P{of the tea plant} V{are} small and white."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "completion",
+      "text": "The tetracyclines, _____ antibiotics, are used to treat infections.",
+      "options": [
+        {
+          "id": "A",
+          "text": "are a family of"
+        },
+        {
+          "id": "B",
+          "text": "being a family"
+        },
+        {
+          "id": "C",
+          "text": "a family of"
+        },
+        {
+          "id": "D",
+          "text": "their family is"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'The tetracyclines' sudah punya verb 'are used'. Di antara dua koma masuk appositive (tanpa verb): 'a family of antibiotics'. 'being a family' tidak punya 'of' sebelum 'antibiotics'.",
+      "hints": [
+        "Perhatikan dua koma. Apa fungsi bagian di antaranya?",
+        "Verb sejati sudah ada ('are used'). Isi koma-koma itu sebaiknya tanpa verb.",
+        "C. Appositive 'a family of antibiotics' menerangkan 'tetracyclines'. A dan D menambah verb."
+      ],
+      "xray": {
+        "marked": "S{The tetracyclines}, M{a family of antibiotics}, V{are used} M{to treat infections}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "Any possible academic assistance from taking stimulants _____ marginal at best.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it is"
+        },
+        {
+          "id": "B",
+          "text": "there is"
+        },
+        {
+          "id": "C",
+          "text": "is"
+        },
+        {
+          "id": "D",
+          "text": "as"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Subject 'any possible academic assistance' sudah lengkap, kurang verb: 'is'. 'it is' menambah subject, 'there is' memunculkan subject baru, 'as' tidak punya verb.",
+      "hints": [
+        "Coret 'from taking stimulants'. Apa yang tersisa?",
+        "Subject ada, verb belum. Pilih yang hanya menambah verb.",
+        "C 'is'. 'it is' dan 'there is' menambah subject kedua."
+      ],
+      "xray": {
+        "marked": "S{Any possible academic assistance} P{from taking stimulants} V{is} marginal P{at best}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 50
+    },
+    {
+      "id": "str-rev1-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "Henry Adams, born in Boston, _____ famous as a historian and novelist.",
+      "options": [
+        {
+          "id": "A",
+          "text": "became"
+        },
+        {
+          "id": "B",
+          "text": "and became"
+        },
+        {
+          "id": "C",
+          "text": "he was"
+        },
+        {
+          "id": "D",
+          "text": "and he became"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'born in Boston' penerang di antara koma. Kurang satu verb sejati: 'became'. Pilihan lain menambah connector atau subject yang tidak perlu.",
+      "hints": [
+        "'born in Boston' di antara koma itu verb atau penerang?",
+        "Penerang sudah ada, tinggal satu verb sejati tanpa tambahan subject.",
+        "A 'became'. 'he was' dan 'and he became' menambah subject kedua."
+      ],
+      "xray": {
+        "marked": "S{Henry Adams}, M{born in Boston}, V{became} famous P{as a historian and novelist}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 51
+    },
+    {
+      "id": "str-rev1-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "The major cause _____ the pull of the Moon on the Earth.",
+      "options": [
+        {
+          "id": "A",
+          "text": "the ocean tides are"
+        },
+        {
+          "id": "B",
+          "text": "of ocean tides is"
+        },
+        {
+          "id": "C",
+          "text": "of the tides in the ocean"
+        },
+        {
+          "id": "D",
+          "text": "the oceans' tides"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Subject 'the major cause', butuh frasa 'of ocean tides' lalu verb 'is'. A menambah subject lain, C dan D tidak punya verb.",
+      "hints": [
+        "Subject 'the major cause' butuh apa supaya kalimat lengkap?",
+        "Subject butuh verb sejati, dan 'of ...' adalah frasa depan.",
+        "B. 'of ocean tides' frasa depan, 'is' verb. A menambah subject baru."
+      ],
+      "xray": {
+        "marked": "S{The major cause} P{of ocean tides} V{is} the pull P{of the Moon} P{on the Earth}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 51
+    },
+    {
+      "id": "str-rev1-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "problem-of-subject",
+      "type": "completion",
+      "text": "Still a novelty in the late nineteenth century, _____ limited to the rich.",
+      "options": [
+        {
+          "id": "A",
+          "text": "was"
+        },
+        {
+          "id": "B",
+          "text": "was photography"
+        },
+        {
+          "id": "C",
+          "text": "it was photography"
+        },
+        {
+          "id": "D",
+          "text": "photography was"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Frasa pembuka 'Still a novelty ...' penerang. Kalimat butuh subject lalu verb, dengan urutan subject dulu: 'photography was'.",
+      "hints": [
+        "Bagian sebelum koma itu subject atau penerang?",
+        "Kalimat butuh subject DAN verb, dengan subject lebih dulu.",
+        "D 'photography was'. B dan C menaruh verb sebelum subject atau menambah subject."
+      ],
+      "xray": {
+        "marked": "M{Still a novelty in the late nineteenth century}, S{photography} V{was limited} P{to the rich}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 51
+    },
+    {
+      "id": "str-rev1-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "completion",
+      "text": "A computerized map of the freeways using information gathered by sensors embedded in the pavement _____ on a local cable channel during rush hours.",
+      "options": [
+        {
+          "id": "A",
+          "text": "airs"
+        },
+        {
+          "id": "B",
+          "text": "airing"
+        },
+        {
+          "id": "C",
+          "text": "to air"
+        },
+        {
+          "id": "D",
+          "text": "air"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'using ...', 'gathered ...', 'embedded ...' semuanya penerang. Subject 'a computerized map' butuh verb sejati: 'airs'. 'air' tidak cocok dengan subject singular.",
+      "hints": [
+        "Banyak sekali -ing dan -ed di kalimat ini. Mana yang membawa tense?",
+        "Semua -ing/-ed tanpa be itu penerang. Subject 'a computerized map' belum punya verb.",
+        "A 'airs'. 'airing' dan 'to air' bukan verb sejati; 'air' tidak cocok dengan subject singular."
+      ],
+      "xray": {
+        "marked": "S{A computerized map} P{of the freeways} M{using information gathered by sensors embedded in the pavement} V{airs} P{on a local cable channel} P{during rush hours}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 51
+    }
+  ]
+}
