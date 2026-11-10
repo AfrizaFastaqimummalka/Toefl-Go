@@ -1,6 +1,13 @@
 # toefl-go
 
-Website belajar TOEFL PBT (modul Ade Johan 2018). Laravel 13 + Blade + Alpine.js + Tailwind 4, database NeonDB (PostgreSQL). Status: **Fase 1** (Structure: Subject & Verb, Diagnostic completion).
+Website belajar TOEFL PBT (modul Ade Johan 2018). Laravel 13 + Blade + Alpine.js + Tailwind 4, database NeonDB (PostgreSQL).
+
+- 🌐 **Live Website**: [https://toefl-go.vercel.app](https://toefl-go.vercel.app)
+- 📦 **GitHub Repository**: [https://github.com/AfrizaFastaqimummalka/Toefl-Go](https://github.com/AfrizaFastaqimummalka/Toefl-Go)
+- 🎨 **Design System**: Modern tech studio aesthetic (Plus Jakarta Sans, electric violet & cosmic indigo mesh, glassmorphic UI)
+- 🚀 **Deployment**: Serverless on Vercel with Neon PostgreSQL (PgBouncer connection pooling)
+
+Status: **Fase 1** (Structure: Subject & Verb, Diagnostic completion).
 
 ## Menjalankan
 
