@@ -30,7 +30,7 @@ return [
 
     'gemini' => [
         'key' => env('GEMINI_API_KEY'),
-        'model' => env('GEMINI_MODEL', 'gemini-3.8-flash'),
+        'model' => env('GEMINI_MODEL', 'gemini-3.5-flash-lite'),
         'timeout' => 25,
         'per_minute' => (int) env('TUTOR_PER_MINUTE', 6),
         'per_day' => (int) env('TUTOR_PER_DAY', 100),
