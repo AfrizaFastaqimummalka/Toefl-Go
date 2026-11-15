@@ -11,3 +11,16 @@
 - Gemini: default `gemini-3.8-flash` (GA per dokumentasi Google, Sept 2026). Parameter `temperature/top_p/top_k` tidak dikirim karena sudah dihapus untuk seri 3.x; `thinkingLevel` diset `low` (`minimal` tidak didukung 3.8).
 - Soal Diagnostic completion no. 10 dan seluruh kunci diturunkan dari analisis, bukan dari buku (buku tanpa kunci). Semua soal Fase 1 dicocokkan ke gambar halaman PDF dan kunci [OK] blueprint, jadi `verified: true`. Soal [CEK] akan `verified: false` di fase berikutnya.
 - `node_modules` tidak ikut paket; jalankan `npm install`.
+- Kolom `questions.meta` (JSON) menampung data tambahan per soal: `plain`/`noAlt`/`altCorrectOnly` (error ID), `noBlank`/`script`/`scriptSource` (Listening). Dibaca langsung oleh client lewat `Question::toClient()`.
+- Soal Listening bertipe `completion` dengan `noBlank` (pertanyaan narator ditampilkan sebagai teks). Script disembunyikan sampai soal dijawab.
+- Part B/C: script dicantumkan di tiap soal dalam grup yang sama (duplikasi disengaja supaya soal berdiri sendiri).
+- Simulasi memakai satu komponen (`simulasi.js`) dan satu view; isinya ditentukan `PageController` (Structure 40 soal/25 menit, Listening 55 soal/35 menit). Hasil dikirim lewat `/api/sync` dengan mode `test`.
+- Diagnostic Listening 50 soal sengaja belum dibuat: buku tidak punya audio, script, maupun teks pertanyaan Part C.
+- Tutor AI menerima transkrip audio untuk aksi `explain` dan `similar`, tidak untuk `hint` (supaya tidak bocor).
+- Reading: passage ditulis ulang dengan kata sendiri dari passage buku, dengan pemenggalan baris dibuat sama dengan buku supaya rujukan 'line N' cocok. Soal dan opsi mengikuti buku. Passage disimpan di `meta.passage` per soal. Passage MLK (Review 2) tidak dimasukkan karena rujukan barisnya ambigu di scan.
+- Reading tipe 'reference' memakai pilihan ganda, bukan tap kata ganti. Bisa ditambah nanti.
+- Koreksi esai memakai aksi `essay` di `/api/tutor` (rate limit sama), hasilnya disimpan ke tabel `essays` dan skor diambil dari baris 'Skor: N/6'.
+- Draf esai tersimpan di localStorage per topik. Editor, timer, dan checklist jalan tanpa API key.
+- Kartu kata baru: word-parts, irregular-verbs, phrasal-deck, idiom-deck. Daftar irregular verbs disusun ulang karena tabel di scan buku rusak.
+- ContentSeeder menghapus soal yang sudah tidak ada di JSON (attempts terkait ikut terhapus), supaya soal lama yang diganti tidak menumpuk.
+- Appendix 3-5 memakai kalimat dari buku; opsi makna idiom mengikuti daftar makna di buku, opsi pengecoh lain disusun otomatis.

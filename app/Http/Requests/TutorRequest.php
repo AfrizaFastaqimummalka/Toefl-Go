@@ -14,10 +14,12 @@ class TutorRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'action' => ['required', 'string', 'in:explain,hint,similar,chat'],
+            'action' => ['required', 'string', 'in:explain,hint,similar,chat,essay'],
             'question_code' => ['nullable', 'string', 'max:60', 'exists:questions,code'],
             'user_answer' => ['nullable', 'string', 'max:300'],
             'message' => ['nullable', 'string', 'max:1000', 'required_if:action,chat'],
+            'essay' => ['nullable', 'string', 'max:6000', 'required_if:action,essay'],
+            'topic' => ['nullable', 'string', 'max:400'],
             'history' => ['nullable', 'array', 'max:6'],
             'history.*.role' => ['required_with:history', 'string', 'in:user,model'],
             'history.*.text' => ['required_with:history', 'string', 'max:2000'],

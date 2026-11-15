@@ -1,0 +1,333 @@
+{
+  "lesson": "structure-connector/lead-in-2",
+  "questions": [
+    {
+      "id": "str-lead2-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "Until the registrar makes a decision about your status, you must stay in an unclassified category.",
+      "segments": [
+        "Until",
+        "the registrar makes a decision",
+        "about your status,",
+        "you must stay",
+        "in an unclassified category."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'Until' menyambung dua klausa: 'the registrar makes ...' dan 'you must stay ...'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Hitung klausa: ada dua pasang subject-verb. Ada connector?",
+        "Benar. 'Until' menyambung dua klausa: 'the registrar makes ...' dan 'you must stay ...'."
+      ],
+      "xray": {
+        "marked": "C{Until} S{the registrar} V{makes} a decision P{about your status}, S{you} V{must stay} P{in an unclassified category}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 53,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "Or the bills can be paid by mail by the first of the month.",
+      "segments": [
+        "Or",
+        "the bills can be paid",
+        "by mail",
+        "by the first of the month."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 0,
+        "fix": "(hapus 'Or')"
+      },
+      "explanation": "Hanya ada satu klausa, jadi tidak butuh connector. Hapus 'Or' di awal.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Hanya ada satu pasang subject-verb. Perlu connector?",
+        "Hanya ada satu klausa, jadi tidak butuh connector. Hapus 'Or' di awal."
+      ],
+      "xray": {
+        "marked": "C{Or} S{the bills} V{can be paid} P{by mail} P{by the first of the month}.",
+        "fixedMarked": "S{the bills} V{can be paid} P{by mail} P{by the first of the month}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 53,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "The parents left a phone number with the baby-sitter in case a problem with the children.",
+      "segments": [
+        "The parents left a phone number with the baby-sitter",
+        "in case a problem",
+        "with the children."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "in case there is a problem"
+      },
+      "explanation": "'in case' membuka klausa baru, jadi butuh subject dan verb sendiri: 'there is a problem'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Setelah 'in case', apa subject dan verbnya?",
+        "'in case' membuka klausa baru, jadi butuh subject dan verb sendiri: 'there is a problem'."
+      ],
+      "xray": {
+        "marked": "S{The parents} V{left} a phone number P{with the baby-sitter} C{in case} S{a problem} P{with the children}.",
+        "fixedMarked": "S{The parents} V{left} a phone number P{with the baby-sitter} C{in case} S{there} V{is} a problem P{with the children}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 53,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "The furniture will be delivered as soon it is paid for.",
+      "segments": [
+        "The furniture will be delivered",
+        "as soon",
+        "it is paid for."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "as soon as"
+      },
+      "explanation": "Connector waktu yang benar adalah 'as soon as', bukan 'as soon'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Dua klausa. Connector waktunya lengkap?",
+        "Connector waktu yang benar adalah 'as soon as', bukan 'as soon'."
+      ],
+      "xray": {
+        "marked": "S{The furniture} V{will be delivered} as soon S{it} V{is paid for}.",
+        "fixedMarked": "S{The furniture} V{will be delivered} C{as soon as} S{it} V{is paid for}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 53,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "Whenever you want to hold the meeting, we will schedule it.",
+      "segments": [
+        "Whenever you want to hold the meeting,",
+        "we will schedule it."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'Whenever' menyambung dua klausa.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Hitung klausa dan cari connectornya.",
+        "Benar. 'Whenever' menyambung dua klausa."
+      ],
+      "xray": {
+        "marked": "C{Whenever} S{you} V{want} M{to hold the meeting}, S{we} V{will schedule} it."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 53,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "The racquet with whom I was playing was too big and too heavy for me.",
+      "segments": [
+        "The racquet",
+        "with whom",
+        "I was playing",
+        "was too big and too heavy for me."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "with which"
+      },
+      "explanation": "'racquet' adalah benda, jadi pakai 'which'. 'whom' hanya untuk orang.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Connector ini merujuk ke benda atau orang?",
+        "'racquet' adalah benda, jadi pakai 'which'. 'whom' hanya untuk orang."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 54,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "I will never understand that he did.",
+      "segments": [
+        "I will never understand",
+        "that",
+        "he did."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "what"
+      },
+      "explanation": "'he did' kekurangan object. Noun clause 'what he did' memenuhi kebutuhan itu; 'that' butuh klausa lengkap.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Klausa 'he did' sudah lengkap? Ada yang kurang?",
+        "'he did' kekurangan object. Noun clause 'what he did' memenuhi kebutuhan itu; 'that' butuh klausa lengkap."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 54,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "He was still sick was obvious to the entire medical staff.",
+      "segments": [
+        "He was still sick",
+        "was obvious",
+        "to the entire medical staff."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 0,
+        "fix": "That he was still sick"
+      },
+      "explanation": "Klausa 'he was still sick' dipakai sebagai subject, jadi butuh noun connector 'That' di depannya.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Ada dua verb ('was ... was'). Apa subject untuk 'was obvious'?",
+        "Klausa 'he was still sick' dipakai sebagai subject, jadi butuh noun connector 'That' di depannya."
+      ],
+      "xray": {
+        "marked": "S{He} V{was} still sick V{was} obvious P{to the entire medical staff}.",
+        "fixedMarked": "S{That he was still sick} V{was} obvious P{to the entire medical staff}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "What is most important in this situation it is to finish on time.",
+      "segments": [
+        "What is most important in this situation",
+        "it",
+        "is to finish on time."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "(hapus 'it')"
+      },
+      "explanation": "'What is most important in this situation' sudah menjadi subject. 'it' menambah subject kedua.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Hitung subject dan verb sejati.",
+        "'What is most important in this situation' sudah menjadi subject. 'it' menambah subject kedua."
+      ],
+      "xray": {
+        "marked": "S{What is most important in this situation} S{it} V{is} to finish on time.",
+        "fixedMarked": "S{What is most important in this situation} V{is} to finish on time."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead2-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "error-find",
+      "text": "The newspapers that were piled up on the front porch were an indication that the residents had not been home in some time.",
+      "segments": [
+        "The newspapers that were piled up on the front porch",
+        "were an indication",
+        "that the residents had not been home in some time."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'that' pertama (adjective clause, sekaligus subject) dan 'that' kedua (noun clause) sama-sama punya connector.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Hitung klausa, lalu cek tiap 'that'.",
+        "Benar. 'that' pertama (adjective clause, sekaligus subject) dan 'that' kedua (noun clause) sama-sama punya connector."
+      ],
+      "xray": {
+        "marked": "S{The newspapers} R{that} V{were piled up} P{on the front porch} V{were} an indication C{that} S{the residents} V{had not been} home P{in some time}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    }
+  ]
+}

@@ -24,6 +24,7 @@ class SyncAttemptsRequest extends FormRequest
             'attempts.*.hints_used' => ['required', 'integer', 'min:0', 'max:3'],
             'attempts.*.time_ms' => ['nullable', 'integer', 'min:0', 'max:3600000'],
             'attempts.*.at' => ['nullable', 'date'],
+            'attempts.*.mode' => ['sometimes', 'string', 'in:practice,review,test'],
         ];
     }
 }

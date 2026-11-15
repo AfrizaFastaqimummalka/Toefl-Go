@@ -26,11 +26,24 @@ class ContentDataTest extends TestCase
                 if ($q['type'] === 'completion') {
                     $ids = array_column($q['options'], 'id');
                     $this->assertContains($q['answer']['option'], $ids, $q['id']);
-                    $this->assertStringContainsString('_____', $q['text'], $q['id']);
+                    if (empty($q['meta']['noBlank'])) {
+                        $this->assertStringContainsString('_____', $q['text'], $q['id']);
+                    }
+                    if (isset($q['meta']['script'])) {
+                        $this->assertNotEmpty($q['meta']['script'], $q['id'].' butuh script');
+                        $this->assertContains($q['meta']['scriptSource'], ['book', 'reconstructed'], $q['id']);
+                        if ($q['meta']['scriptSource'] === 'reconstructed') {
+                            $this->assertFalse($q['verified'], $q['id'].' rekonstruksi tidak boleh verified');
+                        }
+                    }
+                    if (isset($q['meta']['passage'])) {
+                        $this->assertNotEmpty($q['meta']['passage']['lines'], $q['id'].' passage kosong');
+                    }
                 } else {
                     $this->assertContains($q['answer']['kind'], ['segment', 'missing', 'correct'], $q['id']);
                     if ($q['answer']['kind'] === 'segment') {
                         $this->assertArrayHasKey($q['answer']['index'], $q['segments'], $q['id']);
+                        $this->assertNotContains($q['answer']['index'], $q['meta']['plain'] ?? [], $q['id'].' kunci di segmen non-tap');
                     }
                 }
             }

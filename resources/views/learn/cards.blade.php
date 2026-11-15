@@ -3,7 +3,7 @@
 @section('content')
     <a href="{{ route('practice') }}" class="back">← Latihan</a>
     @php
-        $names = ['verb-forms' => 'Bentuk verb', 'connector-time' => 'Time', 'connector-cause' => 'Cause', 'connector-noun' => 'Noun clause', 'connector-adjective' => 'Adjective clause'];
+        $names = ['verb-forms' => 'Bentuk verb', 'connector-time' => 'Time', 'connector-cause' => 'Cause', 'connector-noun' => 'Noun clause', 'connector-adjective' => 'Adjective clause', 'inversion-negative' => 'Negative', 'paired-conjunction' => 'Paired', 'usage-like-other' => 'Like/other', 'word-parts' => 'Word parts', 'irregular-verbs' => 'Irregular', 'phrasal-deck' => 'Phrasal', 'idiom-deck' => 'Idiom'];
     @endphp
     <h1 class="page-title" style="margin-top:4px">Kartu kata</h1>
     <div class="reco-tabs" style="margin-bottom:14px">

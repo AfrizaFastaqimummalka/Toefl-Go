@@ -29,4 +29,9 @@
             </a>
         @endforeach
     </div>
+    @if ($chapter->slug === 'writing-twe')
+        <a class="card card-link" href="{{ route('write') }}" style="margin-top:12px">
+            <div class="chapter-row"><div style="flex:1"><h3>Tulis esai (30 menit)</h3><p class="small muted">Editor dengan timer, checklist, dan koreksi AI</p></div><span class="badge">Mulai</span></div>
+        </a>
+    @endif
 @endsection

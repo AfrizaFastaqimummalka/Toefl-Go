@@ -1,0 +1,414 @@
+{
+  "lesson": "structure-passive-usage/review-5",
+  "questions": [
+    {
+      "id": "str-rev5-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "completion",
+      "text": "_____ discussed by the board of directors when it was proposed again by the supervisors.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The problem had already"
+        },
+        {
+          "id": "B",
+          "text": "The problem is already"
+        },
+        {
+          "id": "C",
+          "text": "The problem had already been"
+        },
+        {
+          "id": "D",
+          "text": "The problem has already"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'discussed' butuh be + past participle (passive). Dengan 'had already been discussed' waktunya cocok dengan 'was proposed'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "'discussed' diikuti 'by ...'. Aktif atau passive?",
+        "Jawaban C. 'discussed' butuh be + past participle (passive). Dengan 'had already been discussed' waktunya cocok dengan 'was proposed'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62
+    },
+    {
+      "id": "str-rev5-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "completion",
+      "text": "Much of the carnage of elephants, giraffes, and big cats _____ uncaring hunters.",
+      "options": [
+        {
+          "id": "A",
+          "text": "must commit by"
+        },
+        {
+          "id": "B",
+          "text": "must be committed"
+        },
+        {
+          "id": "C",
+          "text": "must have committed"
+        },
+        {
+          "id": "D",
+          "text": "must have been committed by"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Carnage 'dilakukan' oleh pemburu: passive perfect modal + 'by' untuk pelaku: must have been committed by.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Ada 'uncaring hunters' sebagai pelaku. Aktif atau passive? Pelaku butuh kata apa?",
+        "Jawaban D. Carnage 'dilakukan' oleh pemburu: passive perfect modal + 'by' untuk pelaku: must have been committed by."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62
+    },
+    {
+      "id": "str-rev5-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "completion",
+      "text": "The X-ray treatments _____ up to the time that he was dismissed from the hospital.",
+      "options": [
+        {
+          "id": "A",
+          "text": "gave daily"
+        },
+        {
+          "id": "B",
+          "text": "were given daily"
+        },
+        {
+          "id": "C",
+          "text": "basically have given"
+        },
+        {
+          "id": "D",
+          "text": "daily had been given"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Treatments 'diberikan', jadi passive past: were given. 'daily' di akhir sebagai keterangan.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Treatments melakukan atau diberi sesuatu?",
+        "Jawaban B. Treatments 'diberikan', jadi passive past: were given. 'daily' di akhir sebagai keterangan."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62
+    },
+    {
+      "id": "str-rev5-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "The scholarship that Wilson received to study history at Cambridge presented an unique opportunity.",
+      "segments": [
+        "The scholarship",
+        "that Wilson received to study",
+        "history",
+        "at",
+        "Cambridge",
+        "presented",
+        "an",
+        "unique opportunity."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 6,
+        "fix": "a"
+      },
+      "explanation": "'unique' diawali bunyi konsonan /y/, jadi pakai 'a', bukan 'an'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'unique' diawali bunyi konsonan /y/, jadi pakai 'a', bukan 'an'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Observations from Earth indicate that at the solar surface, the outward magnetic field is a strongest at the polar regions .",
+      "segments": [
+        "Observations from Earth indicate that at",
+        "the",
+        "solar surface,",
+        "the outward",
+        "magnetic field is",
+        "a",
+        "strongest at",
+        "the polar regions",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "(hapus 'a')"
+      },
+      "explanation": "Superlatif 'strongest' tidak diawali 'a'. Hapus artikel itu.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Superlatif 'strongest' tidak diawali 'a'. Hapus artikel itu."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "A radar images of Venus add details about a planet dominated by volcanoes and lava .",
+      "segments": [
+        "A radar",
+        "images of Venus add",
+        "details",
+        "about",
+        "a planet",
+        "dominated by",
+        "volcanoes and lava",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 0,
+        "fix": "Radar"
+      },
+      "explanation": "'images' jamak, jadi 'A' tidak boleh dipakai di depannya: Radar images.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'images' jamak, jadi 'A' tidak boleh dipakai di depannya: Radar images."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Pittsburgh has reduced its smog by requiring more complete oxidation of fuel in cars, and others cities can do the same thing.",
+      "segments": [
+        "Pittsburgh has reduced",
+        "its",
+        "smog by requiring",
+        "more",
+        "complete oxidation of fuel in cars, and",
+        "others",
+        "cities can",
+        "do",
+        "the same thing."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "other"
+      },
+      "explanation": "'others' adalah pronoun tanpa noun. Sebelum noun 'cities' pakai 'other'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'others' adalah pronoun tanpa noun. Sebelum noun 'cities' pakai 'other'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Alike all other mammals, dolphins have lungs.",
+      "segments": [
+        "Alike",
+        "all",
+        "other",
+        "mammals, dolphins",
+        "have",
+        "lungs."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 0,
+        "fix": "Like"
+      },
+      "explanation": "Di awal kalimat dan diikuti objek, pakai preposisi 'Like', bukan 'Alike'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Di awal kalimat dan diikuti objek, pakai preposisi 'Like', bukan 'Alike'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Particles with unlike charges attract each other, while particles with alike charges repel each other .",
+      "segments": [
+        "Particles with",
+        "unlike",
+        "charges attract each other,",
+        "while",
+        "particles with",
+        "alike",
+        "charges repel each",
+        "other",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "like"
+      },
+      "explanation": "Sebelum noun 'charges' pakai adjective 'like'. 'alike' hanya setelah linking verb.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Sebelum noun 'charges' pakai adjective 'like'. 'alike' hanya setelah linking verb."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev5-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "One another surprising method of forest conservation is controlled cutting of trees.",
+      "segments": [
+        "One another",
+        "surprising",
+        "method of forest",
+        "conservation is",
+        "controlled cutting",
+        "of trees."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 0,
+        "fix": "Another"
+      },
+      "explanation": "'One' dan 'another' tidak dipakai bersama. Cukup 'Another surprising method ...'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'One' dan 'another' tidak dipakai bersama. Cukup 'Another surprising method ...'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 63,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          2,
+          5
+        ]
+      }
+    }
+  ]
+}

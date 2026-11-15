@@ -8,7 +8,7 @@ class Question extends Model
 {
     protected $fillable = [
         'code', 'lesson_id', 'position', 'section', 'testing_point', 'type', 'text', 'options',
-        'segments', 'answer', 'explanation', 'hints', 'xray', 'verified', 'note', 'source_page',
+        'segments', 'answer', 'explanation', 'hints', 'xray', 'verified', 'note', 'source_page', 'meta',
     ];
 
     protected function casts(): array
@@ -19,6 +19,7 @@ class Question extends Model
             'answer' => 'array',
             'hints' => 'array',
             'xray' => 'array',
+            'meta' => 'array',
             'verified' => 'boolean',
         ];
     }
@@ -31,7 +32,7 @@ class Question extends Model
     /** Bentuk yang dikirim ke browser (kunci ikut, supaya umpan balik instan). */
     public function toClient(): array
     {
-        return [
+        return array_merge($this->meta ?? [], [
             'code' => $this->code,
             'section' => $this->section,
             'testingPoint' => $this->testing_point,
@@ -46,6 +47,6 @@ class Question extends Model
             'verified' => $this->verified,
             'note' => $this->note,
             'sourcePage' => $this->source_page,
-        ];
+        ]);
     }
 }

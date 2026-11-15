@@ -1,0 +1,415 @@
+{
+  "lesson": "structure-connector/review-2",
+  "questions": [
+    {
+      "id": "str-rev2-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "The president of the U.S. appoints the cabinet members, _____ appointments are subject to Senate approval.",
+      "options": [
+        {
+          "id": "A",
+          "text": "their"
+        },
+        {
+          "id": "B",
+          "text": "with their"
+        },
+        {
+          "id": "C",
+          "text": "because their"
+        },
+        {
+          "id": "D",
+          "text": "but their"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Dua klausa butuh connector yang bermakna pas. 'but' menyambung (kontras: presiden menunjuk, tetapi Senat menyetujui). 'because' tidak logis.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Ada dua klausa. Connector mana yang artinya masuk akal?",
+        "Jawaban D. Dua klausa butuh connector yang bermakna pas. 'but' menyambung (kontras: presiden menunjuk, tetapi Senat menyetujui). 'because' tidak logis."
+      ],
+      "xray": {
+        "marked": "S{The president} P{of the U.S.} V{appoints} the cabinet members, C{but} S{their appointments} V{are} subject P{to Senate approval}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "The prisoners were prevented from speaking to reporters because _____",
+      "options": [
+        {
+          "id": "A",
+          "text": "not wanting the story in the papers."
+        },
+        {
+          "id": "B",
+          "text": "the story in the papers the superintendent did not want"
+        },
+        {
+          "id": "C",
+          "text": "the public to hear the story"
+        },
+        {
+          "id": "D",
+          "text": "the superintendent did not want the story in the papers"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Setelah 'because' butuh klausa lengkap (subject + verb). Hanya D yang berurutan benar: subject 'the superintendent', verb 'did not want'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Setelah 'because' butuh subject dan verb. Mana yang lengkap dan berurutan benar?",
+        "Jawaban D. Setelah 'because' butuh klausa lengkap (subject + verb). Hanya D yang berurutan benar: subject 'the superintendent', verb 'did not want'."
+      ],
+      "xray": {
+        "marked": "S{The prisoners} V{were prevented} P{from speaking to reporters} C{because} S{the superintendent} V{did not want} the story P{in the papers}"
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "Like Thomas Berger's fictional character Little Big Man, Lauderdale managed to find himself where _____ of important events took place.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it was an extraordinary number"
+        },
+        {
+          "id": "B",
+          "text": "there was an extraordinary number"
+        },
+        {
+          "id": "C",
+          "text": "an extraordinary number"
+        },
+        {
+          "id": "D",
+          "text": "an extraordinary number existed"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'where' sudah jadi connector. Verb 'took place' sudah ada, jadi yang kurang hanya subject: 'an extraordinary number'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Verb 'took place' sudah ada. Yang kosong berisi apa?",
+        "Jawaban C. 'where' sudah jadi connector. Verb 'took place' sudah ada, jadi yang kurang hanya subject: 'an extraordinary number'."
+      ],
+      "xray": {
+        "marked": "P{Like Thomas Berger's fictional character Little Big Man}, S{Lauderdale} V{managed} M{to find himself} C{where} S{an extraordinary number} P{of important events} V{took} place."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "_____ sucked groundwater from below, some parts of the city have begun to sink as much as ten inches annually.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pumps have"
+        },
+        {
+          "id": "B",
+          "text": "As pumps have"
+        },
+        {
+          "id": "C",
+          "text": "So pumps have"
+        },
+        {
+          "id": "D",
+          "text": "With pumps"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Klausa pertama butuh connector sebab-akibat: 'As'. 'So' tidak dipakai di awal kalimat begini, dan 'With pumps' tidak punya verb.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Dua klausa dipisah koma. Apa yang hilang di klausa pertama?",
+        "Jawaban B. Klausa pertama butuh connector sebab-akibat: 'As'. 'So' tidak dipakai di awal kalimat begini, dan 'With pumps' tidak punya verb."
+      ],
+      "xray": {
+        "marked": "C{As} S{pumps} V{have sucked} groundwater P{from below}, S{some parts} P{of the city} V{have begun} M{to sink as much as ten inches annually}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "Case studies are the target of much skepticism in the scientific community, _____ used extensively by numerous researchers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "they are"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "yet they"
+        },
+        {
+          "id": "D",
+          "text": "yet they are"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Setelah koma, klausa kedua butuh connector, subject, dan verb: 'yet they are'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Klausa kedua butuh tiga hal: connector, subject, verb. Mana yang punya semuanya?",
+        "Jawaban D. Setelah koma, klausa kedua butuh connector, subject, dan verb: 'yet they are'."
+      ],
+      "xray": {
+        "marked": "S{Case studies} V{are} the target P{of much skepticism} P{in the scientific community}, C{yet} S{they} V{are used} extensively P{by numerous researchers}."
+      },
+      "verified": true,
+      "note": null,
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "A cloud's reservoir of negative charge extends upward from the altitude at _____ the freezing point.",
+      "options": [
+        {
+          "id": "A",
+          "text": "temperatures hit"
+        },
+        {
+          "id": "B",
+          "text": "hit temperatures"
+        },
+        {
+          "id": "C",
+          "text": "which temperatures hit"
+        },
+        {
+          "id": "D",
+          "text": "which hit temperatures"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Adjective clause setelah 'at' butuh connector 'which', lalu subject 'temperatures' dan verb 'hit'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Setelah 'at' butuh connector, subject, lalu verb dalam urutan biasa.",
+        "Jawaban C. Adjective clause setelah 'at' butuh connector 'which', lalu subject 'temperatures' dan verb 'hit'."
+      ],
+      "xray": {
+        "marked": "S{A cloud's reservoir} P{of negative charge} V{extends} upward P{from the altitude at} C{which} S{temperatures} V{hit} the freezing point."
+      },
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis; opsi sudah dicocokkan ke gambar halaman.",
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "In a 1988 advanced officers' training program, Sampson developed a plan to incorporate police in enforcing environmental protection laws whenever _____ feasible.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it is"
+        },
+        {
+          "id": "B",
+          "text": "is"
+        },
+        {
+          "id": "C",
+          "text": "has"
+        },
+        {
+          "id": "D",
+          "text": "it has"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'whenever' menyambung klausa baru yang butuh subject dan verb: 'it is feasible'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Setelah 'whenever' butuh subject dan verb sekaligus.",
+        "Jawaban A. 'whenever' menyambung klausa baru yang butuh subject dan verb: 'it is feasible'."
+      ],
+      "xray": {
+        "marked": "P{In a 1988 advanced officers' training program}, S{Sampson} V{developed} a plan M{to incorporate police in enforcing environmental protection laws} C{whenever} S{it} V{is} feasible."
+      },
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis (bentuk singkat 'whenever feasible' juga lazim, tapi tidak ada di opsi).",
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "_____ will be carried in the next space shuttle payload has not yet been announced to the public.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It"
+        },
+        {
+          "id": "B",
+          "text": "What"
+        },
+        {
+          "id": "C",
+          "text": "When"
+        },
+        {
+          "id": "D",
+          "text": "That"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Seluruh bagian sampai 'payload' adalah subject dari 'has not yet been announced'. Noun clause dengan 'What' = 'the thing that'; verb 'will be carried' butuh subject dari connector itu.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Verb utamanya 'has ... been announced'. Apa subject yang panjang itu?",
+        "Jawaban B. Seluruh bagian sampai 'payload' adalah subject dari 'has not yet been announced'. Noun clause dengan 'What' = 'the thing that'; verb 'will be carried' butuh subject dari connector itu."
+      ],
+      "xray": {
+        "marked": "S{What will be carried in the next space shuttle payload} V{has not yet been announced} P{to the public}."
+      },
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis.",
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "During free fall, _____ up to a full minute, a skydiver will fall at a constant speed of 120 m.p.h.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it is"
+        },
+        {
+          "id": "B",
+          "text": "which is"
+        },
+        {
+          "id": "C",
+          "text": "being"
+        },
+        {
+          "id": "D",
+          "text": "is"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Bagian di antara koma menerangkan 'free fall' dan punya verb sendiri, jadi butuh connector sekaligus subject: 'which is'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Bagian di antara koma punya verb 'is' dan menerangkan 'free fall'. Connector apa yang cocok?",
+        "Jawaban B. Bagian di antara koma menerangkan 'free fall' dan punya verb sendiri, jadi butuh connector sekaligus subject: 'which is'."
+      ],
+      "xray": {
+        "marked": "P{During free fall}, R{which} V{is} up to a full minute, S{a skydiver} V{will fall} at a constant speed P{of 120 m.p.h.}"
+      },
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis.",
+      "sourcePage": 54
+    },
+    {
+      "id": "str-rev2-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "connector",
+      "type": "completion",
+      "text": "The fact _____ the most important ratings period is about to begin has caused all three networks to shore up their schedules.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is that"
+        },
+        {
+          "id": "B",
+          "text": "of"
+        },
+        {
+          "id": "C",
+          "text": "that"
+        },
+        {
+          "id": "D",
+          "text": "what"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'the fact' diikuti noun clause penjelas. Connectornya 'that', lalu klausa 'the most important ratings period is about to begin'.",
+      "hints": [
+        "Ada berapa klausa? Cek apakah ada connector yang tepat di antaranya.",
+        "Setelah 'the fact' ada klausa lengkap. Connector paling sederhana?",
+        "Jawaban C. 'the fact' diikuti noun clause penjelas. Connectornya 'that', lalu klausa 'the most important ratings period is about to begin'."
+      ],
+      "xray": {
+        "marked": "S{The fact} C{that} S{the most important ratings period} V{is} about to begin V{has caused} all three networks M{to shore up their schedules}."
+      },
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis.",
+      "sourcePage": 54
+    }
+  ]
+}

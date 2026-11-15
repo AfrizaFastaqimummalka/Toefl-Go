@@ -35,9 +35,28 @@
                 {{-- Completion --}}
                 <template x-if="q.type === 'completion'">
                     <div>
-                        <p class="prompt">Lengkapi kalimat</p>
+                        @include('partials.passage')
+                        <p class="prompt" x-text="q.script ? 'Dengarkan, lalu jawab' : (q.passage ? 'Baca passage, lalu jawab' : 'Lengkapi kalimat')"></p>
+                        <div class="audio-box" x-data="audioPlayer" x-show="q.script" x-effect="q; stop()" x-cloak>
+                            <div x-show="supported" class="audio-controls">
+                                <button type="button" class="btn btn-primary btn-sm" x-show="!playing" @click="play(q.script)">▶ Putar audio</button>
+                                <button type="button" class="btn btn-sm" x-show="playing" @click="stop()">■ Berhenti</button>
+                                <label class="audio-rate"><span class="small muted">Kecepatan</span>
+                                    <select x-model.number="rate" class="input" aria-label="Kecepatan audio">
+                                        <option value="0.8">0.8x</option><option value="1">1x</option><option value="1.2">1.2x</option>
+                                    </select>
+                                </label>
+                            </div>
+                            <p class="small muted" x-show="!supported">Browser ini tidak punya suara bawaan, jadi script ditampilkan langsung.</p>
+                            <div class="audio-script" x-show="answered || !supported">
+                                <p class="small" x-show="q.scriptSource === 'reconstructed'" style="color:var(--warn, #b8860b);font-weight:700">Script rekonstruksi (audio di buku tidak tersedia).</p>
+                                <template x-for="(l, idx) in q.script" :key="idx">
+                                    <p class="small"><b x-text="speakerLabel(l[0]) + ': '"></b><span x-text="l[1]"></span></p>
+                                </template>
+                            </div>
+                        </div>
                         <p class="q-text">
-                            <span x-text="parts[0]"></span><span class="blank" :class="answered ? (correct ? 'is-ok' : 'is-bad') : ''" x-text="chosenText || '\u00a0\u00a0\u00a0\u00a0'"></span><span x-text="parts[1]"></span>
+                            <span x-text="parts[0]"></span><span class="blank" x-show="!q.noBlank" :class="answered ? (correct ? 'is-ok' : 'is-bad') : ''" x-text="chosenText || '\u00a0\u00a0\u00a0\u00a0'"></span><span x-text="parts[1]"></span>
                         </p>
                         <div class="options" role="group" aria-label="Pilihan jawaban">
                             <template x-for="o in q.options" :key="o.id">
@@ -62,16 +81,16 @@
                             <template x-for="(s, idx) in q.segments" :key="idx">
                                 <button type="button" class="seg-inline"
                                         :class="answered ? (keyIs({kind: 'segment', index: idx}) ? 'is-ok' : (isSel({kind: 'segment', index: idx}) ? 'is-bad' : '')) : ''"
-                                        :aria-pressed="isSel({kind: 'segment', index: idx})" :disabled="answered" @click="pickSegment(idx)" x-text="s"></button>
+                                        :aria-pressed="isSel({kind: 'segment', index: idx})" :disabled="answered || (q.plain || []).includes(idx)" :data-plain="(q.plain || []).includes(idx)" @click="pickSegment(idx)" x-text="s"></button>
                             </template>
                         </div>
-                        <div class="alt-ctrl" role="group" aria-label="Opsi alternatif">
+                        <div class="alt-ctrl" role="group" aria-label="Opsi alternatif" x-show="!q.noAlt" :class="q.altCorrectOnly ? 'only-one' : ''">
                             <button type="button"
                                     :class="answered ? (keyIs({kind: 'missing', what: 'subject'}) ? 'is-ok' : (isSel({kind: 'missing', what: 'subject'}) ? 'is-bad' : '')) : ''"
-                                    :aria-pressed="isSel({kind: 'missing', what: 'subject'})" :disabled="answered" @click="pickKind('missing', 'subject')">Subject<br>hilang</button>
+                                    :aria-pressed="isSel({kind: 'missing', what: 'subject'})" :disabled="answered" x-show="!q.altCorrectOnly" @click="pickKind('missing', 'subject')">Subject<br>hilang</button>
                             <button type="button"
                                     :class="answered ? (keyIs({kind: 'missing', what: 'verb'}) ? 'is-ok' : (isSel({kind: 'missing', what: 'verb'}) ? 'is-bad' : '')) : ''"
-                                    :aria-pressed="isSel({kind: 'missing', what: 'verb'})" :disabled="answered" @click="pickKind('missing', 'verb')">Verb<br>hilang</button>
+                                    :aria-pressed="isSel({kind: 'missing', what: 'verb'})" :disabled="answered" x-show="!q.altCorrectOnly" @click="pickKind('missing', 'verb')">Verb<br>hilang</button>
                             <button type="button"
                                     :class="answered ? (keyIs({kind: 'correct'}) ? 'is-ok' : (isSel({kind: 'correct'}) ? 'is-bad' : '')) : ''"
                                     :aria-pressed="isSel({kind: 'correct'})" :disabled="answered" @click="pickKind('correct')">Sudah<br>benar</button>

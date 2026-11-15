@@ -1,0 +1,635 @@
+{
+  "lesson": "writing-appendix/active-passive",
+  "questions": [
+    {
+      "id": "app-ap-01",
+      "position": 1,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The team won the game in the final seconds.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The game was won by the team in the final seconds."
+        },
+        {
+          "id": "B",
+          "text": "The game won the team in the final seconds."
+        },
+        {
+          "id": "C",
+          "text": "The game is won by the team in the final seconds."
+        },
+        {
+          "id": "D",
+          "text": "The game has won by the team in the final seconds."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The game was won by the team in the final seconds.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban A. The game was won by the team in the final seconds."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-02",
+      "position": 2,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Someone is taking photographs of the wedding.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photographs of the wedding are taken."
+        },
+        {
+          "id": "B",
+          "text": "Photographs of the wedding are being taken."
+        },
+        {
+          "id": "C",
+          "text": "Photographs of the wedding were being taken."
+        },
+        {
+          "id": "D",
+          "text": "Photographs of the wedding are being took."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"Photographs of the wedding are being taken.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban B. Photographs of the wedding are being taken."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-03",
+      "position": 3,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"She reads the incoming mail daily.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The incoming mail reads by her daily."
+        },
+        {
+          "id": "B",
+          "text": "The incoming mail was read by her daily."
+        },
+        {
+          "id": "C",
+          "text": "The incoming mail is read by her daily."
+        },
+        {
+          "id": "D",
+          "text": "The incoming mail is reading by her daily."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The incoming mail is read by her daily.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban C. The incoming mail is read by her daily."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-04",
+      "position": 4,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Someone should not have shut off the electricity.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The electricity should not be shut off."
+        },
+        {
+          "id": "B",
+          "text": "The electricity should not have shut off."
+        },
+        {
+          "id": "C",
+          "text": "The electricity should not have being shut off."
+        },
+        {
+          "id": "D",
+          "text": "The electricity should not have been shut off."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The electricity should not have been shut off.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban D. The electricity should not have been shut off."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-05",
+      "position": 5,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Someone had already stolen the passport.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The passport had already been stolen."
+        },
+        {
+          "id": "B",
+          "text": "The passport had already stolen."
+        },
+        {
+          "id": "C",
+          "text": "The passport has already been stolen."
+        },
+        {
+          "id": "D",
+          "text": "The passport was already stolen by had."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The passport had already been stolen.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban A. The passport had already been stolen."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-06",
+      "position": 6,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"No one has driven the car in several weeks.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The car has not driven in several weeks."
+        },
+        {
+          "id": "B",
+          "text": "The car has not been driven in several weeks."
+        },
+        {
+          "id": "C",
+          "text": "The car had not been driven in several weeks."
+        },
+        {
+          "id": "D",
+          "text": "The car is not been driven in several weeks."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The car has not been driven in several weeks.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban B. The car has not been driven in several weeks."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-07",
+      "position": 7,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"They could have sold the house at a large profit.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The house could have sold at a large profit."
+        },
+        {
+          "id": "B",
+          "text": "The house could be sold at a large profit."
+        },
+        {
+          "id": "C",
+          "text": "The house could have been sold at a large profit."
+        },
+        {
+          "id": "D",
+          "text": "The house could have been sell at a large profit."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The house could have been sold at a large profit.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban C. The house could have been sold at a large profit."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-08",
+      "position": 8,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The armies will fight the battle soon.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The battle will fight by the armies soon."
+        },
+        {
+          "id": "B",
+          "text": "The battle is fought by the armies soon."
+        },
+        {
+          "id": "C",
+          "text": "The battle will been fought by the armies soon."
+        },
+        {
+          "id": "D",
+          "text": "The battle will be fought by the armies soon."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The battle will be fought by the armies soon.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban D. The battle will be fought by the armies soon."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-09",
+      "position": 9,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The club will hold elections next month.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elections will be held next month by the club."
+        },
+        {
+          "id": "B",
+          "text": "Elections will hold next month by the club."
+        },
+        {
+          "id": "C",
+          "text": "Elections are held next month by the club."
+        },
+        {
+          "id": "D",
+          "text": "Elections will be held next month the club."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"Elections will be held next month by the club.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban A. Elections will be held next month by the club."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-10",
+      "position": 10,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The referee had already blown the whistle.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The whistle had already blown by the referee."
+        },
+        {
+          "id": "B",
+          "text": "The whistle had already been blown by the referee."
+        },
+        {
+          "id": "C",
+          "text": "The whistle has already been blown by the referee."
+        },
+        {
+          "id": "D",
+          "text": "The whistle was already blown by the referee."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The whistle had already been blown by the referee.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban B. The whistle had already been blown by the referee."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-11",
+      "position": 11,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The company is going to buy the equipment.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The equipment is going to buy by the company."
+        },
+        {
+          "id": "B",
+          "text": "The equipment is going to been bought by the company."
+        },
+        {
+          "id": "C",
+          "text": "The equipment is going to be bought by the company."
+        },
+        {
+          "id": "D",
+          "text": "The equipment will buy by the company."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The equipment is going to be bought by the company.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban C. The equipment is going to be bought by the company."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-12",
+      "position": 12,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Someone was digging a hole in the yard.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "A hole was dug in the yard being."
+        },
+        {
+          "id": "B",
+          "text": "A hole is being dug in the yard."
+        },
+        {
+          "id": "C",
+          "text": "A hole was being digged in the yard."
+        },
+        {
+          "id": "D",
+          "text": "A hole was being dug in the yard."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"A hole was being dug in the yard.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban D. A hole was being dug in the yard."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-13",
+      "position": 13,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Parents should teach children good values.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Children should be taught good values by parents."
+        },
+        {
+          "id": "B",
+          "text": "Children should teach good values by parents."
+        },
+        {
+          "id": "C",
+          "text": "Children should been taught good values by parents."
+        },
+        {
+          "id": "D",
+          "text": "Children should be teach good values by parents."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"Children should be taught good values by parents.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban A. Children should be taught good values by parents."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-14",
+      "position": 14,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"The enemy's torpedoes sank the ship.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ship sank by the enemy's torpedoes."
+        },
+        {
+          "id": "B",
+          "text": "The ship was sunk by the enemy's torpedoes."
+        },
+        {
+          "id": "C",
+          "text": "The ship was sank by the enemy's torpedoes."
+        },
+        {
+          "id": "D",
+          "text": "The ship is sunk by the enemy's torpedoes."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The ship was sunk by the enemy's torpedoes.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban B. The ship was sunk by the enemy's torpedoes."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-ap-15",
+      "position": 15,
+      "section": "writing",
+      "testingPoint": "appendix-passive",
+      "type": "completion",
+      "text": "Choose the correct passive form of: \"Someone is feeding the children now.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The children are fed now being."
+        },
+        {
+          "id": "B",
+          "text": "The children were being fed now."
+        },
+        {
+          "id": "C",
+          "text": "The children are being fed now."
+        },
+        {
+          "id": "D",
+          "text": "The children are being feeded now."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Passive = be + past participle dengan tense yang sama dengan kalimat aktif: \"The children are being fed now.\"",
+      "hints": [
+        "Tentukan tense kalimat aktifnya.",
+        "Bentuk passive: be (sesuai tense) + past participle.",
+        "Jawaban C. The children are being fed now."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Pasangan kalimat aktif dan passive dari Appendix 5 buku. Opsi pengecoh disusun karena tabel di scan rusak.",
+      "sourcePage": 96,
+      "meta": {
+        "noBlank": true
+      }
+    }
+  ]
+}

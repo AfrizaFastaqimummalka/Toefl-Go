@@ -1,0 +1,425 @@
+{
+  "lesson": "writing-appendix/phrasal-verb",
+  "questions": [
+    {
+      "id": "app-pv-01",
+      "position": 1,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"cut down\" mean in this sentence?  \"He's been smoking too much. He really needs to cut down.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce"
+        },
+        {
+          "id": "B",
+          "text": "stop the supply"
+        },
+        {
+          "id": "C",
+          "text": "stop doing something annoying"
+        },
+        {
+          "id": "D",
+          "text": "progress or succeed"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"cut down\" berarti reduce.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. reduce"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-02",
+      "position": 2,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"cut off\" mean in this sentence?  \"The company had to cut off the electricity because the bill was unpaid.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "have a good relationship with"
+        },
+        {
+          "id": "B",
+          "text": "stop the supply"
+        },
+        {
+          "id": "C",
+          "text": "return"
+        },
+        {
+          "id": "D",
+          "text": "quit"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"cut off\" berarti stop the supply.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. stop the supply"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-03",
+      "position": 3,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"cut it out\" mean in this sentence?  \"He kept teasing me, so finally I told him to cut it out.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "postpone"
+        },
+        {
+          "id": "B",
+          "text": "wear"
+        },
+        {
+          "id": "C",
+          "text": "stop doing something annoying"
+        },
+        {
+          "id": "D",
+          "text": "tolerate"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"cut it out\" berarti stop doing something annoying.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban C. stop doing something annoying"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-04",
+      "position": 4,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"get ahead\" mean in this sentence?  \"He is working hard because he really wants to get ahead in his career.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce"
+        },
+        {
+          "id": "B",
+          "text": "stop the supply"
+        },
+        {
+          "id": "C",
+          "text": "stop doing something annoying"
+        },
+        {
+          "id": "D",
+          "text": "progress or succeed"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"get ahead\" berarti progress or succeed.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban D. progress or succeed"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-05",
+      "position": 5,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"get along with\" mean in this sentence?  \"She is such a nice person that she is easily able to get along with everyone.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "have a good relationship with"
+        },
+        {
+          "id": "B",
+          "text": "progress or succeed"
+        },
+        {
+          "id": "C",
+          "text": "return"
+        },
+        {
+          "id": "D",
+          "text": "quit"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"get along with\" berarti have a good relationship with.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. have a good relationship with"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-06",
+      "position": 6,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"give back\" mean in this sentence?  \"Here is the book I borrowed from you, and now I think I should give it back.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "postpone"
+        },
+        {
+          "id": "B",
+          "text": "return"
+        },
+        {
+          "id": "C",
+          "text": "wear"
+        },
+        {
+          "id": "D",
+          "text": "tolerate"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"give back\" berarti return.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. return"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-07",
+      "position": 7,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"give up\" mean in this sentence?  \"I've done all I can. I just can't do anything more. I give up.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce"
+        },
+        {
+          "id": "B",
+          "text": "stop the supply"
+        },
+        {
+          "id": "C",
+          "text": "quit"
+        },
+        {
+          "id": "D",
+          "text": "stop doing something annoying"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"give up\" berarti quit.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban C. quit"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-08",
+      "position": 8,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"put off\" mean in this sentence?  \"The teacher has to put off the exam until next week because the students are not prepared.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "progress or succeed"
+        },
+        {
+          "id": "B",
+          "text": "have a good relationship with"
+        },
+        {
+          "id": "C",
+          "text": "return"
+        },
+        {
+          "id": "D",
+          "text": "postpone"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"put off\" berarti postpone.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban D. postpone"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-09",
+      "position": 9,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"put on\" mean in this sentence?  \"She has to put on her coat before she goes out into the cold winter weather.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "wear"
+        },
+        {
+          "id": "B",
+          "text": "quit"
+        },
+        {
+          "id": "C",
+          "text": "postpone"
+        },
+        {
+          "id": "D",
+          "text": "tolerate"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"put on\" berarti wear.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. wear"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-pv-10",
+      "position": 10,
+      "section": "writing",
+      "testingPoint": "appendix-phrasal",
+      "type": "completion",
+      "text": "What does \"put up with\" mean in this sentence?  \"He is such a mean man that it is difficult to put up with him.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce"
+        },
+        {
+          "id": "B",
+          "text": "tolerate"
+        },
+        {
+          "id": "C",
+          "text": "stop the supply"
+        },
+        {
+          "id": "D",
+          "text": "stop doing something annoying"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"put up with\" berarti tolerate.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. tolerate"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dari Appendix 3 buku. Buku tidak menyertakan opsi makna di scan, jadi pilihan makna disusun dari daftar verb yang sama.",
+      "sourcePage": 94,
+      "meta": {
+        "noBlank": true
+      }
+    }
+  ]
+}

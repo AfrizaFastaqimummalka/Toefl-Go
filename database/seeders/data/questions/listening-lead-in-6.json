@@ -1,0 +1,217 @@
+{
+  "lesson": "listening-part-bc/lead-in-6",
+  "questions": [
+    {
+      "id": "lst-lead6-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "What is the topic of this talk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zebulon Pike's career."
+        },
+        {
+          "id": "B",
+          "text": "A mistake that influenced the settlement of America."
+        },
+        {
+          "id": "C",
+          "text": "A report for the army."
+        },
+        {
+          "id": "D",
+          "text": "The farmlands."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Seluruh talk menjelaskan kesalahan Pike yang menunda permukiman.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Topik mencakup seluruh isi talk.",
+        "Jawaban B. Seluruh talk menjelaskan kesalahan Pike yang menunda permukiman."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 33,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the settlement of America."
+          ],
+          [
+            "W",
+            "The settling of the vast farmlands in central North America was delayed, at least partly, because of an error by one man. In the early nineteenth century, Lieutenant Zebulon Pike of the U.S. Army was sent out to explore and chart the huge expanses of land in the center of the continent. When he returned, he wrote a report in which he erroneously stated that the vast plains in the central part of the continent were desertlike, comparable to the Sahara in Africa. In reality, however, these plains contained some of the most fertile farmland in the world. Because of Pike's mistake, the maps of the day showed the central part of what is today the United States as a vast desert rather than the excellent farmland that it was. This mistaken belief caused settlers to avoid the central plains for years."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead6-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How did Pike describe the area that he explored?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As a desert."
+        },
+        {
+          "id": "B",
+          "text": "As usable for army purposes."
+        },
+        {
+          "id": "C",
+          "text": "As located in the Sahara."
+        },
+        {
+          "id": "D",
+          "text": "As available for farmland."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Ia menulis bahwa dataran itu seperti gurun.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Apa yang ia tulis di laporannya?",
+        "Jawaban A. Ia menulis bahwa dataran itu seperti gurun."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 33,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the settlement of America."
+          ],
+          [
+            "W",
+            "The settling of the vast farmlands in central North America was delayed, at least partly, because of an error by one man. In the early nineteenth century, Lieutenant Zebulon Pike of the U.S. Army was sent out to explore and chart the huge expanses of land in the center of the continent. When he returned, he wrote a report in which he erroneously stated that the vast plains in the central part of the continent were desertlike, comparable to the Sahara in Africa. In reality, however, these plains contained some of the most fertile farmland in the world. Because of Pike's mistake, the maps of the day showed the central part of what is today the United States as a vast desert rather than the excellent farmland that it was. This mistaken belief caused settlers to avoid the central plains for years."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead6-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What was this area really like?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was a vast desert."
+        },
+        {
+          "id": "B",
+          "text": "It was covered with farms."
+        },
+        {
+          "id": "C",
+          "text": "It was excellent farmland."
+        },
+        {
+          "id": "D",
+          "text": "It was similar to the Sahara."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Kenyataannya, dataran itu sangat subur.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Kata 'in reality, however'.",
+        "Jawaban C. Kenyataannya, dataran itu sangat subur."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 33,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the settlement of America."
+          ],
+          [
+            "W",
+            "The settling of the vast farmlands in central North America was delayed, at least partly, because of an error by one man. In the early nineteenth century, Lieutenant Zebulon Pike of the U.S. Army was sent out to explore and chart the huge expanses of land in the center of the continent. When he returned, he wrote a report in which he erroneously stated that the vast plains in the central part of the continent were desertlike, comparable to the Sahara in Africa. In reality, however, these plains contained some of the most fertile farmland in the world. Because of Pike's mistake, the maps of the day showed the central part of what is today the United States as a vast desert rather than the excellent farmland that it was. This mistaken belief caused settlers to avoid the central plains for years."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead6-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "This talk would probably be given in which of the following courses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agricultural Science."
+        },
+        {
+          "id": "B",
+          "text": "American History."
+        },
+        {
+          "id": "C",
+          "text": "Geology of the United States."
+        },
+        {
+          "id": "D",
+          "text": "Military Science."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Isinya tentang permukiman dan sejarah Amerika.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Topik umum apa?",
+        "Jawaban B. Isinya tentang permukiman dan sejarah Amerika."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 33,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the settlement of America."
+          ],
+          [
+            "W",
+            "The settling of the vast farmlands in central North America was delayed, at least partly, because of an error by one man. In the early nineteenth century, Lieutenant Zebulon Pike of the U.S. Army was sent out to explore and chart the huge expanses of land in the center of the continent. When he returned, he wrote a report in which he erroneously stated that the vast plains in the central part of the continent were desertlike, comparable to the Sahara in Africa. In reality, however, these plains contained some of the most fertile farmland in the world. Because of Pike's mistake, the maps of the day showed the central part of what is today the United States as a vast desert rather than the excellent farmland that it was. This mistaken belief caused settlers to avoid the central plains for years."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

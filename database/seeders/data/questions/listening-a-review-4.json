@@ -1,0 +1,575 @@
+{
+  "lesson": "listening-part-a/review-4",
+  "questions": [
+    {
+      "id": "lst-a-r4-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She gets lots of take-out dinners."
+        },
+        {
+          "id": "B",
+          "text": "She and her roommate alternate cooking responsibilities."
+        },
+        {
+          "id": "C",
+          "text": "Her roommate cooks more often than she does."
+        },
+        {
+          "id": "D",
+          "text": "Her roommate does the cooking while she does other chores."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'take turns' = bergantian.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'take turns' artinya?",
+        "Jawaban B. 'take turns' = bergantian."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Who does the cooking at your apartment?"
+          ],
+          [
+            "W",
+            "My roommate and I take turns."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He resembles his father."
+        },
+        {
+          "id": "B",
+          "text": "He has a chipped tooth."
+        },
+        {
+          "id": "C",
+          "text": "He lives one block from his father."
+        },
+        {
+          "id": "D",
+          "text": "He and his father were playing a game with blocks."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'a chip off the old block' = mirip ayahnya.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan tentang kemiripan anak dan ayah.",
+        "Jawaban A. 'a chip off the old block' = mirip ayahnya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Tom looks just like his father."
+          ],
+          [
+            "M",
+            "Yes, he's a chip off the old block."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She's going somewhere else."
+        },
+        {
+          "id": "B",
+          "text": "She does not like football."
+        },
+        {
+          "id": "C",
+          "text": "She has a lot of work to do."
+        },
+        {
+          "id": "D",
+          "text": "She is getting sick."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'snowed under' = kebanjiran pekerjaan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'snowed under' bukan soal salju.",
+        "Jawaban C. 'snowed under' = kebanjiran pekerjaan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Are you coming to the football game?"
+          ],
+          [
+            "W",
+            "I can't. I'm snowed under with work."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He put his foot where he should not have."
+        },
+        {
+          "id": "B",
+          "text": "He put the food that the teacher gave him into his mouth."
+        },
+        {
+          "id": "C",
+          "text": "He said something embarrassing."
+        },
+        {
+          "id": "D",
+          "text": "He told the teacher that his foot was hurt."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'put his foot in his mouth' = mengucapkan hal yang memalukan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan kiasan tentang ucapan.",
+        "Jawaban C. 'put his foot in his mouth' = mengucapkan hal yang memalukan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Did you hear what he said to the teacher?"
+          ],
+          [
+            "M",
+            "I did. He really put his foot in his mouth."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She'd like the man to delay his trip."
+        },
+        {
+          "id": "B",
+          "text": "She prefers that the man leave a few minutes earlier than he planned."
+        },
+        {
+          "id": "C",
+          "text": "She wants to know if the man will stay in the market for only a few minutes."
+        },
+        {
+          "id": "D",
+          "text": "She'd like to talk to the man for a few minutes."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'Can I have a word with you?' = ingin bicara sebentar.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'have a word with' artinya?",
+        "Jawaban D. 'Can I have a word with you?' = ingin bicara sebentar."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I'm about to leave for the market."
+          ],
+          [
+            "W",
+            "Wait, can I have a word with you first?"
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The man might start a fire in the park."
+        },
+        {
+          "id": "B",
+          "text": "The man parked his car near the fire."
+        },
+        {
+          "id": "C",
+          "text": "The man's thinking of doing something dangerous."
+        },
+        {
+          "id": "D",
+          "text": "The man's playing a game in the park."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'playing with fire' = melakukan hal berbahaya.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan kiasan, bukan api sungguhan.",
+        "Jawaban C. 'playing with fire' = melakukan hal berbahaya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I'm thinking of driving home in this storm."
+          ],
+          [
+            "W",
+            "Be careful. You're playing with fire."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The machines do not act very well."
+        },
+        {
+          "id": "B",
+          "text": "The machines don't really bother her."
+        },
+        {
+          "id": "C",
+          "text": "She would like them to stop the noise."
+        },
+        {
+          "id": "D",
+          "text": "She wishes the machines would cut the wood."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'knock it off' = hentikan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'knock it off' artinya?",
+        "Jawaban C. 'knock it off' = hentikan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "The saws outside are really loud."
+          ],
+          [
+            "W",
+            "I wish they would knock it off."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-08",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fred has a dog that barks a lot."
+        },
+        {
+          "id": "B",
+          "text": "Fred has hidden the money in a tree."
+        },
+        {
+          "id": "C",
+          "text": "Fred has backed into a tree."
+        },
+        {
+          "id": "D",
+          "text": "Fred has made a mistake."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'barking up the wrong tree' = salah sangka.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan tentang salah menuduh.",
+        "Jawaban D. 'barking up the wrong tree' = salah sangka."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Fred thinks I took his money."
+          ],
+          [
+            "M",
+            "He's barking up the wrong tree."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-09",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She will give him any help he needs."
+        },
+        {
+          "id": "B",
+          "text": "He has to give away what he doesn't need."
+        },
+        {
+          "id": "C",
+          "text": "He should not give up."
+        },
+        {
+          "id": "D",
+          "text": "He should give back what he borrowed."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'Hang in there' = bertahanlah.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'Hang in there' artinya?",
+        "Jawaban C. 'Hang in there' = bertahanlah."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "This job is really hard."
+          ],
+          [
+            "W",
+            "Hang in there. You'll get through it."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r4-10",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She'd rather go swimming than do the homework."
+        },
+        {
+          "id": "B",
+          "text": "The chemistry homework is really difficult."
+        },
+        {
+          "id": "C",
+          "text": "She's doing the homework by the swimming pool."
+        },
+        {
+          "id": "D",
+          "text": "The stream is drying up."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'a tough nut to crack' = sulit dipecahkan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan kiasan tentang sulit.",
+        "Jawaban B. 'a tough nut to crack' = sulit dipecahkan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 26,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "How is the chemistry homework?"
+          ],
+          [
+            "W",
+            "It's a tough nut to crack."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "lesson": "listening-part-a/lead-in-part-a",
+  "questions": [
+    {
+      "id": "lst-a-li-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They locked the map in a car."
+        },
+        {
+          "id": "B",
+          "text": "They looked many times in the car."
+        },
+        {
+          "id": "C",
+          "text": "It cost a lot of money when the car leaked oil."
+        },
+        {
+          "id": "D",
+          "text": "They didn't have enough money to buy another car."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'lacked the money' = didn't have enough money. 'locked', 'looked', 'cost' hanya bunyinya mirip.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci baris kedua: lacked the money.",
+        "Jawaban D. 'lacked the money' = didn't have enough money. 'locked', 'looked', 'cost' hanya bunyinya mirip."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 14,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Did they get the new car they wanted?"
+          ],
+          [
+            "M",
+            "No, they lacked the money."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's important to pack the suitcases."
+        },
+        {
+          "id": "B",
+          "text": "They need help carrying their bags."
+        },
+        {
+          "id": "C",
+          "text": "The man should pack his suit in case he needs it."
+        },
+        {
+          "id": "D",
+          "text": "The suitcases are quite portable."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'call the porter to get the suitcases' = butuh bantuan membawa tas.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Apa tugas seorang porter?",
+        "Jawaban B. 'call the porter to get the suitcases' = butuh bantuan membawa tas."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 14,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Have you finished packing yet?"
+          ],
+          [
+            "W",
+            "You should call the porter to get the suitcases."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Who is the man?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A newspaper editor."
+        },
+        {
+          "id": "B",
+          "text": "A police officer."
+        },
+        {
+          "id": "C",
+          "text": "A teacher."
+        },
+        {
+          "id": "D",
+          "text": "A student."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Ia menyebut 'homework assignment' dan 'quiz' dari 'your class', jadi ia guru.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Kata 'your class' menunjukkan siapa?",
+        "Jawaban C. Ia menyebut 'homework assignment' dan 'quiz' dari 'your class', jadi ia guru."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 16,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Can you tell me what assignments I missed when I was absent from your class?"
+          ],
+          [
+            "M",
+            "You missed one homework assignment and a quiz."
+          ],
+          [
+            "N",
+            "Who is the man?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "What will the man probably do next?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sit down in the library."
+        },
+        {
+          "id": "B",
+          "text": "Look for some more books."
+        },
+        {
+          "id": "C",
+          "text": "Return the books to the shelves."
+        },
+        {
+          "id": "D",
+          "text": "Go to the circulation desk."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Ia mau 'check them out now' (meminjam), dan meminjam dilakukan di circulation desk.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Di mana buku dipinjam?",
+        "Jawaban D. Ia mau 'check them out now' (meminjam), dan meminjam dilakukan di circulation desk."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 16,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Are you going to read those books here in the library?"
+          ],
+          [
+            "M",
+            "I think I'd rather check them out now and take them home."
+          ],
+          [
+            "N",
+            "What will the man probably do next?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Where does this conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At a beauty salon."
+        },
+        {
+          "id": "B",
+          "text": "At the beach."
+        },
+        {
+          "id": "C",
+          "text": "In a sandbox."
+        },
+        {
+          "id": "D",
+          "text": "At an outdoor restaurant."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Petunjuk: water, sand, suntan lotion.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Garis bawah: water, sand, suntan lotion.",
+        "Jawaban B. Petunjuk: water, sand, suntan lotion."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Are you going into the water, or are you just going to lie there on the sand?"
+          ],
+          [
+            "M",
+            "I think I need to put on some suntan lotion."
+          ],
+          [
+            "N",
+            "Where does this conversation probably take place?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She's not completely sure when they are leaving."
+        },
+        {
+          "id": "B",
+          "text": "They are returning from the city at about 4:00."
+        },
+        {
+          "id": "C",
+          "text": "She knows when they are leaving."
+        },
+        {
+          "id": "D",
+          "text": "She doesn't have any idea when they are leaving."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Tag question 'don't they?' menandakan ketidakpastian.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Perhatikan tag question di akhir.",
+        "Jawaban A. Tag question 'don't they?' menandakan ketidakpastian."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 22,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Do you know what time they're leaving for the city?"
+          ],
+          [
+            "W",
+            "They have to leave at four o'clock, don't they?"
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They should stop drinking."
+        },
+        {
+          "id": "B",
+          "text": "They should go for a walk."
+        },
+        {
+          "id": "C",
+          "text": "They should walk thirty miles."
+        },
+        {
+          "id": "D",
+          "text": "They should take a break and have a drink."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'Let's stop and get a drink' adalah saran.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'Let's ...' itu saran.",
+        "Jawaban D. 'Let's stop and get a drink' adalah saran."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 22,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "I'm so thirsty from all this walking."
+          ],
+          [
+            "M",
+            "Let's stop and get a drink."
+          ],
+          [
+            "N",
+            "What does the man suggest?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-08",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He thinks the building was not renovated."
+        },
+        {
+          "id": "B",
+          "text": "He has the same opinion of the building as the woman."
+        },
+        {
+          "id": "C",
+          "text": "He doesn't care about the renovation of the building."
+        },
+        {
+          "id": "D",
+          "text": "He suggests being careful in the renovated building."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'I don't either' = setuju dengan pernyataan negatif.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'I don't either' adalah ungkapan setuju.",
+        "Jawaban B. 'I don't either' = setuju dengan pernyataan negatif."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 22,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "I don't really care for the way the building was renovated."
+          ],
+          [
+            "M",
+            "I don't either."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-09",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She agrees with the man."
+        },
+        {
+          "id": "B",
+          "text": "She thinks he should become county supervisor."
+        },
+        {
+          "id": "C",
+          "text": "She thinks the candidates are qualified."
+        },
+        {
+          "id": "D",
+          "text": "She has no opinion about the candidates for county supervisor."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'Me, too' menyatakan setuju.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'Me, too' itu setuju atau tidak?",
+        "Jawaban A. 'Me, too' menyatakan setuju."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 22,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I think that both candidates for county supervisor are unqualified."
+          ],
+          [
+            "W",
+            "Me, too."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-10",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What had the man assumed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The woman was a good skier."
+        },
+        {
+          "id": "B",
+          "text": "The woman was going skiing this weekend."
+        },
+        {
+          "id": "C",
+          "text": "The woman did not know how to ski."
+        },
+        {
+          "id": "D",
+          "text": "The woman did not intend to go skiing."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'So you CAN ski!' (kejutan) berarti sebelumnya ia mengira wanita itu tidak bisa bermain ski.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Kata 'can' ditekankan. Apa dugaannya sebelumnya?",
+        "Jawaban C. 'So you CAN ski!' (kejutan) berarti sebelumnya ia mengira wanita itu tidak bisa bermain ski."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 22,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Would you like to go skiing this weekend?"
+          ],
+          [
+            "M",
+            "So you can ski!"
+          ],
+          [
+            "N",
+            "What had the man assumed?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-11",
+      "position": 11,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the man need to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reapply for his driver's license."
+        },
+        {
+          "id": "B",
+          "text": "Sweep around the lawn."
+        },
+        {
+          "id": "C",
+          "text": "Learn the laws for the first time."
+        },
+        {
+          "id": "D",
+          "text": "Review the information that will be on the test."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'brush up on' = mengulang/menyegarkan pengetahuan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'brush up on' bukan menyapu.",
+        "Jawaban D. 'brush up on' = mengulang/menyegarkan pengetahuan."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 25,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I need to take the written test to renew my driver's license."
+          ],
+          [
+            "W",
+            "Then, you'll have to brush up on the laws."
+          ],
+          [
+            "N",
+            "What does the man need to do?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-li-12",
+      "position": 12,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The president dropped his pen."
+        },
+        {
+          "id": "B",
+          "text": "The audience was very quiet."
+        },
+        {
+          "id": "C",
+          "text": "The speech contained several puns."
+        },
+        {
+          "id": "D",
+          "text": "The president discussed dropping a bomb."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'You could hear a pin drop' = sangat sunyi.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan kiasan tentang suasana.",
+        "Jawaban B. 'You could hear a pin drop' = sangat sunyi."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 25,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "What was it like while the president was giving his speech?"
+          ],
+          [
+            "W",
+            "You could hear a pin drop."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

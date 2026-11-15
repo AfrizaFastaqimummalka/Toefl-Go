@@ -7,7 +7,7 @@ Website belajar TOEFL PBT (modul Ade Johan 2018). Laravel 13 + Blade + Alpine.js
 - 🎨 **Design System**: Modern tech studio aesthetic (Plus Jakarta Sans, electric violet & cosmic indigo mesh, glassmorphic UI)
 - 🚀 **Deployment**: Serverless on Vercel with Neon PostgreSQL (PgBouncer connection pooling)
 
-Status: **Fase 1** (Structure: Subject & Verb, Diagnostic completion).
+Status: **Fase 1-5** (Structure lengkap, Listening dengan audio TTS, Reading dengan passage bernomor baris, Writing dengan editor esai dan koreksi AI, Appendix, simulasi Structure/Listening/Reading). Lihat `COVERAGE.md`.
 
 ## Menjalankan
 
@@ -36,3 +36,7 @@ Sumber kebenaran: `database/seeders/data/` (`chapters.json`, `vocab.json`, `ques
 Markup X-ray di field `xray.marked`: `P{frasa depan} M{penerang} S{subject} V{verb sejati} C{connector} R{who/which/what: connector sekaligus subject}`.
 
 Lihat `DECISIONS.md` untuk keputusan teknis.
+
+## Listening
+
+Audio memakai Web Speech API (suara bawaan browser, dua suara pria/wanita bila tersedia, kecepatan 0.8x-1.2x). Kalau browser tidak punya suara, script ditampilkan langsung. Chrome atau Edge terbaru paling stabil.

@@ -44,7 +44,7 @@
     <div class="section-head"><h2>Kartu kata</h2></div>
     <div class="stack">
         @php
-            $names = ['verb-forms' => 'Bentuk verb', 'connector-time' => 'Connector: time', 'connector-cause' => 'Connector: cause', 'connector-noun' => 'Connector: noun clause', 'connector-adjective' => 'Connector: adjective clause'];
+            $names = ['verb-forms' => 'Bentuk verb', 'connector-time' => 'Connector: time', 'connector-cause' => 'Connector: cause', 'connector-noun' => 'Connector: noun clause', 'connector-adjective' => 'Connector: adjective clause', 'inversion-negative' => 'Inversion: negative expression', 'paired-conjunction' => 'Paired conjunction', 'usage-like-other' => 'Like / other / another', 'word-parts' => 'Word parts', 'irregular-verbs' => 'Irregular verbs', 'phrasal-deck' => 'Phrasal verb', 'idiom-deck' => 'Idiom'];
         @endphp
         @foreach ($decks as $cat => $n)
             <a class="card card-link" href="{{ route('cards', $cat) }}">

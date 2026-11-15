@@ -1,0 +1,575 @@
+{
+  "lesson": "listening-part-a/review-1",
+  "questions": [
+    {
+      "id": "lst-a-r1-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He would like some iced coffee."
+        },
+        {
+          "id": "B",
+          "text": "He wants to stop drinking coffee."
+        },
+        {
+          "id": "C",
+          "text": "A drink seems like a good idea."
+        },
+        {
+          "id": "D",
+          "text": "He needs to drink something to stop his coughing."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'sounds good' direstatement jadi 'seems like a good idea'. 'coffee' dan 'coughing' adalah jebakan bunyi.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: a drink sounds good.",
+        "Jawaban C. 'sounds good' direstatement jadi 'seems like a good idea'. 'coffee' dan 'coughing' adalah jebakan bunyi."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Would you like something to drink?"
+          ],
+          [
+            "M",
+            "A drink sounds good to me."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She would prefer a sunny day."
+        },
+        {
+          "id": "B",
+          "text": "The park is too crowded."
+        },
+        {
+          "id": "C",
+          "text": "She would like a place that is not so loud."
+        },
+        {
+          "id": "D",
+          "text": "She cannot walk because she's too old."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'somewhere quieter' = a place that is not so loud.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: quieter.",
+        "Jawaban C. 'somewhere quieter' = a place that is not so loud."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Why don't we have the picnic in the park?"
+          ],
+          [
+            "W",
+            "I'd rather find somewhere quieter."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He should open an account."
+        },
+        {
+          "id": "B",
+          "text": "He should take a ride on a ship."
+        },
+        {
+          "id": "C",
+          "text": "He should try to keep the cost cheap."
+        },
+        {
+          "id": "D",
+          "text": "He should try something monotonous to get to sleep."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'keep your costs down' = keep the cost cheap. 'account' dan 'ship' mirip bunyi 'cost' dan 'cheap'.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: costs down.",
+        "Jawaban C. 'keep your costs down' = keep the cost cheap. 'account' dan 'ship' mirip bunyi 'cost' dan 'cheap'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I want to travel in Europe, but I'm short of money."
+          ],
+          [
+            "W",
+            "You should try to keep your costs down."
+          ],
+          [
+            "N",
+            "What does the woman suggest?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The department is not changing the requirements."
+        },
+        {
+          "id": "B",
+          "text": "He hasn't heard anything about the change."
+        },
+        {
+          "id": "C",
+          "text": "The changes are believable."
+        },
+        {
+          "id": "D",
+          "text": "What has happened is incredible to him."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'I can't believe it' = incredible to him.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: can't believe.",
+        "Jawaban D. 'I can't believe it' = incredible to him."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Did you hear that the department changed the requirements?"
+          ],
+          [
+            "M",
+            "I can't believe it."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman say about the wait?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The wait has taken close to an hour."
+        },
+        {
+          "id": "B",
+          "text": "They were stranded in their car."
+        },
+        {
+          "id": "C",
+          "text": "Most of the people have been in line for hours."
+        },
+        {
+          "id": "D",
+          "text": "They made a line in the sand."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'almost an hour' = close to an hour.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: almost an hour.",
+        "Jawaban A. 'almost an hour' = close to an hour."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "How long have you been standing in line?"
+          ],
+          [
+            "W",
+            "Almost an hour."
+          ],
+          [
+            "N",
+            "What does the woman say about the wait?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The instructor is selecting several passages."
+        },
+        {
+          "id": "B",
+          "text": "The conductor is fair to the passengers."
+        },
+        {
+          "id": "C",
+          "text": "The stamp collector is conducting his business."
+        },
+        {
+          "id": "D",
+          "text": "The riders are paying for the train trip."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'collecting the fares from the riders' = the riders are paying. 'conductor', 'collector', 'instructor' hanya mirip bunyi.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: collecting the fares.",
+        "Jawaban D. 'collecting the fares from the riders' = the riders are paying. 'conductor', 'collector', 'instructor' hanya mirip bunyi."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "What is the man in the uniform doing?"
+          ],
+          [
+            "M",
+            "He's the conductor. He's collecting the fares from the riders."
+          ],
+          [
+            "N",
+            "What does the man say?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The managers will take the train to the program."
+        },
+        {
+          "id": "B",
+          "text": "A program to develop new managers will commence soon."
+        },
+        {
+          "id": "C",
+          "text": "The new management program is very weak."
+        },
+        {
+          "id": "D",
+          "text": "The program will be maintained to the letter."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'training program for managers will begin shortly' = a program to develop new managers will commence soon.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: training program, begin shortly.",
+        "Jawaban B. 'training program for managers will begin shortly' = a program to develop new managers will commence soon."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "When does the management training program start?"
+          ],
+          [
+            "W",
+            "It will begin shortly."
+          ],
+          [
+            "N",
+            "What does the woman say?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-08",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the woman say about the fire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The fire started to attack the building."
+        },
+        {
+          "id": "B",
+          "text": "The firefighter stared at the attacker."
+        },
+        {
+          "id": "C",
+          "text": "The fire probably began at the top of the building."
+        },
+        {
+          "id": "D",
+          "text": "The firefighter started to attack the fire."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'blaze started on the roof' = the fire began at the top of the building.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: blaze, started, roof.",
+        "Jawaban C. 'blaze started on the roof' = the fire began at the top of the building."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "What did the firefighters say about the fire?"
+          ],
+          [
+            "W",
+            "They think the blaze probably started on the roof."
+          ],
+          [
+            "N",
+            "What does the woman say about the fire?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-09",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He assured the woman that he knew the truth."
+        },
+        {
+          "id": "B",
+          "text": "He is sure that it isn't new."
+        },
+        {
+          "id": "C",
+          "text": "He thought that the woman was aware of what happened."
+        },
+        {
+          "id": "D",
+          "text": "He soon will know the truth."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'I thought you knew what had happened' = he thought she was aware of it.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: thought you knew.",
+        "Jawaban C. 'I thought you knew what had happened' = he thought she was aware of it."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "I didn't know about the accident."
+          ],
+          [
+            "M",
+            "I thought you knew what had happened."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r1-10",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The art professor is not one of his fans."
+        },
+        {
+          "id": "B",
+          "text": "His drawings were amazing."
+        },
+        {
+          "id": "C",
+          "text": "The catches that he made were fantastic."
+        },
+        {
+          "id": "D",
+          "text": "His sketches showed a fantasy world."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'fantastic' = amazing. 'catches' dan 'fantasy' hanya mirip bunyi 'sketches' dan 'fantastic'.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci: fantastic.",
+        "Jawaban B. 'fantastic' = amazing. 'catches' dan 'fantasy' hanya mirip bunyi 'sketches' dan 'fantastic'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 15,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "What did you think of the art professor's drawings?"
+          ],
+          [
+            "M",
+            "They were fantastic."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    }
+  ]
+}

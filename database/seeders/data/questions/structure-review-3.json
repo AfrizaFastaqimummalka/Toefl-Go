@@ -1,0 +1,417 @@
+{
+  "lesson": "structure-inversion/review-3",
+  "questions": [
+    {
+      "id": "str-rev3-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "completion",
+      "text": "Among bees _____ a highly elaborate form of communication.",
+      "options": [
+        {
+          "id": "A",
+          "text": "occur"
+        },
+        {
+          "id": "B",
+          "text": "occurs"
+        },
+        {
+          "id": "C",
+          "text": "it occurs"
+        },
+        {
+          "id": "D",
+          "text": "they occur"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'Among bees' frasa depan. Subject asli 'a highly elaborate form of communication' (singular), jadi 'occurs' (satu verb, tanpa subject tambahan).",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Frasa depan lalu verb, subject asli ada di belakang.",
+        "Jawaban B. 'Among bees' frasa depan. Subject asli 'a highly elaborate form of communication' (singular), jadi 'occurs' (satu verb, tanpa subject tambahan)."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57
+    },
+    {
+      "id": "str-rev3-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "completion",
+      "text": "_____ heated by solar energy have special collectors on the roofs to trap sunlight.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A home is"
+        },
+        {
+          "id": "B",
+          "text": "Homes are"
+        },
+        {
+          "id": "C",
+          "text": "A home"
+        },
+        {
+          "id": "D",
+          "text": "Homes"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Verb 'have' sudah ada, kurang subject jamak: 'Homes'. 'heated by solar energy' hanya penerang.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Verb 'have' sudah ada. Subject jamak atau singular?",
+        "Jawaban D. Verb 'have' sudah ada, kurang subject jamak: 'Homes'. 'heated by solar energy' hanya penerang."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57
+    },
+    {
+      "id": "str-rev3-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Each number in a binary system are formed from only two symbols.",
+      "segments": [
+        "Each number in",
+        "a binary",
+        "system",
+        "are",
+        "formed",
+        "from",
+        "only two",
+        "symbols."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "is"
+      },
+      "explanation": "Subject 'Each number' singular, jadi 'is formed', bukan 'are'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject 'Each number' singular, jadi 'is formed', bukan 'are'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Scientists at the medical center is trying to determine if there is a relationship between saccharine and cancer .",
+      "segments": [
+        "Scientists at the medical center",
+        "is trying",
+        "to determine",
+        "if there",
+        "is",
+        "a relationship between",
+        "saccharine and cancer",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "are trying"
+      },
+      "explanation": "Subject 'Scientists' jamak, jadi 'are trying'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject 'Scientists' jamak, jadi 'are trying'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "On the rim of the Kilauea volcano in the Hawaiian Islands are a hotel called the Volcano Hotel.",
+      "segments": [
+        "On",
+        "the rim",
+        "of the Kilauea volcano in the",
+        "Hawaiian Islands",
+        "are",
+        "a hotel",
+        "called",
+        "the Volcano Hotel."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "is"
+      },
+      "explanation": "Frasa tempat di depan, subject asli 'a hotel' (singular), jadi 'is'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Frasa tempat di depan, subject asli 'a hotel' (singular), jadi 'is'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "The great digital advances of the electronic age, such as integrated circuitry and a microcomputer, has been planted in tiny chips.",
+      "segments": [
+        "The",
+        "great digital",
+        "advances of the electronic age, such as integrated",
+        "circuitry",
+        "and a microcomputer,",
+        "has been",
+        "planted",
+        "in tiny chips."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "have been"
+      },
+      "explanation": "Subject 'advances' jamak, jadi 'have been planted'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject 'advances' jamak, jadi 'have been planted'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 58,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "There are many frequently mentioned reasons why one out of four arrests involve a juvenile.",
+      "segments": [
+        "There are many",
+        "frequently",
+        "mentioned",
+        "reasons why one out of",
+        "four arrests",
+        "involve",
+        "a juvenile."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "involves"
+      },
+      "explanation": "Subject 'one' singular (out of four arrests = frasa depan), jadi 'involves'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject 'one' singular (out of four arrests = frasa depan), jadi 'involves'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 58,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Kepler's Laws, principles outlining planetary movement, was formulated based on observations made without a telescope.",
+      "segments": [
+        "Kepler's Laws, principles outlining planetary movement,",
+        "was",
+        "formulated",
+        "based",
+        "on observations",
+        "made",
+        "without a telescope."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "were"
+      },
+      "explanation": "Subject 'Kepler's Laws' jamak (penerang di antara koma diabaikan), jadi 'were formulated'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject 'Kepler's Laws' jamak (penerang di antara koma diabaikan), jadi 'were formulated'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 58,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Only with a two-thirds vote by both houses are the U.S. Congress able to override a presidential veto .",
+      "segments": [
+        "Only with",
+        "a two-thirds vote",
+        "by both houses",
+        "are",
+        "the U.S. Congress",
+        "able to",
+        "override a presidential",
+        "veto",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "is"
+      },
+      "explanation": "Negative expression 'Only with ...' memicu inversi. Subject asli 'the U.S. Congress' (singular), jadi 'is'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Negative expression 'Only with ...' memicu inversi. Subject asli 'the U.S. Congress' (singular), jadi 'is'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 58,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev3-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Of all the evidence that has piled up since Webster's paper was published, there is no new ideas to contradict his original theory.",
+      "segments": [
+        "Of all the evidence that",
+        "has piled",
+        "up since Webster's paper was published, there",
+        "is",
+        "no",
+        "new ideas",
+        "to contradict",
+        "his original theory."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "are"
+      },
+      "explanation": "Subject asli 'new ideas' (jamak), jadi 'there are'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Subject asli 'new ideas' (jamak), jadi 'there are'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 58,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    }
+  ]
+}

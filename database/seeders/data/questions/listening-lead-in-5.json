@@ -1,0 +1,297 @@
+{
+  "lesson": "listening-part-bc/lead-in-5",
+  "questions": [
+    {
+      "id": "lst-lead5-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "Who is the man?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A professor."
+        },
+        {
+          "id": "B",
+          "text": "An office worker."
+        },
+        {
+          "id": "C",
+          "text": "Professor Denton's assistant."
+        },
+        {
+          "id": "D",
+          "text": "A student."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Ia datang menemui profesor dan bertanya soal tugas: ia mahasiswa.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Siapa yang bertanya soal homework?",
+        "Jawaban D. Ia datang menemui profesor dan bertanya soal tugas: ia mahasiswa."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 29,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between a professor and a student."
+          ],
+          [
+            "M",
+            "Hello, Professor Denton. Are you free for a moment? Could I have a word with you?"
+          ],
+          [
+            "W",
+            "Come on in, Michael. These are my office hours, so this is the right time to come and ask questions. How can I help you?"
+          ],
+          [
+            "M",
+            "I have a quick question about tomorrow's homework. I thought we were supposed to answer the first three questions at the top of page sixty-seven, but there weren't any questions there. I'm confused."
+          ],
+          [
+            "W",
+            "The assignment was the first three questions at the top of page seventy-six, not sixty-seven."
+          ],
+          [
+            "M",
+            "Oh, now I understand. I'm glad I came in to check. Thanks for your help."
+          ],
+          [
+            "W",
+            "No problem. See you tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead5-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "When does the man come to see Professor Denton?",
+      "options": [
+        {
+          "id": "A",
+          "text": "During regular class hours."
+        },
+        {
+          "id": "B",
+          "text": "Just before class time."
+        },
+        {
+          "id": "C",
+          "text": "As soon as class is finished."
+        },
+        {
+          "id": "D",
+          "text": "During office hours."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Profesor berkata: 'These are my office hours'.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Cari kata yang menyebut jam kantor.",
+        "Jawaban D. Profesor berkata: 'These are my office hours'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 29,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between a professor and a student."
+          ],
+          [
+            "M",
+            "Hello, Professor Denton. Are you free for a moment? Could I have a word with you?"
+          ],
+          [
+            "W",
+            "Come on in, Michael. These are my office hours, so this is the right time to come and ask questions. How can I help you?"
+          ],
+          [
+            "M",
+            "I have a quick question about tomorrow's homework. I thought we were supposed to answer the first three questions at the top of page sixty-seven, but there weren't any questions there. I'm confused."
+          ],
+          [
+            "W",
+            "The assignment was the first three questions at the top of page seventy-six, not sixty-seven."
+          ],
+          [
+            "M",
+            "Oh, now I understand. I'm glad I came in to check. Thanks for your help."
+          ],
+          [
+            "W",
+            "No problem. See you tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead5-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "Why does the man come to see Professor Denton?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To turn in an assignment."
+        },
+        {
+          "id": "B",
+          "text": "To ask a question."
+        },
+        {
+          "id": "C",
+          "text": "To pick up a completed test."
+        },
+        {
+          "id": "D",
+          "text": "To explain why he did not attend class."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Ia datang dengan 'a quick question' tentang tugas.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Apa tujuan utama kedatangannya?",
+        "Jawaban B. Ia datang dengan 'a quick question' tentang tugas."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 29,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between a professor and a student."
+          ],
+          [
+            "M",
+            "Hello, Professor Denton. Are you free for a moment? Could I have a word with you?"
+          ],
+          [
+            "W",
+            "Come on in, Michael. These are my office hours, so this is the right time to come and ask questions. How can I help you?"
+          ],
+          [
+            "M",
+            "I have a quick question about tomorrow's homework. I thought we were supposed to answer the first three questions at the top of page sixty-seven, but there weren't any questions there. I'm confused."
+          ],
+          [
+            "W",
+            "The assignment was the first three questions at the top of page seventy-six, not sixty-seven."
+          ],
+          [
+            "M",
+            "Oh, now I understand. I'm glad I came in to check. Thanks for your help."
+          ],
+          [
+            "W",
+            "No problem. See you tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-lead5-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What incorrect information did the man have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The date the assignment was due."
+        },
+        {
+          "id": "B",
+          "text": "The page number of the assignment."
+        },
+        {
+          "id": "C",
+          "text": "The length of the assignment."
+        },
+        {
+          "id": "D",
+          "text": "The numbers of the assignment questions."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Ia mengira halaman 67, padahal 76.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Angka mana yang tertukar?",
+        "Jawaban B. Ia mengira halaman 67, padahal 76."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 29,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between a professor and a student."
+          ],
+          [
+            "M",
+            "Hello, Professor Denton. Are you free for a moment? Could I have a word with you?"
+          ],
+          [
+            "W",
+            "Come on in, Michael. These are my office hours, so this is the right time to come and ask questions. How can I help you?"
+          ],
+          [
+            "M",
+            "I have a quick question about tomorrow's homework. I thought we were supposed to answer the first three questions at the top of page sixty-seven, but there weren't any questions there. I'm confused."
+          ],
+          [
+            "W",
+            "The assignment was the first three questions at the top of page seventy-six, not sixty-seven."
+          ],
+          [
+            "M",
+            "Oh, now I understand. I'm glad I came in to check. Thanks for your help."
+          ],
+          [
+            "W",
+            "No problem. See you tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

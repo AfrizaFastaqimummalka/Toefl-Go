@@ -1,0 +1,1055 @@
+{
+  "lesson": "structure-diagnostic-error/diagnostic-error",
+  "questions": [
+    {
+      "id": "str-diag-e16",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "On the floor of the Pacific Ocean is hundreds of flat-topped mountains more than a mile beneath sea level.",
+      "segments": [
+        "On",
+        "the floor",
+        "of the Pacific Ocean",
+        "is",
+        "hundreds of",
+        "flat-topped",
+        "mountains",
+        "more than",
+        "a mile beneath sea level."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "are"
+      },
+      "explanation": "Frasa tempat di depan memicu inversi. Subject asli 'hundreds of flat-topped mountains' (jamak), jadi 'are'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Frasa tempat di depan memicu inversi. Subject asli 'hundreds of flat-topped mountains' (jamak), jadi 'are'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e17",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "Because of the flourish with which John Hancock signed the Declaration of Independence, his name become synonymous with signature.",
+      "segments": [
+        "Because of the flourish with",
+        "which",
+        "John Hancock signed the Declaration of Independence,",
+        "his",
+        "name",
+        "become",
+        "synonymous",
+        "with signature."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "became"
+      },
+      "explanation": "Konteksnya lampau (signed), jadi verbnya 'became'.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Konteksnya lampau (signed), jadi verbnya 'became'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e18",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Segregation in public schools was declare unconstitutional by the Supreme Court in 1954 .",
+      "segments": [
+        "Segregation in",
+        "public",
+        "schools",
+        "was declare",
+        "unconstitutional",
+        "by the Supreme Court",
+        "in 1954",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "was declared"
+      },
+      "explanation": "Passive butuh be + past participle: was declared.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Passive butuh be + past participle: was declared."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e19",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Sirius, the Dog Star, is the most brightest star in the sky with an absolute magnitude about twenty-three times that of the Sun.",
+      "segments": [
+        "Sirius, the Dog Star, is",
+        "the most brightest star",
+        "in the sky with",
+        "an absolute",
+        "magnitude about",
+        "twenty-three times",
+        "that",
+        "of the Sun."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "the brightest star"
+      },
+      "explanation": "'most' dan '-est' tidak dipakai bersamaan. Cukup 'the brightest'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'most' dan '-est' tidak dipakai bersamaan. Cukup 'the brightest'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e20",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Killer whales tend to wander in family clusters that hunt, play, and resting together .",
+      "segments": [
+        "Killer whales",
+        "tend",
+        "to wander",
+        "in family clusters that hunt, play, and",
+        "resting",
+        "together",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "rest"
+      },
+      "explanation": "Daftar verb harus sejajar: hunt, play, rest.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Daftar verb harus sejajar: hunt, play, rest."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e21",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Some of the most useful resistor material are carbon, metals, and metallic alloys.",
+      "segments": [
+        "Some of",
+        "the",
+        "most useful",
+        "resistor material",
+        "are carbon, metals, and",
+        "metallic",
+        "alloys."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "resistor materials"
+      },
+      "explanation": "'Some of the most useful ... are' butuh noun jamak: materials.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'Some of the most useful ... are' butuh noun jamak: materials."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e22",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "The community of Bethesda, Maryland, was previous known as Darcy's Store.",
+      "segments": [
+        "The community",
+        "of Bethesda, Maryland, was",
+        "previous",
+        "known",
+        "as",
+        "Darcy's Store."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 2,
+        "fix": "previously"
+      },
+      "explanation": "Menerangkan verb 'known' butuh adverb: previously.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Menerangkan verb 'known' butuh adverb: previously."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e23",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "Alloys of gold and copper have been widely using in various types of coins.",
+      "segments": [
+        "Alloys of gold and copper",
+        "have",
+        "been",
+        "widely",
+        "using",
+        "in",
+        "various types",
+        "of coins."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "used"
+      },
+      "explanation": "'have been ...' passive butuh past participle: widely used.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'have been ...' passive butuh past participle: widely used."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e24",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "J. H. Pratt used group therapy early in this century when he brought tuberculosis patients together to discuss its disease.",
+      "segments": [
+        "J. H. Pratt used",
+        "group",
+        "therapy",
+        "early",
+        "in this century",
+        "when he",
+        "brought tuberculosis patients together to discuss",
+        "its",
+        "disease."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 7,
+        "fix": "their"
+      },
+      "explanation": "Yang dibicarakan adalah penyakit pasien (jamak), jadi 'their', bukan 'its'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Yang dibicarakan adalah penyakit pasien (jamak), jadi 'their', bukan 'its'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan cukup ambigu. Cek lagi dengan dosen kalau ragu.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e25",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "The United States has import all carpet wools in recent years because domestic wools are too fine and soft for carpets.",
+      "segments": [
+        "The United States has",
+        "import",
+        "all",
+        "carpet wools in recent years",
+        "because",
+        "domestic wools are",
+        "too fine",
+        "and soft for carpets."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "imported"
+      },
+      "explanation": "'has' butuh past participle: has imported.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'has' butuh past participle: has imported."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e26",
+      "position": 11,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Irving Berlin wrote \"Oh How I Hate to Get Up in the Morning\" while serving in a U.S. Army during World War I.",
+      "segments": [
+        "Irving Berlin",
+        "wrote",
+        "\"Oh How I Hate to Get Up in the Morning\"",
+        "while serving",
+        "in",
+        "a",
+        "U.S. Army",
+        "during",
+        "World War I."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "the"
+      },
+      "explanation": "'U.S. Army' adalah institusi tertentu, jadi 'the U.S. Army'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'U.S. Army' adalah institusi tertentu, jadi 'the U.S. Army'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 42,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e27",
+      "position": 12,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Banks are rushing to merge because consolidations enable them to slash theirs costs and expand .",
+      "segments": [
+        "Banks",
+        "are rushing",
+        "to merge because consolidations",
+        "enable them",
+        "to slash",
+        "theirs",
+        "costs and",
+        "expand",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "their"
+      },
+      "explanation": "Sebelum noun 'costs' pakai possessive adjective 'their'. 'theirs' berdiri sendiri.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Sebelum noun 'costs' pakai possessive adjective 'their'. 'theirs' berdiri sendiri."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e28",
+      "position": 13,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "That water has a very high specific heat means that without a large temperature change water can add or lose a large number of heat.",
+      "segments": [
+        "That",
+        "water has a very high specific heat",
+        "means",
+        "that without a large temperature change water can",
+        "add or lose",
+        "a large",
+        "number",
+        "of heat."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 6,
+        "fix": "amount"
+      },
+      "explanation": "'heat' tak terhitung, jadi 'amount', bukan 'number'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'heat' tak terhitung, jadi 'amount', bukan 'number'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e29",
+      "position": 14,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Benny Goodman was equally talented as both a jazz performer as well as a classical musician .",
+      "segments": [
+        "Benny Goodman was",
+        "equally",
+        "talented as both a jazz",
+        "performer",
+        "as well as",
+        "a",
+        "classical musician",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "and"
+      },
+      "explanation": "Pasangan 'both' adalah 'and'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Pasangan 'both' adalah 'and'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e30",
+      "position": 15,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "The state seal still used in Massachusetts designed by Paul Revere, who also designed the first Continental currency.",
+      "segments": [
+        "The state seal",
+        "still used",
+        "in Massachusetts",
+        "designed by",
+        "Paul Revere,",
+        "who",
+        "also designed",
+        "the first",
+        "Continental currency."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "was designed by"
+      },
+      "explanation": "Verb utama kalimat belum ada. 'designed by' harus 'was designed by'.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Verb utama kalimat belum ada. 'designed by' harus 'was designed by'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan cukup ambigu. Cek lagi dengan dosen kalau ragu.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e31",
+      "position": 16,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Quarter horses were developed in eighteenth-century Virginia to race on courses short of about a quarter of a mile in length .",
+      "segments": [
+        "Quarter horses were developed in eighteenth-century Virginia",
+        "to race",
+        "on",
+        "courses short",
+        "of about a quarter",
+        "of a mile",
+        "in length",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "courses shorter than / about"
+      },
+      "explanation": "'short of' bermakna 'kurang dari/tanpa'; maksud kalimat 'kira-kira seperempat mil panjangnya'. Bagian B yang perlu diubah.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'short of' bermakna 'kurang dari/tanpa'; maksud kalimat 'kira-kira seperempat mil panjangnya'. Bagian B yang perlu diubah."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan cukup ambigu. Cek lagi dengan dosen kalau ragu.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e32",
+      "position": 17,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "No longer satisfied with the emphasis of the Denishawn School, Martha Graham has moved to the staff of the Eastman School in 1925.",
+      "segments": [
+        "No longer",
+        "satisfied",
+        "with",
+        "the emphasis",
+        "of the Denishawn School, Martha Graham",
+        "has moved",
+        "to the staff of the Eastman School in 1925."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "moved"
+      },
+      "explanation": "Ada tahun lampau (in 1925), jadi simple past: moved.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Ada tahun lampau (in 1925), jadi simple past: moved."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          2,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e33",
+      "position": 18,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "William Hart was an act best known for his roles as western heroes in silent films.",
+      "segments": [
+        "William Hart was an",
+        "act",
+        "best known",
+        "for",
+        "his",
+        "roles",
+        "as",
+        "western heroes in silent films."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "actor"
+      },
+      "explanation": "Butuh noun orang: actor.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Butuh noun orang: actor."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e34",
+      "position": 19,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Prior to an extermination program earlier this century, alive wolves roamed across nearly all of North America.",
+      "segments": [
+        "Prior to",
+        "an extermination program",
+        "earlier",
+        "this century,",
+        "alive",
+        "wolves roamed",
+        "across nearly",
+        "all of North America."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "living"
+      },
+      "explanation": "'alive' dipakai setelah linking verb. Sebelum noun pakai 'living'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'alive' dipakai setelah linking verb. Sebelum noun pakai 'living'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e35",
+      "position": 20,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "During the 1960's the Berkeley campus of the University of California came to national attention as a result its radical political activity.",
+      "segments": [
+        "During",
+        "the 1960's the Berkeley campus of the University of California",
+        "came to",
+        "national attention as a",
+        "result",
+        "its radical",
+        "political",
+        "activity."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "result of"
+      },
+      "explanation": "Bentuk yang benar: as a result of its ...",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Bentuk yang benar: as a result of its ..."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e36",
+      "position": 21,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Artist Gutzon Borglum designed the Mount Rushmore Memorial and worked on project from 1925 until his death in 1941.",
+      "segments": [
+        "Artist",
+        "Gutzon Borglum designed the Mount Rushmore Memorial and worked on",
+        "project",
+        "from 1925",
+        "until",
+        "his",
+        "death in 1941."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 2,
+        "fix": "the project"
+      },
+      "explanation": "'project' singular butuh artikel: the project.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'project' singular butuh artikel: the project."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 43,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e37",
+      "position": 22,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "It is proving less costly and more profitably for drugmakers to market directly to patients.",
+      "segments": [
+        "It is proving less",
+        "costly",
+        "and more",
+        "profitably",
+        "for drugmakers",
+        "to market",
+        "directly",
+        "to patients."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "profitable"
+      },
+      "explanation": "'less costly and more ...' harus adjective sejajar: profitable.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "'less costly and more ...' harus adjective sejajar: profitable."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 44,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e38",
+      "position": 23,
+      "section": "structure",
+      "testingPoint": "problem-of-verb",
+      "type": "error-find",
+      "text": "Sapphires weighing as much as two pounds have on occasion mined .",
+      "segments": [
+        "Sapphires",
+        "weighing",
+        "as",
+        "much as",
+        "two pounds",
+        "have on occasion",
+        "mined",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 6,
+        "fix": "been mined"
+      },
+      "explanation": "Passive perfect: have been mined.",
+      "hints": [
+        "Cari verb sejati: bagian mana yang membawa tense? Cek bentuk dan waktunya.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Passive perfect: have been mined."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 44,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e39",
+      "position": 24,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Like snakes, lizards can be found on all others continents except Antarctica.",
+      "segments": [
+        "Like",
+        "snakes, lizards can",
+        "be found",
+        "on all",
+        "others",
+        "continents",
+        "except",
+        "Antarctica."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "other"
+      },
+      "explanation": "Sebelum noun 'continents' pakai 'other' (all the other continents).",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Sebelum noun 'continents' pakai 'other' (all the other continents)."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 44,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-diag-e40",
+      "position": 25,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Banks, savings and loans, and finance companies have recently been doing home equity loans with greater frequency than ever before .",
+      "segments": [
+        "Banks, savings and loans, and finance companies",
+        "have recently",
+        "been",
+        "doing",
+        "home equity loans with",
+        "greater frequency",
+        "than",
+        "ever before",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "making"
+      },
+      "explanation": "Kolokasi yang benar: making loans.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Kolokasi yang benar: making loans."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis dan dicocokkan ke gambar halaman; buku tidak mencantumkan kunci.",
+      "sourcePage": 44,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    }
+  ]
+}

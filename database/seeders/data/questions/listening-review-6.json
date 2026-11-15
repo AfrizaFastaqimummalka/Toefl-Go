@@ -1,0 +1,800 @@
+{
+  "lesson": "listening-part-bc/review-6",
+  "questions": [
+    {
+      "id": "lst-r6-t1-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "When does this talk probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "During a biology laboratory session."
+        },
+        {
+          "id": "B",
+          "text": "In a biology study group."
+        },
+        {
+          "id": "C",
+          "text": "On the first day of class."
+        },
+        {
+          "id": "D",
+          "text": "Just before the final exam."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Dosen membuka dengan 'Welcome to Biology 101' dan membagikan silabus.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Kalimat pembuka dosen.",
+        "Jawaban C. Dosen membuka dengan 'Welcome to Biology 101' dan membagikan silabus."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk given by a professor."
+          ],
+          [
+            "W",
+            "Welcome to Biology 101. I'm Professor Martin, and this is my laboratory assistant, Peter Smith. This course meets twice a week for lecture and once a week for laboratory assignments. The text for this course is Introduction to Biological Sciences, by Abramson. You should get the text and read the first chapter before the next class. You will also need the laboratory manual. I've passed out a copy of the course syllabus. It lists the reading assignments and exam dates. We will cover one chapter a week for each of the next fifteen weeks, and there will be three exams. Grades in this course are based on your exam grades and on your grades for the laboratory assignments."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t1-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How often will Professor Martin give lectures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Once a week."
+        },
+        {
+          "id": "B",
+          "text": "Two times a week."
+        },
+        {
+          "id": "C",
+          "text": "Three times a week."
+        },
+        {
+          "id": "D",
+          "text": "For fifteen hours."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'meets twice a week for lecture'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Cari 'twice'.",
+        "Jawaban B. 'meets twice a week for lecture'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk given by a professor."
+          ],
+          [
+            "W",
+            "Welcome to Biology 101. I'm Professor Martin, and this is my laboratory assistant, Peter Smith. This course meets twice a week for lecture and once a week for laboratory assignments. The text for this course is Introduction to Biological Sciences, by Abramson. You should get the text and read the first chapter before the next class. You will also need the laboratory manual. I've passed out a copy of the course syllabus. It lists the reading assignments and exam dates. We will cover one chapter a week for each of the next fifteen weeks, and there will be three exams. Grades in this course are based on your exam grades and on your grades for the laboratory assignments."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t1-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What is the assignment for the next class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To do the first laboratory assignment."
+        },
+        {
+          "id": "B",
+          "text": "To take the first exam."
+        },
+        {
+          "id": "C",
+          "text": "To study the laboratory manual."
+        },
+        {
+          "id": "D",
+          "text": "To read one chapter of the text."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'read the first chapter before the next class'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Apa yang harus dibaca?",
+        "Jawaban D. 'read the first chapter before the next class'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk given by a professor."
+          ],
+          [
+            "W",
+            "Welcome to Biology 101. I'm Professor Martin, and this is my laboratory assistant, Peter Smith. This course meets twice a week for lecture and once a week for laboratory assignments. The text for this course is Introduction to Biological Sciences, by Abramson. You should get the text and read the first chapter before the next class. You will also need the laboratory manual. I've passed out a copy of the course syllabus. It lists the reading assignments and exam dates. We will cover one chapter a week for each of the next fifteen weeks, and there will be three exams. Grades in this course are based on your exam grades and on your grades for the laboratory assignments."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t1-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What information is given in the syllabus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Room assignments."
+        },
+        {
+          "id": "B",
+          "text": "Exam topics."
+        },
+        {
+          "id": "C",
+          "text": "Reading assignments."
+        },
+        {
+          "id": "D",
+          "text": "The first lecture."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Silabus berisi reading assignments dan jadwal ujian.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Cari kata 'syllabus'.",
+        "Jawaban C. Silabus berisi reading assignments dan jadwal ujian."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk given by a professor."
+          ],
+          [
+            "W",
+            "Welcome to Biology 101. I'm Professor Martin, and this is my laboratory assistant, Peter Smith. This course meets twice a week for lecture and once a week for laboratory assignments. The text for this course is Introduction to Biological Sciences, by Abramson. You should get the text and read the first chapter before the next class. You will also need the laboratory manual. I've passed out a copy of the course syllabus. It lists the reading assignments and exam dates. We will cover one chapter a week for each of the next fifteen weeks, and there will be three exams. Grades in this course are based on your exam grades and on your grades for the laboratory assignments."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t1-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What will the professor use to determine the final course grades?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exams and lab work."
+        },
+        {
+          "id": "B",
+          "text": "Reading and writing assignments."
+        },
+        {
+          "id": "C",
+          "text": "Class participation and grades on examinations."
+        },
+        {
+          "id": "D",
+          "text": "Lecture and laboratory attendance."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Nilai berdasarkan ujian dan tugas laboratorium.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Bagian terakhir talk.",
+        "Jawaban A. Nilai berdasarkan ujian dan tugas laboratorium."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk given by a professor."
+          ],
+          [
+            "W",
+            "Welcome to Biology 101. I'm Professor Martin, and this is my laboratory assistant, Peter Smith. This course meets twice a week for lecture and once a week for laboratory assignments. The text for this course is Introduction to Biological Sciences, by Abramson. You should get the text and read the first chapter before the next class. You will also need the laboratory manual. I've passed out a copy of the course syllabus. It lists the reading assignments and exam dates. We will cover one chapter a week for each of the next fifteen weeks, and there will be three exams. Grades in this course are based on your exam grades and on your grades for the laboratory assignments."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t2-01",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What was the topic of yesterday's lecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "What caused the Ring of Fire."
+        },
+        {
+          "id": "B",
+          "text": "The volcanoes of the Ring of Fire."
+        },
+        {
+          "id": "C",
+          "text": "Hawaiian volcanoes."
+        },
+        {
+          "id": "D",
+          "text": "Different types of volcanoes."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Kemarin mereka membahas gunung berapi di Ring of Fire.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Kalimat pertama.",
+        "Jawaban B. Kemarin mereka membahas gunung berapi di Ring of Fire."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a lecture given by a professor."
+          ],
+          [
+            "M",
+            "In yesterday's class, we discussed volcanoes located in the area known as the Ring of Fire, an area which basically encircles the Pacific. Most of the world's active volcanoes are located along the Ring of Fire, and the eruptions that take place there are among the most violent in the world. Today we're going to discuss the volcanoes of Hawaii, which are quite different from the volcanoes in the Ring of Fire. Hawaiian volcanoes are not located along the Ring of Fire. Instead, Hawaii is located in the middle of a massive plate. Hawaiian volcanoes are much gentler than those in the Ring of Fire. They have much less gas in them, which causes less explosive eruptions, and their lava is thinner, which results in mounds that are long and low rather than high and steep. Mauna Loa, the name of one of Hawaii's most famous volcanoes, actually means long mountain."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t2-02",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "What is the topic of today's lecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Ring of Fire."
+        },
+        {
+          "id": "B",
+          "text": "The characteristics of volcanoes in the Ring of Fire."
+        },
+        {
+          "id": "C",
+          "text": "The volcanoes of Hawaii."
+        },
+        {
+          "id": "D",
+          "text": "Mauna Loa."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'Today we're going to discuss the volcanoes of Hawaii'.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Cari kata 'today'.",
+        "Jawaban C. 'Today we're going to discuss the volcanoes of Hawaii'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a lecture given by a professor."
+          ],
+          [
+            "M",
+            "In yesterday's class, we discussed volcanoes located in the area known as the Ring of Fire, an area which basically encircles the Pacific. Most of the world's active volcanoes are located along the Ring of Fire, and the eruptions that take place there are among the most violent in the world. Today we're going to discuss the volcanoes of Hawaii, which are quite different from the volcanoes in the Ring of Fire. Hawaiian volcanoes are not located along the Ring of Fire. Instead, Hawaii is located in the middle of a massive plate. Hawaiian volcanoes are much gentler than those in the Ring of Fire. They have much less gas in them, which causes less explosive eruptions, and their lava is thinner, which results in mounds that are long and low rather than high and steep. Mauna Loa, the name of one of Hawaii's most famous volcanoes, actually means long mountain."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t2-03",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "Where are most of the world's active volcanoes located?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In Hawaii."
+        },
+        {
+          "id": "B",
+          "text": "In the United States."
+        },
+        {
+          "id": "C",
+          "text": "Along the Ring of Fire."
+        },
+        {
+          "id": "D",
+          "text": "Within the Ring of Fire."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Kebanyakan berada di sepanjang Ring of Fire. 'Within' menjebak karena Hawaii ada di dalamnya.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Cari kata yang menyebut lokasi sebagian besar gunung berapi aktif.",
+        "Jawaban C. Kebanyakan berada di sepanjang Ring of Fire. 'Within' menjebak karena Hawaii ada di dalamnya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a lecture given by a professor."
+          ],
+          [
+            "M",
+            "In yesterday's class, we discussed volcanoes located in the area known as the Ring of Fire, an area which basically encircles the Pacific. Most of the world's active volcanoes are located along the Ring of Fire, and the eruptions that take place there are among the most violent in the world. Today we're going to discuss the volcanoes of Hawaii, which are quite different from the volcanoes in the Ring of Fire. Hawaiian volcanoes are not located along the Ring of Fire. Instead, Hawaii is located in the middle of a massive plate. Hawaiian volcanoes are much gentler than those in the Ring of Fire. They have much less gas in them, which causes less explosive eruptions, and their lava is thinner, which results in mounds that are long and low rather than high and steep. Mauna Loa, the name of one of Hawaii's most famous volcanoes, actually means long mountain."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t2-04",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What is characteristic of Hawaii's volcanoes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are not so violent."
+        },
+        {
+          "id": "B",
+          "text": "They are located along the Ring of Fire."
+        },
+        {
+          "id": "C",
+          "text": "They contain a lot of gas."
+        },
+        {
+          "id": "D",
+          "text": "They contain thick lava."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Letusannya lebih lembut karena gasnya sedikit dan lavanya encer.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Bandingkan dengan Ring of Fire.",
+        "Jawaban A. Letusannya lebih lembut karena gasnya sedikit dan lavanya encer."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a lecture given by a professor."
+          ],
+          [
+            "M",
+            "In yesterday's class, we discussed volcanoes located in the area known as the Ring of Fire, an area which basically encircles the Pacific. Most of the world's active volcanoes are located along the Ring of Fire, and the eruptions that take place there are among the most violent in the world. Today we're going to discuss the volcanoes of Hawaii, which are quite different from the volcanoes in the Ring of Fire. Hawaiian volcanoes are not located along the Ring of Fire. Instead, Hawaii is located in the middle of a massive plate. Hawaiian volcanoes are much gentler than those in the Ring of Fire. They have much less gas in them, which causes less explosive eruptions, and their lava is thinner, which results in mounds that are long and low rather than high and steep. Mauna Loa, the name of one of Hawaii's most famous volcanoes, actually means long mountain."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t2-05",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What is Mauna Loa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A volcano on the Ring of Fire."
+        },
+        {
+          "id": "B",
+          "text": "An island in Hawaii."
+        },
+        {
+          "id": "C",
+          "text": "A long, low volcanic mountain."
+        },
+        {
+          "id": "D",
+          "text": "An explosive volcano."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Namanya berarti 'long mountain', gunung rendah dan panjang.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Apa arti namanya?",
+        "Jawaban C. Namanya berarti 'long mountain', gunung rendah dan panjang."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a lecture given by a professor."
+          ],
+          [
+            "M",
+            "In yesterday's class, we discussed volcanoes located in the area known as the Ring of Fire, an area which basically encircles the Pacific. Most of the world's active volcanoes are located along the Ring of Fire, and the eruptions that take place there are among the most violent in the world. Today we're going to discuss the volcanoes of Hawaii, which are quite different from the volcanoes in the Ring of Fire. Hawaiian volcanoes are not located along the Ring of Fire. Instead, Hawaii is located in the middle of a massive plate. Hawaiian volcanoes are much gentler than those in the Ring of Fire. They have much less gas in them, which causes less explosive eruptions, and their lava is thinner, which results in mounds that are long and low rather than high and steep. Mauna Loa, the name of one of Hawaii's most famous volcanoes, actually means long mountain."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t3-01",
+      "position": 11,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "Who is probably giving this talk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An artist."
+        },
+        {
+          "id": "B",
+          "text": "A tour guide."
+        },
+        {
+          "id": "C",
+          "text": "An Indian."
+        },
+        {
+          "id": "D",
+          "text": "Orville Wright."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Pembicara memandu rombongan: 'we're going on a tour'.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Apa yang ia lakukan terhadap rombongan?",
+        "Jawaban B. Pembicara memandu rombongan: 'we're going on a tour'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the Smithsonian."
+          ],
+          [
+            "W",
+            "I hope you've enjoyed your visit so far in Washington, D.C. Today we're going on a tour of the Smithsonian. The Smithsonian is actually several museums, each with a different focus, situated together on a mall. These museums have more than sixty million items on exhibit. The first museum we'll visit is the Museum of Natural History, which has various types of stuffed animals and exhibits showing the life-styles of early American Indians and Eskimos. From there we'll go on to the National Air and Space Museum, where you can see the airplane that Orville Wright used to make his first flight. After we visit those two museums as a group, you'll have free time to visit some of the other Smithsonian museums: the Museum of American History, the Arts and Industries Building, and the various art museums. After our trip to the Smithsonian today, we'll go on to the White House tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t3-02",
+      "position": 12,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How many items are on exhibit in the Smithsonian museums?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Several."
+        },
+        {
+          "id": "B",
+          "text": "Sixty thousand."
+        },
+        {
+          "id": "C",
+          "text": "Sixteen million."
+        },
+        {
+          "id": "D",
+          "text": "Millions and millions."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Lebih dari enam puluh juta, jadi 'millions and millions'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Hati-hati dengan angka yang mirip.",
+        "Jawaban D. Lebih dari enam puluh juta, jadi 'millions and millions'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the Smithsonian."
+          ],
+          [
+            "W",
+            "I hope you've enjoyed your visit so far in Washington, D.C. Today we're going on a tour of the Smithsonian. The Smithsonian is actually several museums, each with a different focus, situated together on a mall. These museums have more than sixty million items on exhibit. The first museum we'll visit is the Museum of Natural History, which has various types of stuffed animals and exhibits showing the life-styles of early American Indians and Eskimos. From there we'll go on to the National Air and Space Museum, where you can see the airplane that Orville Wright used to make his first flight. After we visit those two museums as a group, you'll have free time to visit some of the other Smithsonian museums: the Museum of American History, the Arts and Industries Building, and the various art museums. After our trip to the Smithsonian today, we'll go on to the White House tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t3-03",
+      "position": 13,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "According to the talk, which museum has exhibits of early Eskimos?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The National Air and Space Museum."
+        },
+        {
+          "id": "B",
+          "text": "The Museum of Natural History."
+        },
+        {
+          "id": "C",
+          "text": "The American History Museum."
+        },
+        {
+          "id": "D",
+          "text": "The Smithsonian Arts and Industries Building."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Museum of Natural History menampilkan gaya hidup suku Indian dan Eskimo awal.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Cari kata 'Eskimos'.",
+        "Jawaban B. Museum of Natural History menampilkan gaya hidup suku Indian dan Eskimo awal."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the Smithsonian."
+          ],
+          [
+            "W",
+            "I hope you've enjoyed your visit so far in Washington, D.C. Today we're going on a tour of the Smithsonian. The Smithsonian is actually several museums, each with a different focus, situated together on a mall. These museums have more than sixty million items on exhibit. The first museum we'll visit is the Museum of Natural History, which has various types of stuffed animals and exhibits showing the life-styles of early American Indians and Eskimos. From there we'll go on to the National Air and Space Museum, where you can see the airplane that Orville Wright used to make his first flight. After we visit those two museums as a group, you'll have free time to visit some of the other Smithsonian museums: the Museum of American History, the Arts and Industries Building, and the various art museums. After our trip to the Smithsonian today, we'll go on to the White House tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t3-04",
+      "position": 14,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "Which museum will they visit as a group?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The American History Museum."
+        },
+        {
+          "id": "B",
+          "text": "The Smithsonian Arts and Industries Building."
+        },
+        {
+          "id": "C",
+          "text": "The Washington Museum."
+        },
+        {
+          "id": "D",
+          "text": "The National Air and Space Museum."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Mereka mengunjungi dua museum bersama (Natural History dan Air and Space). Hanya Air and Space yang ada di opsi.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Museum mana yang dikunjungi bersama?",
+        "Jawaban D. Mereka mengunjungi dua museum bersama (Natural History dan Air and Space). Hanya Air and Space yang ada di opsi."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the Smithsonian."
+          ],
+          [
+            "W",
+            "I hope you've enjoyed your visit so far in Washington, D.C. Today we're going on a tour of the Smithsonian. The Smithsonian is actually several museums, each with a different focus, situated together on a mall. These museums have more than sixty million items on exhibit. The first museum we'll visit is the Museum of Natural History, which has various types of stuffed animals and exhibits showing the life-styles of early American Indians and Eskimos. From there we'll go on to the National Air and Space Museum, where you can see the airplane that Orville Wright used to make his first flight. After we visit those two museums as a group, you'll have free time to visit some of the other Smithsonian museums: the Museum of American History, the Arts and Industries Building, and the various art museums. After our trip to the Smithsonian today, we'll go on to the White House tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r6-t3-05",
+      "position": 15,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "Where will they go tomorrow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To the White House."
+        },
+        {
+          "id": "B",
+          "text": "To the Smithsonian."
+        },
+        {
+          "id": "C",
+          "text": "To the mall."
+        },
+        {
+          "id": "D",
+          "text": "To various other museums."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'tomorrow we'll go on to the White House'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Perhatikan kalimat terakhir.",
+        "Jawaban A. 'tomorrow we'll go on to the White House'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 34,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a talk about the Smithsonian."
+          ],
+          [
+            "W",
+            "I hope you've enjoyed your visit so far in Washington, D.C. Today we're going on a tour of the Smithsonian. The Smithsonian is actually several museums, each with a different focus, situated together on a mall. These museums have more than sixty million items on exhibit. The first museum we'll visit is the Museum of Natural History, which has various types of stuffed animals and exhibits showing the life-styles of early American Indians and Eskimos. From there we'll go on to the National Air and Space Museum, where you can see the airplane that Orville Wright used to make his first flight. After we visit those two museums as a group, you'll have free time to visit some of the other Smithsonian museums: the Museum of American History, the Arts and Industries Building, and the various art museums. After our trip to the Smithsonian today, we'll go on to the White House tomorrow."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

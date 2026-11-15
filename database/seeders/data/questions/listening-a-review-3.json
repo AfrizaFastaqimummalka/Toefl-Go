@@ -1,0 +1,575 @@
+{
+  "lesson": "listening-part-a/review-3",
+  "questions": [
+    {
+      "id": "lst-a-r3-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She plans to talk a lot this month."
+        },
+        {
+          "id": "B",
+          "text": "She has a lot to say about the phone bill."
+        },
+        {
+          "id": "C",
+          "text": "The bill is high because she has a lot to say."
+        },
+        {
+          "id": "D",
+          "text": "She agrees with the man."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'You can say that again!' = setuju.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Ungkapan itu menyatakan setuju.",
+        "Jawaban D. 'You can say that again!' = setuju."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "This phone bill is outrageously high."
+          ],
+          [
+            "W",
+            "You can say that again!"
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What had the man thought about Bill?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bill had never really been sick."
+        },
+        {
+          "id": "B",
+          "text": "Bill was too sick to come to class."
+        },
+        {
+          "id": "C",
+          "text": "Bill was sick of calculus class."
+        },
+        {
+          "id": "D",
+          "text": "Bill had forgotten about the calculus class that morning."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'Then he WAS sick!' (penekanan) berarti sebelumnya ia mengira Bill tidak benar-benar sakit.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Penekanan pada 'was'. Apa dugaan awalnya?",
+        "Jawaban A. 'Then he WAS sick!' (penekanan) berarti sebelumnya ia mengira Bill tidak benar-benar sakit."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Bill missed calculus class this morning because he's sick."
+          ],
+          [
+            "M",
+            "Then he WAS sick! I thought he was just skipping."
+          ],
+          [
+            "N",
+            "What had the man thought about Bill?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The man should go out tonight."
+        },
+        {
+          "id": "B",
+          "text": "The man should stay home and relax."
+        },
+        {
+          "id": "C",
+          "text": "The man should work on the paper tonight."
+        },
+        {
+          "id": "D",
+          "text": "The man should go out Monday instead."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'Why not work on it tonight?' adalah saran.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Perhatikan 'Why not ...'.",
+        "Jawaban C. 'Why not work on it tonight?' adalah saran."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I have a paper due soon, but I'd like to go out tonight."
+          ],
+          [
+            "W",
+            "Why not work on the paper tonight and go out another time?"
+          ],
+          [
+            "N",
+            "What does the woman suggest?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The cafeteria was open in the morning."
+        },
+        {
+          "id": "B",
+          "text": "The cafeteria did not serve breakfast."
+        },
+        {
+          "id": "C",
+          "text": "The breakfast in the cafeteria was not very tasty."
+        },
+        {
+          "id": "D",
+          "text": "The woman never ate breakfast in the cafeteria."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Jawabannya ragu-ragu ('as far as I know') tetapi isinya: cafeteria tidak menyajikan sarapan.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Ungkapan keraguan apa yang dipakai?",
+        "Jawaban B. Jawabannya ragu-ragu ('as far as I know') tetapi isinya: cafeteria tidak menyajikan sarapan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "The cafeteria doesn't serve breakfast, does it?"
+          ],
+          [
+            "W",
+            "Not as far as I know."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He believes that it is acceptable to park there."
+        },
+        {
+          "id": "B",
+          "text": "The parking lot is too far from their destination."
+        },
+        {
+          "id": "C",
+          "text": "He knows that they won't get a ticket."
+        },
+        {
+          "id": "D",
+          "text": "He knows where the parking lot is."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'As far as I can tell' menandakan ia berpendapat boleh, tapi tidak pasti.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Ungkapan keraguan dan isinya.",
+        "Jawaban A. 'As far as I can tell' menandakan ia berpendapat boleh, tapi tidak pasti."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Can we park here?"
+          ],
+          [
+            "M",
+            "As far as I can tell, it's fine."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He would be glad to say it over again."
+        },
+        {
+          "id": "B",
+          "text": "He would like the woman to repeat what she said."
+        },
+        {
+          "id": "C",
+          "text": "He says that he would like to take the class again."
+        },
+        {
+          "id": "D",
+          "text": "He's happy the class is over, too."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'I'll say!' = setuju kuat.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Ungkapan setuju.",
+        "Jawaban D. 'I'll say!' = setuju kuat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "I'm so glad this class is finally over."
+          ],
+          [
+            "M",
+            "I'll say!"
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He finished all the problems."
+        },
+        {
+          "id": "B",
+          "text": "He doesn't believe what the woman said."
+        },
+        {
+          "id": "C",
+          "text": "He was able to finish some of the problems."
+        },
+        {
+          "id": "D",
+          "text": "Both he and the woman were unsuccessful on the math problems."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'Neither could I' = setuju dengan pernyataan negatif.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Pasangan setuju untuk kalimat negatif.",
+        "Jawaban D. 'Neither could I' = setuju dengan pernyataan negatif."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "I couldn't finish all the math problems."
+          ],
+          [
+            "M",
+            "Neither could I."
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-08",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What had the man thought?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The man had mailed the package."
+        },
+        {
+          "id": "B",
+          "text": "The man had forgotten to go to the post office."
+        },
+        {
+          "id": "C",
+          "text": "The man had given the package to the woman to mail."
+        },
+        {
+          "id": "D",
+          "text": "The man remembered the package after he went to the post office."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'Then I DIDN'T mail it?' (penekanan) berarti tadinya ia mengira sudah mengirimnya.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Penekanan pada 'didn't'.",
+        "Jawaban A. 'Then I DIDN'T mail it?' (penekanan) berarti tadinya ia mengira sudah mengirimnya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Your package is still sitting on the kitchen table."
+          ],
+          [
+            "M",
+            "Then I DIDN'T mail it?"
+          ],
+          [
+            "N",
+            "What had the man thought?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-09",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They should take both cars."
+        },
+        {
+          "id": "B",
+          "text": "The woman should try not to be afraid."
+        },
+        {
+          "id": "C",
+          "text": "The woman should buy a bigger car."
+        },
+        {
+          "id": "D",
+          "text": "They should go together in his car."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'Let's go together in mine' adalah saran.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'Let's ...' itu saran.",
+        "Jawaban D. 'Let's go together in mine' adalah saran."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Should we take both cars to the party?"
+          ],
+          [
+            "M",
+            "Let's go together in mine."
+          ],
+          [
+            "N",
+            "What does the man suggest?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r3-10",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the man mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He wants to know if the muffins taste good."
+        },
+        {
+          "id": "B",
+          "text": "He thinks the muffins were recently prepared."
+        },
+        {
+          "id": "C",
+          "text": "The muffins are not really fresh."
+        },
+        {
+          "id": "D",
+          "text": "He's sure that the muffins were just made."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Tag question 'weren't they?' menandakan ia berpikir (tidak yakin) muffin baru dibuat.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Tag question: yakin atau menduga?",
+        "Jawaban B. Tag question 'weren't they?' menandakan ia berpikir (tidak yakin) muffin baru dibuat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 23,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "These muffins smell wonderful."
+          ],
+          [
+            "M",
+            "They were just made, weren't they?"
+          ],
+          [
+            "N",
+            "What does the man mean?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    }
+  ]
+}

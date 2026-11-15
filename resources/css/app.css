@@ -971,3 +971,26 @@ button { font: inherit; color: inherit; cursor: pointer; }
         transition-duration: 0.01ms !important;
     }
 }
+
+/* Fase 2: bagian kalimat yang tidak bergaris bawah (non-tappable) dan opsi alternatif tunggal */
+.seg-inline[data-plain='true'] { background: none; border-color: transparent; color: var(--ink); opacity: 0.85; }
+.alt-ctrl.only-one { grid-template-columns: 1fr; }
+
+/* Fase 3: pemutar audio Listening */
+.audio-box { margin: 10px 0 14px; padding: 12px; border-radius: 14px; background: var(--surface-2); border: 1px solid var(--line); }
+.audio-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.audio-rate { display: inline-flex; align-items: center; gap: 8px; margin-left: auto; }
+.audio-rate select { min-height: 44px; width: auto; padding: 0 10px; }
+.audio-script { margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--line); display: grid; gap: 4px; }
+
+/* Fase 4: passage Reading dengan nomor baris */
+.passage { margin: 6px 0 14px; padding: 12px 14px; border-radius: 14px; background: var(--surface-2); border: 1px solid var(--line); }
+.passage summary { cursor: pointer; font-weight: 700; min-height: 32px; }
+.passage-lines { list-style: none; margin: 8px 0 0; padding: 0; font-size: 0.98rem; line-height: 1.7; }
+.passage-lines li { display: grid; grid-template-columns: 2.2rem 1fr; gap: 6px; }
+.passage-lines .ln { color: var(--muted); font-size: 0.78rem; text-align: right; padding-top: 3px; }
+.essay-area { width: 100%; min-height: 300px; font-size: 16px; line-height: 1.6; padding: 14px; border-radius: 14px; border: 1.5px solid var(--line); background: var(--surface); color: var(--ink); font-family: inherit; resize: vertical; }
+.essay-area:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.check-row { display: flex; align-items: center; gap: 10px; min-height: 44px; }
+.check-row input { width: 22px; height: 22px; }
+.feedback-text { white-space: pre-wrap; line-height: 1.6; }

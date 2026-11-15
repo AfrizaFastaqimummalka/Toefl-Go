@@ -18,6 +18,10 @@ Route::get('/latihan/ulang', [PracticeController::class, 'review'])->middleware(
 Route::get('/kartu/{category?}', [PracticeController::class, 'cards'])->name('cards');
 
 Route::get('/tes', [PageController::class, 'test'])->name('test');
+Route::get('/tes/structure', [PageController::class, 'structureTest'])->name('test.structure');
+Route::get('/tes/reading', [PageController::class, 'readingTest'])->name('test.reading');
+Route::get('/menulis', [PageController::class, 'write'])->name('write');
+Route::get('/tes/listening', [PageController::class, 'listeningTest'])->name('test.listening');
 Route::get('/ai', [PageController::class, 'ai'])->name('ai');
 Route::get('/tentang', [PageController::class, 'about'])->name('about');
 

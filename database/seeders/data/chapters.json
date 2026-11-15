@@ -115,10 +115,79 @@
     "title": "Connector",
     "subtitle": "Time, cause, noun, adjective",
     "position": 3,
-    "available": false,
+    "available": true,
     "phase": 2,
-    "recommend": [],
-    "lessons": []
+    "recommend": [
+      "connector-time",
+      "connector-cause",
+      "connector-noun",
+      "connector-adjective"
+    ],
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan inti",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Kapan butuh connector"
+          },
+          {
+            "t": "p",
+            "text": "Dua klausa dalam satu kalimat harus disambung connector yang tepat. Tanpa connector, kalimat salah. Connector yang salah jenis juga salah."
+          },
+          {
+            "t": "xray",
+            "marked": "S{Teresa} V{went} inside C{because} S{it} V{was raining}.",
+            "caption": "Dua klausa, satu connector sebab (cause)."
+          },
+          {
+            "t": "h",
+            "text": "Empat kelompok"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Time: after, as, before, once, since, until, when, while.",
+              "Cause: because, as, since, now that.",
+              "Noun clause: what, who, whether, if, that.",
+              "Adjective clause: who, whom, which, that, whose."
+            ]
+          },
+          {
+            "t": "xray",
+            "marked": "S{The book} R{which} S{you} V{recommended} V{was} interesting.",
+            "caption": "who/which/that bisa sekaligus subject klausa (R)."
+          },
+          {
+            "t": "h",
+            "text": "Jebakan"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Dua pasang subject-verb tanpa connector.",
+              "Connector ada tapi subject atau verb hilang ('Because the train').",
+              "Satu klausa saja tapi diberi connector (hapus 'Or' di awal)."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-2",
+        "kind": "practice",
+        "title": "Lead-in 2: connector",
+        "position": 2
+      },
+      {
+        "slug": "review-2",
+        "kind": "practice",
+        "title": "Review 2: lengkapi kalimat",
+        "position": 3
+      }
+    ]
   },
   {
     "slug": "structure-inversion",
@@ -126,10 +195,63 @@
     "title": "Inversion",
     "subtitle": "Negative expression, place, conditional",
     "position": 4,
-    "available": false,
+    "available": true,
     "phase": 2,
-    "recommend": [],
-    "lessons": []
+    "recommend": [
+      "inversion-negative"
+    ],
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan inti",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Subject tidak selalu di depan verb"
+          },
+          {
+            "t": "p",
+            "text": "Pada inversi, verb muncul sebelum subject. Kuncinya: temukan subject asli di belakang verb, lalu cek agreement (singular atau jamak)."
+          },
+          {
+            "t": "h",
+            "text": "Kapan inversi terjadi"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Negative expression di depan: no, never, rarely, seldom, hardly, only (Rarely were they so happy).",
+              "Place expression yang perlu untuk melengkapi kalimat (In the classroom were some old desks).",
+              "Pengandaian tanpa if: Were he here, he would help (had, should, were).",
+              "Pertanyaan langsung (What are they?), tetapi tidak saat menyambung klausa (I know what they are).",
+              "Setelah than: boleh inversi, dua-duanya benar."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Contoh agreement"
+          },
+          {
+            "t": "p",
+            "text": "Seldom in the history of television have two new comedies been successful. Subject aslinya two new comedies, jadi verbnya have, bukan has."
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-3",
+        "kind": "practice",
+        "title": "Lead-in 3: inversi dan agreement",
+        "position": 2
+      },
+      {
+        "slug": "review-3",
+        "kind": "practice",
+        "title": "Review 3: inversi dan agreement",
+        "position": 3
+      }
+    ]
   },
   {
     "slug": "structure-parallel",
@@ -137,10 +259,64 @@
     "title": "Parallel Structure",
     "subtitle": "Conjunction, paired, comparative",
     "position": 5,
-    "available": false,
+    "available": true,
     "phase": 2,
-    "recommend": [],
-    "lessons": []
+    "recommend": [
+      "paired-conjunction"
+    ],
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan inti",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Kata dalam daftar harus sejenis"
+          },
+          {
+            "t": "p",
+            "text": "Kata atau frasa yang dihubungkan harus punya bentuk dan kelas kata yang sama."
+          },
+          {
+            "t": "h",
+            "text": "Tiga pola"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Coordinate conjunction (and, or, but): noun-noun, verb-verb, adjective-adjective, phrase-phrase, clause-clause.",
+              "Paired conjunction: both...and, either...or, neither...nor, not only...but also. Jangan dicampur (either...nor salah).",
+              "Perbandingan: bandingkan hal yang sama bentuknya (farther than, the more..., the bigger...)."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Contoh salah dan benar"
+          },
+          {
+            "t": "list",
+            "items": [
+              "He plans on traveling, dine, and playing golf. Benar: traveling, dining, playing.",
+              "Either Sam nor Sue. Benar: Either Sam or Sue."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-4",
+        "kind": "practice",
+        "title": "Lead-in 4: parallel structure",
+        "position": 2
+      },
+      {
+        "slug": "review-4",
+        "kind": "practice",
+        "title": "Review 4: parallel structure",
+        "position": 3
+      }
+    ]
   },
   {
     "slug": "structure-passive-usage",
@@ -148,10 +324,62 @@
     "title": "Passive, Article, Usage",
     "subtitle": "like, alike, another, other",
     "position": 6,
-    "available": false,
+    "available": true,
     "phase": 2,
-    "recommend": [],
-    "lessons": []
+    "recommend": [
+      "usage-like-other"
+    ],
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan inti",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Passive"
+          },
+          {
+            "t": "p",
+            "text": "Passive butuh be + past participle: The package was delivered. Cek tense be dan bentuk verb ketiga (had been replaced, should be fed)."
+          },
+          {
+            "t": "h",
+            "text": "Artikel"
+          },
+          {
+            "t": "p",
+            "text": "a/an hanya dengan noun singular (a new computer, bukan a new computers). Pakai a sebelum bunyi konsonan, termasuk 'unique' (a unique)."
+          },
+          {
+            "t": "h",
+            "text": "like, alike, unlike, other, another"
+          },
+          {
+            "t": "list",
+            "items": [
+              "like: adjective sebelum noun, atau preposisi + objek (Like snakes, ...).",
+              "alike: adjective setelah linking verb (They are alike).",
+              "unlike: preposisi, bisa di awal kalimat.",
+              "another + singular, other + jamak, the other (tertentu), others tanpa noun."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-5",
+        "kind": "practice",
+        "title": "Lead-in 5: passive, artikel, usage",
+        "position": 2
+      },
+      {
+        "slug": "review-5",
+        "kind": "practice",
+        "title": "Review 5: passive, artikel, usage",
+        "position": 3
+      }
+    ]
   },
   {
     "slug": "structure-diagnostic-error",
@@ -159,10 +387,17 @@
     "title": "Diagnostic: Error ID",
     "subtitle": "25 soal tap bagian yang salah",
     "position": 7,
-    "available": false,
+    "available": true,
     "phase": 2,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "diagnostic-error",
+        "kind": "practice",
+        "title": "Diagnostic error identification 16-40",
+        "position": 1
+      }
+    ]
   },
   {
     "slug": "listening-part-a",
@@ -170,10 +405,81 @@
     "title": "Part A",
     "subtitle": "Percakapan pendek",
     "position": 1,
-    "available": false,
+    "available": true,
     "phase": 3,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan strategi",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Strategi Part A"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Fokus ke baris kedua percakapan.",
+              "Jawaban biasanya restatement dari kata kunci di baris kedua.",
+              "Opsi yang bunyinya mirip kata di audio hampir selalu jebakan.",
+              "Soal berurutan dari mudah ke sulit. Intip opsi sebelum audio mulai."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Lima testing point"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Restatement dan similar sound.",
+              "Who, what, where: simpulkan dari petunjuk.",
+              "Functional expression: setuju (So do I, Me too, Neither do I), ragu dan saran (tag question, Why not...), terkejut (penekanan pada did, can).",
+              "Idiom: cari makna kiasan (called off, burning the candle at both ends)."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "contoh",
+        "kind": "practice",
+        "title": "Contoh dari buku (7 soal)",
+        "position": 2
+      },
+      {
+        "slug": "lead-in-part-a",
+        "kind": "practice",
+        "title": "Lead-in 1-4 (12 soal)",
+        "position": 3
+      },
+      {
+        "slug": "review-1",
+        "kind": "practice",
+        "title": "Review 1: restatement",
+        "position": 4
+      },
+      {
+        "slug": "review-2",
+        "kind": "practice",
+        "title": "Review 2: who, what, where",
+        "position": 5
+      },
+      {
+        "slug": "review-3",
+        "kind": "practice",
+        "title": "Review 3: functional expression",
+        "position": 6
+      },
+      {
+        "slug": "review-4",
+        "kind": "practice",
+        "title": "Review 4: idiom",
+        "position": 7
+      }
+    ]
   },
   {
     "slug": "listening-part-bc",
@@ -181,10 +487,67 @@
     "title": "Part B & C",
     "subtitle": "Percakapan panjang dan talk",
     "position": 2,
-    "available": false,
+    "available": true,
     "phase": 3,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan strategi",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Strategi Part B dan C"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Intip opsi dulu untuk menebak topik dan pertanyaan.",
+              "Dengarkan baris pertama, lalu simpulkan siapa, di mana, kapan.",
+              "Pertanyaan berurutan mengikuti isi audio.",
+              "Tebak saja kalau tidak yakin dan jangan ditinggal kosong."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Dua jenis pertanyaan utama"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Main idea atau topic.",
+              "Inference: siapa pembicaranya, di mana, kapan, kenapa."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-5",
+        "kind": "practice",
+        "title": "Lead-in 5: percakapan",
+        "position": 2
+      },
+      {
+        "slug": "review-5",
+        "kind": "practice",
+        "title": "Review 5: 3 percakapan (15 soal)",
+        "position": 3
+      },
+      {
+        "slug": "lead-in-6",
+        "kind": "practice",
+        "title": "Lead-in 6: talk",
+        "position": 4
+      },
+      {
+        "slug": "review-6",
+        "kind": "practice",
+        "title": "Review 6: 3 talk (15 soal)",
+        "position": 5
+      }
+    ]
   },
   {
     "slug": "reading-passages",
@@ -192,10 +555,64 @@
     "title": "Passage & 5 tipe soal",
     "subtitle": "Main idea sampai vocabulary",
     "position": 1,
-    "available": false,
+    "available": true,
     "phase": 4,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan strategi",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Strategi Reading"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Baca pertanyaan dulu, lalu cari jawabannya di passage.",
+              "Jangan baca ulang seluruh passage tiap soal. Pakai nomor baris.",
+              "Soal biasanya berurutan mengikuti passage.",
+              "Kalau tidak yakin, tebak. Jangan dikosongkan."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Lima tipe soal"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Main idea: topik yang mencakup seluruh passage.",
+              "Stated detail dan NOT/EXCEPT: tertulis langsung, atau tiga opsi tertulis dan satu tidak.",
+              "Inference: simpulan dari fakta yang ada.",
+              "Reference: kata ganti merujuk ke siapa atau apa.",
+              "Vocabulary: arti kata menurut konteks kalimat."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "lead-in-vocab",
+        "kind": "practice",
+        "title": "Lead-in 5: vocabulary (8 soal)",
+        "position": 2
+      },
+      {
+        "slug": "review-1",
+        "kind": "practice",
+        "title": "Review 1: tiga passage (18 soal)",
+        "position": 3
+      },
+      {
+        "slug": "review-2",
+        "kind": "practice",
+        "title": "Review 2: karbohidrat (12 soal)",
+        "position": 4
+      }
+    ]
   },
   {
     "slug": "reading-word-parts",
@@ -203,10 +620,45 @@
     "title": "Word parts",
     "subtitle": "Prefix dan root",
     "position": 2,
-    "available": false,
+    "available": true,
     "phase": 4,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Prefix dan root",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Word parts"
+          },
+          {
+            "t": "p",
+            "text": "Banyak kata bahasa Inggris dibangun dari awalan (prefix) dan akar (root). Kalau tahu maknanya, kamu bisa menebak arti kata baru."
+          },
+          {
+            "t": "list",
+            "items": [
+              "a-/an- = tanpa (anesthesia)",
+              "inter- = antara (interstate), intra- = di dalam (intrastate)",
+              "chronos = waktu, therm = panas, struct = membangun"
+            ]
+          },
+          {
+            "t": "p",
+            "text": "Latihan kartu kata ada di tab Latihan, bagian Kartu kata."
+          }
+        ]
+      },
+      {
+        "slug": "kuis",
+        "kind": "practice",
+        "title": "Kuis word parts (12 soal)",
+        "position": 2
+      }
+    ]
   },
   {
     "slug": "writing-twe",
@@ -214,10 +666,53 @@
     "title": "Test of Written English",
     "subtitle": "Esai 30 menit, skala 1-6",
     "position": 1,
-    "available": false,
+    "available": true,
     "phase": 5,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Strategi dan skala penilaian",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Esai 30 menit"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Rencanakan 3-5 menit: tentukan posisi dan 2-3 alasan.",
+              "Intro: kenalkan topik dan posisimu.",
+              "Body: tiap paragraf satu gagasan, didukung contoh, alasan, atau fakta.",
+              "Conclusion: ulang posisi dengan kata lain.",
+              "Pakai kata transisi (first, however, as a result).",
+              "Sisakan 3-5 menit untuk proofread."
+            ]
+          },
+          {
+            "t": "h",
+            "text": "Skala 1-6 (ringkas)"
+          },
+          {
+            "t": "list",
+            "items": [
+              "6: jelas, terorganisasi baik, dukungan tepat, grammar bervariasi dan hampir tanpa salah.",
+              "5: umumnya jelas dan terorganisasi, dukungan cukup, ada beberapa salah kecil.",
+              "4: cukup terorganisasi, dukungan terbatas, ada salah yang tidak mengganggu makna.",
+              "3: organisasi lemah atau dukungan tipis, salah grammar cukup sering.",
+              "2: sulit dipahami, kontrol bahasa rendah.",
+              "1: hampir tidak ada struktur atau makna."
+            ]
+          },
+          {
+            "t": "p",
+            "text": "Tulis esaimu di halaman Menulis. Tombol 'Koreksi esaiku' meminta tutor AI menilai dengan skala ini."
+          }
+        ]
+      }
+    ]
   },
   {
     "slug": "writing-appendix",
@@ -225,9 +720,53 @@
     "title": "Appendix",
     "subtitle": "Phrasal verb, idiom, active vs passive",
     "position": 2,
-    "available": false,
+    "available": true,
     "phase": 5,
     "recommend": [],
-    "lessons": []
+    "lessons": [
+      {
+        "slug": "ringkasan",
+        "kind": "summary",
+        "title": "Ringkasan appendix",
+        "position": 1,
+        "content": [
+          {
+            "t": "h",
+            "text": "Isi appendix"
+          },
+          {
+            "t": "list",
+            "items": [
+              "Two-part dan three-part verb (cut down, put up with).",
+              "Idiom yang sering keluar di Listening.",
+              "Active vs passive.",
+              "Daftar irregular verbs."
+            ]
+          },
+          {
+            "t": "p",
+            "text": "Kartu kata ada di tab Latihan: phrasal verb, idiom, dan irregular verbs."
+          }
+        ]
+      },
+      {
+        "slug": "phrasal-verb",
+        "kind": "practice",
+        "title": "Phrasal verb (10 soal)",
+        "position": 2
+      },
+      {
+        "slug": "idiom",
+        "kind": "practice",
+        "title": "Idiom (12 soal)",
+        "position": 3
+      },
+      {
+        "slug": "active-passive",
+        "kind": "practice",
+        "title": "Active vs passive (15 soal)",
+        "position": 4
+      }
+    ]
   }
 ]

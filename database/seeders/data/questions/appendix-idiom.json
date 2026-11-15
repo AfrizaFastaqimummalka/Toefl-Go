@@ -1,0 +1,509 @@
+{
+  "lesson": "writing-appendix/idiom",
+  "questions": [
+    {
+      "id": "app-id-01",
+      "position": 1,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"burning the candle at both ends\" mean?  \"He's holding down two jobs and attending school. He's really burning the candle at both ends.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing too much"
+        },
+        {
+          "id": "B",
+          "text": "doing things in the wrong order"
+        },
+        {
+          "id": "C",
+          "text": "saying embarrassing things"
+        },
+        {
+          "id": "D",
+          "text": "speaking indirectly"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"burning the candle at both ends\" berarti doing too much.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. doing too much"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-02",
+      "position": 2,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"putting the cart before the horse\" mean?  \"She's buying a lot of new furniture before she even has a job. She's putting the cart before the horse.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing something difficult"
+        },
+        {
+          "id": "B",
+          "text": "doing things in the wrong order"
+        },
+        {
+          "id": "C",
+          "text": "doing something dangerous"
+        },
+        {
+          "id": "D",
+          "text": "making a mistake"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"putting the cart before the horse\" berarti doing things in the wrong order.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. doing things in the wrong order"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-03",
+      "position": 3,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"putting his foot in his mouth\" mean?  \"Every time he opens his mouth, he immediately regrets what he said. He's always putting his foot in his mouth.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "thinking only about himself"
+        },
+        {
+          "id": "B",
+          "text": "taking a really long time"
+        },
+        {
+          "id": "C",
+          "text": "saying embarrassing things"
+        },
+        {
+          "id": "D",
+          "text": "accomplishing two things at once"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"putting his foot in his mouth\" berarti saying embarrassing things.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban C. saying embarrassing things"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-04",
+      "position": 4,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"beating around the bush\" mean?  \"He's not telling me exactly what happened. He's beating around the bush.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "missed an opportunity"
+        },
+        {
+          "id": "B",
+          "text": "going from bad to worse"
+        },
+        {
+          "id": "C",
+          "text": "doing too much"
+        },
+        {
+          "id": "D",
+          "text": "speaking indirectly"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"beating around the bush\" berarti speaking indirectly.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban D. speaking indirectly"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-05",
+      "position": 5,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"a needle in a haystack\" mean?  \"She wanted to get that man's phone number, but she wasn't sure of his last name or where he lived. It was like looking for a needle in a haystack.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing something difficult"
+        },
+        {
+          "id": "B",
+          "text": "doing things in the wrong order"
+        },
+        {
+          "id": "C",
+          "text": "saying embarrassing things"
+        },
+        {
+          "id": "D",
+          "text": "speaking indirectly"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"a needle in a haystack\" berarti doing something difficult.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. doing something difficult"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-06",
+      "position": 6,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"playing with fire\" mean?  \"He's always too fast and out of control on his motorcycle. He's playing with fire.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing something difficult"
+        },
+        {
+          "id": "B",
+          "text": "doing something dangerous"
+        },
+        {
+          "id": "C",
+          "text": "making a mistake"
+        },
+        {
+          "id": "D",
+          "text": "thinking only about himself"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"playing with fire\" berarti doing something dangerous.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. doing something dangerous"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-07",
+      "position": 7,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"barking up the wrong tree\" mean?  \"She keeps asking if I was the one who was spreading rumors about her, but I wasn't. She's barking up the wrong tree.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "taking a really long time"
+        },
+        {
+          "id": "B",
+          "text": "accomplishing two things at once"
+        },
+        {
+          "id": "C",
+          "text": "making a mistake"
+        },
+        {
+          "id": "D",
+          "text": "missed an opportunity"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"barking up the wrong tree\" berarti making a mistake.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban C. making a mistake"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-08",
+      "position": 8,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"looking out for number one\" mean?  \"He took the best portions for himself and didn't leave enough for the others. He's just looking out for number one.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "going from bad to worse"
+        },
+        {
+          "id": "B",
+          "text": "doing too much"
+        },
+        {
+          "id": "C",
+          "text": "doing things in the wrong order"
+        },
+        {
+          "id": "D",
+          "text": "thinking only about himself"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"looking out for number one\" berarti thinking only about himself.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban D. thinking only about himself"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-09",
+      "position": 9,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"taking forever and a day\" mean?  \"She's been working on that assignment for over two months, and I don't think she's ever going to finish it. She's taking forever and a day.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "taking a really long time"
+        },
+        {
+          "id": "B",
+          "text": "saying embarrassing things"
+        },
+        {
+          "id": "C",
+          "text": "speaking indirectly"
+        },
+        {
+          "id": "D",
+          "text": "doing something difficult"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"taking forever and a day\" berarti taking a really long time.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban A. taking a really long time"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-10",
+      "position": 10,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"killing two birds with one stone\" mean?  \"She has to go to the bank, and while she's out she'll stop and visit her friend. She's killing two birds with one stone.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing something dangerous"
+        },
+        {
+          "id": "B",
+          "text": "accomplishing two things at once"
+        },
+        {
+          "id": "C",
+          "text": "making a mistake"
+        },
+        {
+          "id": "D",
+          "text": "thinking only about himself"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"killing two birds with one stone\" berarti accomplishing two things at once.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban B. accomplishing two things at once"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-11",
+      "position": 11,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"missed the boat\" mean?  \"He was admitted to Harvard, and he would have gone there but he forgot to send in the appropriate form in time. He has really missed the boat.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "taking a really long time"
+        },
+        {
+          "id": "B",
+          "text": "accomplishing two things at once"
+        },
+        {
+          "id": "C",
+          "text": "missed an opportunity"
+        },
+        {
+          "id": "D",
+          "text": "going from bad to worse"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"missed the boat\" berarti missed an opportunity.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban C. missed an opportunity"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "app-id-12",
+      "position": 12,
+      "section": "writing",
+      "testingPoint": "appendix-idiom",
+      "type": "completion",
+      "text": "What does the idiom \"jumping out of the frying pan and into the fire\" mean?  \"I know that you thought that this part of the program was difficult, but wait until you see the next part. You're jumping out of the frying pan and into the fire.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "doing too much"
+        },
+        {
+          "id": "B",
+          "text": "doing things in the wrong order"
+        },
+        {
+          "id": "C",
+          "text": "saying embarrassing things"
+        },
+        {
+          "id": "D",
+          "text": "going from bad to worse"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"jumping out of the frying pan and into the fire\" berarti going from bad to worse.",
+      "hints": [
+        "Baca kalimat contoh. Makna harfiah biasanya tidak cocok.",
+        "Pikirkan situasi di kalimat itu.",
+        "Jawaban D. going from bad to worse"
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kalimat dan daftar makna dari Appendix 4 buku. Kunci mengikuti kecocokan makna.",
+      "sourcePage": 95,
+      "meta": {
+        "noBlank": true
+      }
+    }
+  ]
+}

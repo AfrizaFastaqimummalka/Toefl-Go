@@ -1,0 +1,301 @@
+{
+  "lesson": "structure-passive-usage/lead-in-5",
+  "questions": [
+    {
+      "id": "str-lead5-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "After the old radiator had be replaced, the travelers continued their cross-country trip.",
+      "segments": [
+        "After the old radiator",
+        "had be replaced,",
+        "the travelers continued their cross-country trip."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "had been replaced"
+      },
+      "explanation": "Passive perfect: had + been + past participle.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Bentuk passive butuh be + past participle. Apa bentuk 'be' setelah 'had'?",
+        "Passive perfect: had + been + past participle."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "During the lightning storm, he struck in the head by a falling tree.",
+      "segments": [
+        "During the lightning storm,",
+        "he struck",
+        "in the head by a falling tree."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "he was struck"
+      },
+      "explanation": "Kalimat passive (ada 'by a falling tree') butuh 'was': he was struck.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Ada 'by a falling tree'. Aktif atau passive?",
+        "Kalimat passive (ada 'by a falling tree') butuh 'was': he was struck."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "While I am on vacation, the pets should be feeds every morning and evening.",
+      "segments": [
+        "While I am on vacation, the pets should",
+        "be feeds",
+        "every morning and evening."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "be fed"
+      },
+      "explanation": "Setelah 'should be' pakai past participle: be fed.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Setelah 'should be' bentuk verb apa?",
+        "Setelah 'should be' pakai past participle: be fed."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "A book being written now by a team of writers will be published in the fall.",
+      "segments": [
+        "A book being written now by a team of writers",
+        "will be published",
+        "in the fall."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'being written ...' penerang, verb sejati 'will be published'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Cari verb sejati dan penerangnya.",
+        "Benar. 'being written ...' penerang, verb sejati 'will be published'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "You will need a pen or a pencil.",
+      "segments": [
+        "You will need",
+        "a pen or a pencil."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. Artikel 'a' dengan nama benda singular (pen, pencil).",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Cek artikel dan bentuk singular/jamak.",
+        "Benar. Artikel 'a' dengan nama benda singular (pen, pencil)."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "He is responsible for bringing a number of items.",
+      "segments": [
+        "He is responsible for bringing",
+        "a number of items."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'a number of' + noun jamak.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Cek 'a number of'.",
+        "Benar. 'a number of' + noun jamak."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "Like the Washington Zoo, the San Diego Zoo has several panda bears.",
+      "segments": [
+        "Like the Washington Zoo,",
+        "the San Diego Zoo has several panda bears."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'Like' sebagai preposisi boleh di awal kalimat.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Cek fungsi 'Like' di awal.",
+        "Benar. 'Like' sebagai preposisi boleh di awal kalimat."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "The insurance package offered by that company is exactly alike the package our company offers.",
+      "segments": [
+        "The insurance package offered by that company is exactly",
+        "alike",
+        "the package our company offers."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "like"
+      },
+      "explanation": "'alike' dipakai setelah linking verb tanpa objek. Di sini ada objek 'the package', jadi pakai preposisi 'like'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "Setelah kata ini ada objek. Preposisi atau adjective?",
+        "'alike' dipakai setelah linking verb tanpa objek. Di sini ada objek 'the package', jadi pakai preposisi 'like'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "As some students moved into the registration area, others took their places in line.",
+      "segments": [
+        "As some students moved into the registration area,",
+        "others",
+        "took their places in line."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'others' (pronoun) berdiri sendiri tanpa noun.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "'others' diikuti noun atau tidak?",
+        "Benar. 'others' (pronoun) berdiri sendiri tanpa noun."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead5-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "passive-article-usage",
+      "type": "error-find",
+      "text": "The printer will not function unless it has another cartridges.",
+      "segments": [
+        "The printer will not function unless it has",
+        "another cartridges."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "another cartridge (atau: other cartridges)"
+      },
+      "explanation": "'another' dipakai dengan noun singular; untuk jamak pakai 'other'.",
+      "hints": [
+        "Cek bentuk be + past participle, artikel a/an, atau like/alike/another/other.",
+        "'another' untuk singular atau jamak?",
+        "'another' dipakai dengan noun singular; untuk jamak pakai 'other'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 62,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    }
+  ]
+}

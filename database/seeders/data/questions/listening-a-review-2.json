@@ -1,0 +1,575 @@
+{
+  "lesson": "listening-part-a/review-2",
+  "questions": [
+    {
+      "id": "lst-a-r2-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Where does this conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a photography studio."
+        },
+        {
+          "id": "B",
+          "text": "In a biology laboratory."
+        },
+        {
+          "id": "C",
+          "text": "In an office."
+        },
+        {
+          "id": "D",
+          "text": "In the library."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Petunjuk: specimen, microscope, cells.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Cari kata kunci tempat: specimen, microscope.",
+        "Jawaban B. Petunjuk: specimen, microscope, cells."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Please put the specimen under the microscope and adjust the focus."
+          ],
+          [
+            "W",
+            "I can see the cells clearly now."
+          ],
+          [
+            "N",
+            "Where does this conversation probably take place?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "What does the man do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He's a pilot."
+        },
+        {
+          "id": "B",
+          "text": "He's a flight attendant."
+        },
+        {
+          "id": "C",
+          "text": "He's a member of the ground crew."
+        },
+        {
+          "id": "D",
+          "text": "He works clearing land."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Ia melayani penumpang selama penerbangan: seat belt, drinks, cruising altitude.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Siapa yang bicara soal 'cruising altitude' sambil membawa minuman?",
+        "Jawaban B. Ia melayani penumpang selama penerbangan: seat belt, drinks, cruising altitude."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Could I have a glass of water, please?"
+          ],
+          [
+            "M",
+            "Of course. As soon as we reach cruising altitude, I'll bring drinks for everyone."
+          ],
+          [
+            "N",
+            "What does the man do?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "What does the man suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wash the dishes immediately."
+        },
+        {
+          "id": "B",
+          "text": "Use as many dishes as possible."
+        },
+        {
+          "id": "C",
+          "text": "Wash the dishes for as long as possible."
+        },
+        {
+          "id": "D",
+          "text": "Wait until later to clean up."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'leave them in the sink' dan 'do them in the morning' = tunda membersihkan.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Apakah ia setuju mencuci sekarang?",
+        "Jawaban D. 'leave them in the sink' dan 'do them in the morning' = tunda membersihkan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Shall I wash the dishes now?"
+          ],
+          [
+            "M",
+            "Just leave them in the sink. We can do them in the morning."
+          ],
+          [
+            "N",
+            "What does the man suggest?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Where does this conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a bank."
+        },
+        {
+          "id": "B",
+          "text": "In a restaurant."
+        },
+        {
+          "id": "C",
+          "text": "At a service station."
+        },
+        {
+          "id": "D",
+          "text": "In a beauty salon."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Petunjuk: haircut, trim, wash.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Petunjuk tentang rambut.",
+        "Jawaban D. Petunjuk: haircut, trim, wash."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "How would you like your hair cut today?"
+          ],
+          [
+            "M",
+            "Just a trim, and could you wash it first?"
+          ],
+          [
+            "N",
+            "Where does this conversation probably take place?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Who is the woman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A salesclerk in a shoe store."
+        },
+        {
+          "id": "B",
+          "text": "A shoe repairperson."
+        },
+        {
+          "id": "C",
+          "text": "A party caterer."
+        },
+        {
+          "id": "D",
+          "text": "A salesclerk in a fixtures department."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Ia akan memasang tumit dan sol baru: memperbaiki sepatu.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Apa yang ia tawarkan untuk sepatu itu?",
+        "Jawaban B. Ia akan memasang tumit dan sol baru: memperbaiki sepatu."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 17,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "The heels on these shoes are worn down. Can you fix them by Friday?"
+          ],
+          [
+            "W",
+            "Sure, we can put new heels and soles on them."
+          ],
+          [
+            "N",
+            "Who is the woman?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Where does this conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On a playground."
+        },
+        {
+          "id": "B",
+          "text": "In a parking lot."
+        },
+        {
+          "id": "C",
+          "text": "At a zoo."
+        },
+        {
+          "id": "D",
+          "text": "In a photo studio."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Petunjuk: giraffe, lions, elephants.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Hewan apa yang disebut?",
+        "Jawaban C. Petunjuk: giraffe, lions, elephants."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 18,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Look, the giraffe is eating!"
+          ],
+          [
+            "M",
+            "Let's go see the lions next, and then the elephants."
+          ],
+          [
+            "N",
+            "Where does this conversation probably take place?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "What will the woman probably do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respond to the mail."
+        },
+        {
+          "id": "B",
+          "text": "Put the letters in a file."
+        },
+        {
+          "id": "C",
+          "text": "Create a pending file."
+        },
+        {
+          "id": "D",
+          "text": "File the answers she received to the letters."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Ia akan menulis balasan untuk surat-surat.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Apa yang akan ia tulis?",
+        "Jawaban A. Ia akan menulis balasan untuk surat-surat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 18,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I have a stack of letters here that need answers."
+          ],
+          [
+            "W",
+            "I'll start writing replies this afternoon."
+          ],
+          [
+            "N",
+            "What will the woman probably do?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-08",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Where does this conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In an airplane."
+        },
+        {
+          "id": "B",
+          "text": "In a police car."
+        },
+        {
+          "id": "C",
+          "text": "In a theater."
+        },
+        {
+          "id": "D",
+          "text": "At a fireworks exhibit."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Petunjuk: lights going down, curtain, play.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Petunjuk: curtain dan play.",
+        "Jawaban C. Petunjuk: lights going down, curtain, play."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 18,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "The lights are going down."
+          ],
+          [
+            "M",
+            "Shh. The curtain is going up. The play is about to begin."
+          ],
+          [
+            "N",
+            "Where does this conversation probably take place?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-09",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "What are they going to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Take care of Bob."
+        },
+        {
+          "id": "B",
+          "text": "Invite Bob to dinner."
+        },
+        {
+          "id": "C",
+          "text": "Let Bob know that they accept his invitation."
+        },
+        {
+          "id": "D",
+          "text": "Respond to the woman's question."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Bob mengundang mereka, dan sang pria akan menelepon untuk menerima.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Siapa yang mengundang siapa?",
+        "Jawaban C. Bob mengundang mereka, dan sang pria akan menelepon untuk menerima."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 18,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Bob has invited us to dinner on Saturday. Should we go?"
+          ],
+          [
+            "M",
+            "Sure. I'll call him and tell him we'll come."
+          ],
+          [
+            "N",
+            "What are they going to do?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    },
+    {
+      "id": "lst-a-r2-10",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "who-what-where",
+      "type": "completion",
+      "text": "Who is the man?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pharmacist."
+        },
+        {
+          "id": "B",
+          "text": "A dentist."
+        },
+        {
+          "id": "C",
+          "text": "A teacher."
+        },
+        {
+          "id": "D",
+          "text": "A business manager."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Petunjuk: open wide, fill a cavity.",
+      "hints": [
+        "Cari petunjuk (kata kunci) yang menunjukkan siapa, apa, atau di mana.",
+        "Siapa yang menyuruh 'open wide'?",
+        "Jawaban B. Petunjuk: open wide, fill a cavity."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script rekonstruksi: audio di buku tidak tersedia, skrip ditulis ulang agar cocok dengan opsi dan jawaban.",
+      "sourcePage": 18,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Open wide, please. This might hurt a little while I fill the cavity."
+          ],
+          [
+            "W",
+            "Aah."
+          ],
+          [
+            "N",
+            "Who is the man?"
+          ]
+        ],
+        "scriptSource": "reconstructed"
+      }
+    }
+  ]
+}

@@ -286,5 +286,789 @@
     "definition": "shows ownership",
     "example": "The girl whose bag is red left.",
     "position": 36
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "no / not / never",
+    "definition": "negative words that start a sentence",
+    "example": "Never have I seen such a view.",
+    "position": 37
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "neither / nor",
+    "definition": "also not",
+    "example": "Nor was he happy.",
+    "position": 38
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "barely / hardly / scarcely",
+    "definition": "almost not",
+    "example": "Hardly had she left when it rained.",
+    "position": 39
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "only (once, with, if)",
+    "definition": "limits the situation",
+    "example": "Only once have there been more fans.",
+    "position": 40
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "rarely / seldom",
+    "definition": "not often",
+    "example": "Seldom has he been late.",
+    "position": 41
+  },
+  {
+    "category": "inversion-negative",
+    "group": "Inversion",
+    "term": "had / should / were (no if)",
+    "definition": "conditional without if",
+    "example": "Had I known, I would have called.",
+    "position": 42
+  },
+  {
+    "category": "paired-conjunction",
+    "group": "Paired conjunction",
+    "term": "both ... and",
+    "definition": "two things together",
+    "example": "She was both surprised and pleased.",
+    "position": 43
+  },
+  {
+    "category": "paired-conjunction",
+    "group": "Paired conjunction",
+    "term": "either ... or",
+    "definition": "one of two choices",
+    "example": "Either you finish, or I will.",
+    "position": 44
+  },
+  {
+    "category": "paired-conjunction",
+    "group": "Paired conjunction",
+    "term": "neither ... nor",
+    "definition": "not one and not the other",
+    "example": "Neither Sam nor Sue came.",
+    "position": 45
+  },
+  {
+    "category": "paired-conjunction",
+    "group": "Paired conjunction",
+    "term": "not only ... but also",
+    "definition": "one thing and one more",
+    "example": "He studies not only math but also art.",
+    "position": 46
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "like",
+    "definition": "similar to (adjective before a noun, or preposition)",
+    "example": "Like snakes, lizards are reptiles.",
+    "position": 47
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "alike",
+    "definition": "similar (after a linking verb)",
+    "example": "The two twins look alike.",
+    "position": 48
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "unlike",
+    "definition": "different from (preposition)",
+    "example": "Unlike him, she is calm.",
+    "position": 49
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "another + singular",
+    "definition": "one more",
+    "example": "I need another book.",
+    "position": 50
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "other + plural",
+    "definition": "more than one different",
+    "example": "I have other books.",
+    "position": 51
+  },
+  {
+    "category": "usage-like-other",
+    "group": "Usage",
+    "term": "the other(s)",
+    "definition": "the remaining one(s)",
+    "example": "Where are the others?",
+    "position": 52
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "a-, an-",
+    "definition": "no, not, or without",
+    "example": "anesthesia (without feeling)",
+    "position": 53
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "ante-",
+    "definition": "before",
+    "example": "antedate (come before)",
+    "position": 54
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "anti-",
+    "definition": "against, opposite",
+    "example": "antiwar (against war)",
+    "position": 55
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "circum-",
+    "definition": "around",
+    "example": "circumvent (go around)",
+    "position": 56
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "intra-",
+    "definition": "within",
+    "example": "intrastate (within the state)",
+    "position": 57
+  },
+  {
+    "category": "word-parts",
+    "group": "Prefix",
+    "term": "inter-",
+    "definition": "between",
+    "example": "interstate (between states)",
+    "position": 58
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "chronos",
+    "definition": "time",
+    "example": "chronology (events in time order)",
+    "position": 59
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "lingua",
+    "definition": "tongue, language",
+    "example": "multilingual (speaking many languages)",
+    "position": 60
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "phon, phone",
+    "definition": "sound",
+    "example": "symphony (harmony of sounds)",
+    "position": 61
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "struct",
+    "definition": "build",
+    "example": "construction (process of building)",
+    "position": 62
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "therm",
+    "definition": "heat",
+    "example": "thermometer (measures heat)",
+    "position": 63
+  },
+  {
+    "category": "word-parts",
+    "group": "Root",
+    "term": "ten",
+    "definition": "hold",
+    "example": "tenacious (holding firmly)",
+    "position": 64
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "be - was/were - been",
+    "definition": "base: be, past: was/were, past participle: been",
+    "example": "",
+    "position": 65
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "begin - began - begun",
+    "definition": "base: begin, past: began, past participle: begun",
+    "example": "",
+    "position": 66
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "break - broke - broken",
+    "definition": "base: break, past: broke, past participle: broken",
+    "example": "",
+    "position": 67
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "bring - brought - brought",
+    "definition": "base: bring, past: brought, past participle: brought",
+    "example": "",
+    "position": 68
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "build - built - built",
+    "definition": "base: build, past: built, past participle: built",
+    "example": "",
+    "position": 69
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "buy - bought - bought",
+    "definition": "base: buy, past: bought, past participle: bought",
+    "example": "",
+    "position": 70
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "choose - chose - chosen",
+    "definition": "base: choose, past: chose, past participle: chosen",
+    "example": "",
+    "position": 71
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "come - came - come",
+    "definition": "base: come, past: came, past participle: come",
+    "example": "",
+    "position": 72
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "do - did - done",
+    "definition": "base: do, past: did, past participle: done",
+    "example": "",
+    "position": 73
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "draw - drew - drawn",
+    "definition": "base: draw, past: drew, past participle: drawn",
+    "example": "",
+    "position": 74
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "drive - drove - driven",
+    "definition": "base: drive, past: drove, past participle: driven",
+    "example": "",
+    "position": 75
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "eat - ate - eaten",
+    "definition": "base: eat, past: ate, past participle: eaten",
+    "example": "",
+    "position": 76
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "fall - fell - fallen",
+    "definition": "base: fall, past: fell, past participle: fallen",
+    "example": "",
+    "position": 77
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "feed - fed - fed",
+    "definition": "base: feed, past: fed, past participle: fed",
+    "example": "",
+    "position": 78
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "feel - felt - felt",
+    "definition": "base: feel, past: felt, past participle: felt",
+    "example": "",
+    "position": 79
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "find - found - found",
+    "definition": "base: find, past: found, past participle: found",
+    "example": "",
+    "position": 80
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "fly - flew - flown",
+    "definition": "base: fly, past: flew, past participle: flown",
+    "example": "",
+    "position": 81
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "forget - forgot - forgotten",
+    "definition": "base: forget, past: forgot, past participle: forgotten",
+    "example": "",
+    "position": 82
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "get - got - gotten/got",
+    "definition": "base: get, past: got, past participle: gotten/got",
+    "example": "",
+    "position": 83
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "give - gave - given",
+    "definition": "base: give, past: gave, past participle: given",
+    "example": "",
+    "position": 84
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "go - went - gone",
+    "definition": "base: go, past: went, past participle: gone",
+    "example": "",
+    "position": 85
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "grow - grew - grown",
+    "definition": "base: grow, past: grew, past participle: grown",
+    "example": "",
+    "position": 86
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "have - had - had",
+    "definition": "base: have, past: had, past participle: had",
+    "example": "",
+    "position": 87
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "hear - heard - heard",
+    "definition": "base: hear, past: heard, past participle: heard",
+    "example": "",
+    "position": 88
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "hold - held - held",
+    "definition": "base: hold, past: held, past participle: held",
+    "example": "",
+    "position": 89
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "keep - kept - kept",
+    "definition": "base: keep, past: kept, past participle: kept",
+    "example": "",
+    "position": 90
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "know - knew - known",
+    "definition": "base: know, past: knew, past participle: known",
+    "example": "",
+    "position": 91
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "leave - left - left",
+    "definition": "base: leave, past: left, past participle: left",
+    "example": "",
+    "position": 92
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "make - made - made",
+    "definition": "base: make, past: made, past participle: made",
+    "example": "",
+    "position": 93
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "meet - met - met",
+    "definition": "base: meet, past: met, past participle: met",
+    "example": "",
+    "position": 94
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "pay - paid - paid",
+    "definition": "base: pay, past: paid, past participle: paid",
+    "example": "",
+    "position": 95
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "read - read - read",
+    "definition": "base: read, past: read, past participle: read",
+    "example": "",
+    "position": 96
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "run - ran - run",
+    "definition": "base: run, past: ran, past participle: run",
+    "example": "",
+    "position": 97
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "see - saw - seen",
+    "definition": "base: see, past: saw, past participle: seen",
+    "example": "",
+    "position": 98
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "sell - sold - sold",
+    "definition": "base: sell, past: sold, past participle: sold",
+    "example": "",
+    "position": 99
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "send - sent - sent",
+    "definition": "base: send, past: sent, past participle: sent",
+    "example": "",
+    "position": 100
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "show - showed - shown",
+    "definition": "base: show, past: showed, past participle: shown",
+    "example": "",
+    "position": 101
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "sing - sang - sung",
+    "definition": "base: sing, past: sang, past participle: sung",
+    "example": "",
+    "position": 102
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "sink - sank - sunk",
+    "definition": "base: sink, past: sank, past participle: sunk",
+    "example": "",
+    "position": 103
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "speak - spoke - spoken",
+    "definition": "base: speak, past: spoke, past participle: spoken",
+    "example": "",
+    "position": 104
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "take - took - taken",
+    "definition": "base: take, past: took, past participle: taken",
+    "example": "",
+    "position": 105
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "teach - taught - taught",
+    "definition": "base: teach, past: taught, past participle: taught",
+    "example": "",
+    "position": 106
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "think - thought - thought",
+    "definition": "base: think, past: thought, past participle: thought",
+    "example": "",
+    "position": 107
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "throw - threw - thrown",
+    "definition": "base: throw, past: threw, past participle: thrown",
+    "example": "",
+    "position": 108
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "understand - understood - understood",
+    "definition": "base: understand, past: understood, past participle: understood",
+    "example": "",
+    "position": 109
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "wear - wore - worn",
+    "definition": "base: wear, past: wore, past participle: worn",
+    "example": "",
+    "position": 110
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "win - won - won",
+    "definition": "base: win, past: won, past participle: won",
+    "example": "",
+    "position": 111
+  },
+  {
+    "category": "irregular-verbs",
+    "group": "Irregular verb",
+    "term": "write - wrote - written",
+    "definition": "base: write, past: wrote, past participle: written",
+    "example": "",
+    "position": 112
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "cut down",
+    "definition": "reduce",
+    "example": "He's been smoking too much. He really needs to cut down.",
+    "position": 113
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "cut off",
+    "definition": "stop the supply",
+    "example": "The company had to cut off the electricity because the bill was unpaid.",
+    "position": 114
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "cut it out",
+    "definition": "stop doing something annoying",
+    "example": "He kept teasing me, so finally I told him to cut it out.",
+    "position": 115
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "get ahead",
+    "definition": "progress or succeed",
+    "example": "He is working hard because he really wants to get ahead in his career.",
+    "position": 116
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "get along with",
+    "definition": "have a good relationship with",
+    "example": "She is such a nice person that she is easily able to get along with everyone.",
+    "position": 117
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "give back",
+    "definition": "return",
+    "example": "Here is the book I borrowed from you, and now I think I should give it back.",
+    "position": 118
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "give up",
+    "definition": "quit",
+    "example": "I've done all I can. I just can't do anything more. I give up.",
+    "position": 119
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "put off",
+    "definition": "postpone",
+    "example": "The teacher has to put off the exam until next week because the students are not prepared.",
+    "position": 120
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "put on",
+    "definition": "wear",
+    "example": "She has to put on her coat before she goes out into the cold winter weather.",
+    "position": 121
+  },
+  {
+    "category": "phrasal-deck",
+    "group": "Two/three-part verb",
+    "term": "put up with",
+    "definition": "tolerate",
+    "example": "He is such a mean man that it is difficult to put up with him.",
+    "position": 122
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "burning the candle at both ends",
+    "definition": "doing too much",
+    "example": "He's holding down two jobs and attending school. He's really burning the candle at both ends.",
+    "position": 123
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "putting the cart before the horse",
+    "definition": "doing things in the wrong order",
+    "example": "She's buying a lot of new furniture before she even has a job. She's putting the cart before the horse.",
+    "position": 124
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "putting his foot in his mouth",
+    "definition": "saying embarrassing things",
+    "example": "Every time he opens his mouth, he immediately regrets what he said. He's always putting his foot in his mouth.",
+    "position": 125
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "beating around the bush",
+    "definition": "speaking indirectly",
+    "example": "He's not telling me exactly what happened. He's beating around the bush.",
+    "position": 126
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "a needle in a haystack",
+    "definition": "doing something difficult",
+    "example": "She wanted to get that man's phone number, but she wasn't sure of his last name or where he lived. It was like looking for a needle in a haystack.",
+    "position": 127
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "playing with fire",
+    "definition": "doing something dangerous",
+    "example": "He's always too fast and out of control on his motorcycle. He's playing with fire.",
+    "position": 128
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "barking up the wrong tree",
+    "definition": "making a mistake",
+    "example": "She keeps asking if I was the one who was spreading rumors about her, but I wasn't. She's barking up the wrong tree.",
+    "position": 129
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "looking out for number one",
+    "definition": "thinking only about himself",
+    "example": "He took the best portions for himself and didn't leave enough for the others. He's just looking out for number one.",
+    "position": 130
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "taking forever and a day",
+    "definition": "taking a really long time",
+    "example": "She's been working on that assignment for over two months, and I don't think she's ever going to finish it. She's taking forever and a day.",
+    "position": 131
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "killing two birds with one stone",
+    "definition": "accomplishing two things at once",
+    "example": "She has to go to the bank, and while she's out she'll stop and visit her friend. She's killing two birds with one stone.",
+    "position": 132
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "missed the boat",
+    "definition": "missed an opportunity",
+    "example": "He was admitted to Harvard, and he would have gone there but he forgot to send in the appropriate form in time. He has really missed the boat.",
+    "position": 133
+  },
+  {
+    "category": "idiom-deck",
+    "group": "Idiom",
+    "term": "jumping out of the frying pan and into the fire",
+    "definition": "going from bad to worse",
+    "example": "I know that you thought that this part of the program was difficult, but wait until you see the next part. You're jumping out of the frying pan and into the fire.",
+    "position": 134
   }
 ]

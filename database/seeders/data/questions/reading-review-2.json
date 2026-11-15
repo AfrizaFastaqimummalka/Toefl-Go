@@ -1,0 +1,785 @@
+{
+  "lesson": "reading-passages/review-2",
+  "questions": [
+    {
+      "id": "rd-r2-01",
+      "position": 1,
+      "section": "reading",
+      "testingPoint": "reading-main-idea",
+      "type": "completion",
+      "text": "What is the main idea of this passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbohydrates are needed for good health."
+        },
+        {
+          "id": "B",
+          "text": "Carbohydrates prevent a build-up of proteins."
+        },
+        {
+          "id": "C",
+          "text": "Carbohydrates can lead to ketosis."
+        },
+        {
+          "id": "D",
+          "text": "Carbohydrates are an expendable part of a good diet."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Passage menjelaskan peran penting karbohidrat dan akibat kekurangannya.",
+      "hints": [
+        "Baca kalimat pertama dan terakhir. Pilih topik yang mencakup seluruh passage, bukan satu detail.",
+        "Topik yang mencakup seluruh passage.",
+        "Jawaban A. Passage menjelaskan peran penting karbohidrat dan akibat kekurangannya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-02",
+      "position": 2,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"function\" as used in line 3 refers to which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neglect"
+        },
+        {
+          "id": "B",
+          "text": "Serve"
+        },
+        {
+          "id": "C",
+          "text": "Dissolve"
+        },
+        {
+          "id": "D",
+          "text": "Profess"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'function to flavor' = berfungsi untuk memberi rasa.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa tugas karbohidrat terhadap makanan?",
+        "Jawaban B. 'function to flavor' = berfungsi untuk memberi rasa."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-03",
+      "position": 3,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"range\" as used in line 4 is closest in meaning to which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Probe"
+        },
+        {
+          "id": "B",
+          "text": "Proceed"
+        },
+        {
+          "id": "C",
+          "text": "Hail"
+        },
+        {
+          "id": "D",
+          "text": "Extend"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'range from simple sugars to complex sugars' = mencakup dari ... sampai ....",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Dari mana sampai mana?",
+        "Jawaban D. 'range from simple sugars to complex sugars' = mencakup dari ... sampai ...."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-04",
+      "position": 4,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "Where is the best place in the passage to add the following sentence? \"This daily recommendation can be met by eating carbohydrate-rich foods, such as whole grains, breads, cereals, legumes, potatoes, fruits, and vegetables.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "In line 2 after the word \"diet\""
+        },
+        {
+          "id": "B",
+          "text": "In line 4 after the word \"foods\""
+        },
+        {
+          "id": "C",
+          "text": "In line 9 after the word \"day\""
+        },
+        {
+          "id": "D",
+          "text": "In line 18 after the word \"breath\""
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Kalimat itu menjelaskan 'recommendation harian', jadi cocok setelah anjuran 75-100 gram per hari.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Kalimat baru menyebut 'daily recommendation'. Di mana anjuran harian disebut?",
+        "Jawaban C. Kalimat itu menjelaskan 'recommendation harian', jadi cocok setelah anjuran 75-100 gram per hari."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-05",
+      "position": 5,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "According to the passage, what do most nutritionists suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sufficient carbohydrates will prevent gluconeogenesis."
+        },
+        {
+          "id": "B",
+          "text": "Carbohydrates are simple sugars called glucose."
+        },
+        {
+          "id": "C",
+          "text": "Carbohydrates should make up about a quarter of a person's daily diet."
+        },
+        {
+          "id": "D",
+          "text": "Carbohydrates should be eaten in very small quantities."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Seperempat sampai seperlima dari pola makan seseorang.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Cari kalimat 'Nutritionists estimate'.",
+        "Jawaban C. Seperempat sampai seperlima dari pola makan seseorang."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-06",
+      "position": 6,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "Which of the following do carbohydrates NOT do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prevent ketosis"
+        },
+        {
+          "id": "B",
+          "text": "Cause gluconeogenesis"
+        },
+        {
+          "id": "C",
+          "text": "Provide energy for the body"
+        },
+        {
+          "id": "D",
+          "text": "Flavor and sweeten food"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Gluconeogenesis terjadi saat karbohidrat kurang, bukan disebabkan oleh karbohidrat.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Kapan gluconeogenesis terjadi?",
+        "Jawaban B. Gluconeogenesis terjadi saat karbohidrat kurang, bukan disebabkan oleh karbohidrat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-07",
+      "position": 7,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "Which of the following words could best replace \"deficient\" as used in line 10?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Outstanding"
+        },
+        {
+          "id": "B",
+          "text": "Abundant"
+        },
+        {
+          "id": "C",
+          "text": "Insufficient"
+        },
+        {
+          "id": "D",
+          "text": "Unequal"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'diet deficient in carbohydrates' = kekurangan karbohidrat.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa kebalikan dari 'abundant'?",
+        "Jawaban C. 'diet deficient in carbohydrates' = kekurangan karbohidrat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-08",
+      "position": 8,
+      "section": "reading",
+      "testingPoint": "reading-reference",
+      "type": "completion",
+      "text": "What does the word \"this\" refer to in line 14?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using protein supplies for energy"
+        },
+        {
+          "id": "B",
+          "text": "Converting carbohydrates to energy"
+        },
+        {
+          "id": "C",
+          "text": "Having a deficiency in carbohydrates"
+        },
+        {
+          "id": "D",
+          "text": "Having an insufficient amount of protein"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Kalimat sebelumnya: tubuh memakai persediaan protein untuk energi. Hasilnya kekurangan protein.",
+      "hints": [
+        "Ganti kata ganti dengan tiap opsi lalu baca ulang kalimatnya.",
+        "Apa yang disebut tepat sebelum 'this'?",
+        "Jawaban A. Kalimat sebelumnya: tubuh memakai persediaan protein untuk energi. Hasilnya kekurangan protein."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-09",
+      "position": 9,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "According to the passage, which of the following does NOT describe carbohydrates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A protein supply"
+        },
+        {
+          "id": "B",
+          "text": "A necessity"
+        },
+        {
+          "id": "C",
+          "text": "A range of sugars"
+        },
+        {
+          "id": "D",
+          "text": "An energy source"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Karbohidrat bukan persediaan protein.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Soal NOT: tiga opsi benar tentang karbohidrat.",
+        "Jawaban A. Karbohidrat bukan persediaan protein."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-10",
+      "position": 10,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"lack\" in line 14 is most similar to which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plethora"
+        },
+        {
+          "id": "B",
+          "text": "Shortage"
+        },
+        {
+          "id": "C",
+          "text": "Derivation"
+        },
+        {
+          "id": "D",
+          "text": "Commission"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'lack of necessary protein' = kekurangan.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Kebalikan dari 'plethora'.",
+        "Jawaban B. 'lack of necessary protein' = kekurangan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-11",
+      "position": 11,
+      "section": "reading",
+      "testingPoint": "reading-inference",
+      "type": "completion",
+      "text": "Which of the following best describes the author's tone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sensitive"
+        },
+        {
+          "id": "B",
+          "text": "Emotional"
+        },
+        {
+          "id": "C",
+          "text": "Informative"
+        },
+        {
+          "id": "D",
+          "text": "Regretful"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Penulis menyampaikan fakta secara netral.",
+      "hints": [
+        "Jawaban tidak tertulis langsung. Simpulkan dari fakta yang ada, jangan menambah informasi baru.",
+        "Apakah penulis menunjukkan perasaan?",
+        "Jawaban C. Penulis menyampaikan fakta secara netral."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r2-12",
+      "position": 12,
+      "section": "reading",
+      "testingPoint": "reading-main-idea",
+      "type": "completion",
+      "text": "Which of the following best describes the organization of this passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cause and result"
+        },
+        {
+          "id": "B",
+          "text": "Comparison and contrast"
+        },
+        {
+          "id": "C",
+          "text": "Specific to general"
+        },
+        {
+          "id": "D",
+          "text": "Definition and example"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Paruh kedua menjelaskan akibat dari kekurangan karbohidrat.",
+      "hints": [
+        "Baca kalimat pertama dan terakhir. Pilih topik yang mencakup seluruh passage, bukan satu detail.",
+        "Apa yang terjadi bila karbohidrat kurang?",
+        "Jawaban A. Paruh kedua menjelaskan akibat dari kekurangan karbohidrat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage. Pilihan organisasi bisa diperdebatkan; cek dengan dosen.",
+      "sourcePage": 87,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Carbohydrates",
+          "lines": [
+            "Carbohydrates, which are sugars, are a vital part of",
+            "a healthy diet. They supply the main source of energy",
+            "for the body and also function to flavor and",
+            "sweeten foods. Carbohydrates range from simple sugars",
+            "such as glucose to complex sugars such as amylose and",
+            "amylopectin. Nutritionists estimate that carbohydrates",
+            "should make up about one-fourth to one-fifth of a",
+            "person's diet, which comes to about 75-100 grams of",
+            "carbohydrates per day.",
+            "A diet that is deficient in carbohydrates can seriously",
+            "harm a person's health. When the body",
+            "lacks enough carbohydrates, it must then",
+            "burn its protein supplies for energy, a process called",
+            "gluconeogenesis. However, this results in a lack of",
+            "necessary protein, and further health problems may",
+            "follow. A lack of carbohydrates can also lead to ketosis,",
+            "a build-up of ketones in the body that causes fatigue,",
+            "lethargy, and bad breath."
+          ]
+        }
+      }
+    }
+  ]
+}

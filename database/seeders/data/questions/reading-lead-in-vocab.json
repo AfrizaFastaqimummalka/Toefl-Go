@@ -1,0 +1,469 @@
+{
+  "lesson": "reading-passages/lead-in-vocab",
+  "questions": [
+    {
+      "id": "rd-lead5-01",
+      "position": 1,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"perish\" in line 2 means",
+      "options": [
+        {
+          "id": "A",
+          "text": "fall ill"
+        },
+        {
+          "id": "B",
+          "text": "shoot"
+        },
+        {
+          "id": "C",
+          "text": "die"
+        },
+        {
+          "id": "D",
+          "text": "get rich"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'perish from unnatural causes' = mati.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa yang terjadi pada gajah yang dibunuh pemburu?",
+        "Jawaban C. 'perish from unnatural causes' = mati."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-02",
+      "position": 2,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"unnatural\" in line 2 is closest in meaning to",
+      "options": [
+        {
+          "id": "A",
+          "text": "wild"
+        },
+        {
+          "id": "B",
+          "text": "violent"
+        },
+        {
+          "id": "C",
+          "text": "domesticated"
+        },
+        {
+          "id": "D",
+          "text": "abnormal"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'unnatural' = tidak alami, jadi 'abnormal'.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Kebalikan dari 'natural'.",
+        "Jawaban D. 'unnatural' = tidak alami, jadi 'abnormal'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-03",
+      "position": 3,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"drought\" in line 4 means",
+      "options": [
+        {
+          "id": "A",
+          "text": "a drowning"
+        },
+        {
+          "id": "B",
+          "text": "a lack of food"
+        },
+        {
+          "id": "C",
+          "text": "an inadequate supply of water"
+        },
+        {
+          "id": "D",
+          "text": "an overabundance of animals"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Baris 4-5: 'an inadequate supply of water' menjelaskan drought.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Baca kalimat setelah kata itu.",
+        "Jawaban C. Baris 4-5: 'an inadequate supply of water' menjelaskan drought."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-04",
+      "position": 4,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "Which of the following could be used to replace the word \"survives\" in line 6?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rises to"
+        },
+        {
+          "id": "B",
+          "text": "Succumbs to"
+        },
+        {
+          "id": "C",
+          "text": "Denies"
+        },
+        {
+          "id": "D",
+          "text": "Lives through"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'survives these disasters' = bertahan melewati bencana itu.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Gajah itu bertahan atau menyerah?",
+        "Jawaban D. 'survives these disasters' = bertahan melewati bencana itu."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-05",
+      "position": 5,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "\"Molars\" in line 7 are",
+      "options": [
+        {
+          "id": "A",
+          "text": "germs"
+        },
+        {
+          "id": "B",
+          "text": "old-age characteristics"
+        },
+        {
+          "id": "C",
+          "text": "types of food"
+        },
+        {
+          "id": "D",
+          "text": "teeth"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'the final set of molars ... teeth is gone' = molar adalah gigi.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Lihat kalimat berikutnya.",
+        "Jawaban D. 'the final set of molars ... teeth is gone' = molar adalah gigi."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-06",
+      "position": 6,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "In line 8, \"malnutrition\" is used to describe someone who",
+      "options": [
+        {
+          "id": "A",
+          "text": "is in good health"
+        },
+        {
+          "id": "B",
+          "text": "has an illness"
+        },
+        {
+          "id": "C",
+          "text": "suffers from poor eating"
+        },
+        {
+          "id": "D",
+          "text": "experiences dental problems"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Gajah mati karena tidak mendapat nutrisi cukup (adequate nourishment).",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Mengapa gajah itu mati?",
+        "Jawaban C. Gajah mati karena tidak mendapat nutrisi cukup (adequate nourishment)."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-07",
+      "position": 7,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The expression \"a final home\" in line 9 is closest in meaning to",
+      "options": [
+        {
+          "id": "A",
+          "text": "a place to die"
+        },
+        {
+          "id": "B",
+          "text": "a comfortable house"
+        },
+        {
+          "id": "C",
+          "text": "a place for sale"
+        },
+        {
+          "id": "D",
+          "text": "the only remaining place to live"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Tulang gajah tua ditemukan di tempat itu, jadi itu tempat mereka mati.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa yang ditemukan di tempat itu?",
+        "Jawaban A. Tulang gajah tua ditemukan di tempat itu, jadi itu tempat mereka mati."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-lead5-08",
+      "position": 8,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"shade\" in line 9 is closest in meaning to",
+      "options": [
+        {
+          "id": "A",
+          "text": "color"
+        },
+        {
+          "id": "B",
+          "text": "heat"
+        },
+        {
+          "id": "C",
+          "text": "diminished light"
+        },
+        {
+          "id": "D",
+          "text": "a front porch"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'shade for comfort from the sun' = cahaya yang berkurang.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Shade dipakai untuk menghindari apa?",
+        "Jawaban C. 'shade for comfort from the sun' = cahaya yang berkurang."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 82,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Elephants",
+          "lines": [
+            "An elephant that dies of natural causes lives about sixty-five years. Of course, an",
+            "elephant can perish from several \"unnatural causes\": hunters may kill it, most",
+            "likely for the valuable ivory in its tusks; diseases can spread through an entire",
+            "herd; or drought, and the lack of food that nearly always comes with",
+            "an inadequate supply of water, can kill it.",
+            "But if an elephant survives these disasters, it falls prey to old age in its mid-sixties. Around",
+            "this age, death is blamed on the loss of the last set of molars. When that final set of",
+            "teeth is gone, the elephant dies of malnutrition because it cannot get adequate",
+            "nourishment. In old age, elephants tend to seek out a final home where there is shade for comfort",
+            "from the sun and soft vegetation for cushioning; the bones of many old elephants have been found in",
+            "such places."
+          ]
+        }
+      }
+    }
+  ]
+}

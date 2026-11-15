@@ -1,0 +1,1340 @@
+{
+  "lesson": "listening-part-bc/review-5",
+  "questions": [
+    {
+      "id": "lst-r5-c1-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "What does the man want to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Find work on campus."
+        },
+        {
+          "id": "B",
+          "text": "Work in the employment office."
+        },
+        {
+          "id": "C",
+          "text": "Help students find jobs."
+        },
+        {
+          "id": "D",
+          "text": "Ask the woman questions."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Kalimat pertamanya: mencari kerja paruh waktu di kampus.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Dengarkan kalimat pertama pria.",
+        "Jawaban A. Kalimat pertamanya: mencari kerja paruh waktu di kampus."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to the following conversation about a part-time job."
+          ],
+          [
+            "M",
+            "I'm looking for a part-time job on campus."
+          ],
+          [
+            "W",
+            "Then you've come to the right place. The campus employment office is here to help students like you find jobs on campus."
+          ],
+          [
+            "M",
+            "I'm glad to hear that, because I really need to start earning some money."
+          ],
+          [
+            "W",
+            "Let me ask you some questions. First of all, how many hours a week do you want to work?"
+          ],
+          [
+            "M",
+            "I need to work at least ten hours a week, and I don't think I can handle more than twenty hours with all the courses I'm taking."
+          ],
+          [
+            "W",
+            "And when are you free to work?"
+          ],
+          [
+            "M",
+            "All of my classes are in the morning, so I can work every weekday from noon on. And of course I wouldn't mind working on the weekends."
+          ],
+          [
+            "W",
+            "I'll try to match you up with one of our student jobs. Please fill out this form with some additional information about your skills, and leave it with me today. Then you can call me back tomorrow, and maybe I'll have some news for you."
+          ],
+          [
+            "M",
+            "Thanks for your help."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c1-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "Where does the conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the library."
+        },
+        {
+          "id": "B",
+          "text": "In a classroom."
+        },
+        {
+          "id": "C",
+          "text": "In a campus office."
+        },
+        {
+          "id": "D",
+          "text": "In an apartment."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Wanita menyebut 'The campus employment office is here'.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Wanita bekerja di mana?",
+        "Jawaban C. Wanita menyebut 'The campus employment office is here'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to the following conversation about a part-time job."
+          ],
+          [
+            "M",
+            "I'm looking for a part-time job on campus."
+          ],
+          [
+            "W",
+            "Then you've come to the right place. The campus employment office is here to help students like you find jobs on campus."
+          ],
+          [
+            "M",
+            "I'm glad to hear that, because I really need to start earning some money."
+          ],
+          [
+            "W",
+            "Let me ask you some questions. First of all, how many hours a week do you want to work?"
+          ],
+          [
+            "M",
+            "I need to work at least ten hours a week, and I don't think I can handle more than twenty hours with all the courses I'm taking."
+          ],
+          [
+            "W",
+            "And when are you free to work?"
+          ],
+          [
+            "M",
+            "All of my classes are in the morning, so I can work every weekday from noon on. And of course I wouldn't mind working on the weekends."
+          ],
+          [
+            "W",
+            "I'll try to match you up with one of our student jobs. Please fill out this form with some additional information about your skills, and leave it with me today. Then you can call me back tomorrow, and maybe I'll have some news for you."
+          ],
+          [
+            "M",
+            "Thanks for your help."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c1-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How many hours of work does the man want per week?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No more than ten."
+        },
+        {
+          "id": "B",
+          "text": "At least twenty."
+        },
+        {
+          "id": "C",
+          "text": "Not more than twenty."
+        },
+        {
+          "id": "D",
+          "text": "Up to ten."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Minimal sepuluh dan tidak lebih dari dua puluh jam, jadi 'not more than twenty'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Ada dua angka yang disebut.",
+        "Jawaban C. Minimal sepuluh dan tidak lebih dari dua puluh jam, jadi 'not more than twenty'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to the following conversation about a part-time job."
+          ],
+          [
+            "M",
+            "I'm looking for a part-time job on campus."
+          ],
+          [
+            "W",
+            "Then you've come to the right place. The campus employment office is here to help students like you find jobs on campus."
+          ],
+          [
+            "M",
+            "I'm glad to hear that, because I really need to start earning some money."
+          ],
+          [
+            "W",
+            "Let me ask you some questions. First of all, how many hours a week do you want to work?"
+          ],
+          [
+            "M",
+            "I need to work at least ten hours a week, and I don't think I can handle more than twenty hours with all the courses I'm taking."
+          ],
+          [
+            "W",
+            "And when are you free to work?"
+          ],
+          [
+            "M",
+            "All of my classes are in the morning, so I can work every weekday from noon on. And of course I wouldn't mind working on the weekends."
+          ],
+          [
+            "W",
+            "I'll try to match you up with one of our student jobs. Please fill out this form with some additional information about your skills, and leave it with me today. Then you can call me back tomorrow, and maybe I'll have some news for you."
+          ],
+          [
+            "M",
+            "Thanks for your help."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c1-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "When can the man work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every morning."
+        },
+        {
+          "id": "B",
+          "text": "Afternoons and weekends."
+        },
+        {
+          "id": "C",
+          "text": "When he's in class."
+        },
+        {
+          "id": "D",
+          "text": "Weekdays."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Kelasnya pagi, jadi bisa dari siang hari, dan akhir pekan juga boleh.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Kapan kelasnya?",
+        "Jawaban B. Kelasnya pagi, jadi bisa dari siang hari, dan akhir pekan juga boleh."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to the following conversation about a part-time job."
+          ],
+          [
+            "M",
+            "I'm looking for a part-time job on campus."
+          ],
+          [
+            "W",
+            "Then you've come to the right place. The campus employment office is here to help students like you find jobs on campus."
+          ],
+          [
+            "M",
+            "I'm glad to hear that, because I really need to start earning some money."
+          ],
+          [
+            "W",
+            "Let me ask you some questions. First of all, how many hours a week do you want to work?"
+          ],
+          [
+            "M",
+            "I need to work at least ten hours a week, and I don't think I can handle more than twenty hours with all the courses I'm taking."
+          ],
+          [
+            "W",
+            "And when are you free to work?"
+          ],
+          [
+            "M",
+            "All of my classes are in the morning, so I can work every weekday from noon on. And of course I wouldn't mind working on the weekends."
+          ],
+          [
+            "W",
+            "I'll try to match you up with one of our student jobs. Please fill out this form with some additional information about your skills, and leave it with me today. Then you can call me back tomorrow, and maybe I'll have some news for you."
+          ],
+          [
+            "M",
+            "Thanks for your help."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c1-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What does the woman tell the man to do tomorrow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fill out a form."
+        },
+        {
+          "id": "B",
+          "text": "Give her some additional information."
+        },
+        {
+          "id": "C",
+          "text": "Tell her some news."
+        },
+        {
+          "id": "D",
+          "text": "Phone her."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'You can call me back tomorrow'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Apa yang disuruh dilakukan besok?",
+        "Jawaban D. 'You can call me back tomorrow'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to the following conversation about a part-time job."
+          ],
+          [
+            "M",
+            "I'm looking for a part-time job on campus."
+          ],
+          [
+            "W",
+            "Then you've come to the right place. The campus employment office is here to help students like you find jobs on campus."
+          ],
+          [
+            "M",
+            "I'm glad to hear that, because I really need to start earning some money."
+          ],
+          [
+            "W",
+            "Let me ask you some questions. First of all, how many hours a week do you want to work?"
+          ],
+          [
+            "M",
+            "I need to work at least ten hours a week, and I don't think I can handle more than twenty hours with all the courses I'm taking."
+          ],
+          [
+            "W",
+            "And when are you free to work?"
+          ],
+          [
+            "M",
+            "All of my classes are in the morning, so I can work every weekday from noon on. And of course I wouldn't mind working on the weekends."
+          ],
+          [
+            "W",
+            "I'll try to match you up with one of our student jobs. Please fill out this form with some additional information about your skills, and leave it with me today. Then you can call me back tomorrow, and maybe I'll have some news for you."
+          ],
+          [
+            "M",
+            "Thanks for your help."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c2-01",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "When does the conversation probably take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Just before a vacation."
+        },
+        {
+          "id": "B",
+          "text": "Just after the end of a school semester."
+        },
+        {
+          "id": "C",
+          "text": "At the end of the summer."
+        },
+        {
+          "id": "D",
+          "text": "Just after a break from school."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Wanita bertanya apakah ia siap kembali bekerja 'after spring break'.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Cari kata yang menyebut libur.",
+        "Jawaban D. Wanita bertanya apakah ia siap kembali bekerja 'after spring break'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two friends."
+          ],
+          [
+            "W",
+            "Hi, Jack. It's good to see you again. Are you ready to get down to business after spring break?"
+          ],
+          [
+            "M",
+            "Not really, but I don't have much choice, do I? It's going to be hard to get back to work, since I just had the most fantastic vacation ever."
+          ],
+          [
+            "W",
+            "Really? What did you do?"
+          ],
+          [
+            "M",
+            "I went kayaking on a river."
+          ],
+          [
+            "W",
+            "Kayaking? Weren't you scared?"
+          ],
+          [
+            "M",
+            "At first I was. But after I learned some techniques for maneuvering the kayak, it wasn't so bad. We didn't start out on the river. We had three whole days of instruction in a shallow pool first."
+          ],
+          [
+            "W",
+            "Did you spend the nights camping outside on the ground? That alone would make the trip unappealing to me."
+          ],
+          [
+            "M",
+            "Oh, no. The accommodations were fantastic. Each person had a private cabin, and there was a hot tub, a lodge where you could relax, and a top-notch cafeteria."
+          ],
+          [
+            "W",
+            "Now that part sounds good to me. But I don't think I'd like riding through rough water in a small kayak."
+          ],
+          [
+            "M",
+            "Oh, you should try it. I'm going to do it again as soon as I can afford the time and the money."
+          ],
+          [
+            "W",
+            "Well, better you than me."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c2-02",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "What are the man and woman discussing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A trip to visit the Eskimos."
+        },
+        {
+          "id": "B",
+          "text": "A trip the woman is planning to take."
+        },
+        {
+          "id": "C",
+          "text": "A trip the man has already taken."
+        },
+        {
+          "id": "D",
+          "text": "A camping trip the man and woman took."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Pria menceritakan liburan kayaknya yang sudah ia jalani.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Siapa yang menceritakan perjalanan itu?",
+        "Jawaban C. Pria menceritakan liburan kayaknya yang sudah ia jalani."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two friends."
+          ],
+          [
+            "W",
+            "Hi, Jack. It's good to see you again. Are you ready to get down to business after spring break?"
+          ],
+          [
+            "M",
+            "Not really, but I don't have much choice, do I? It's going to be hard to get back to work, since I just had the most fantastic vacation ever."
+          ],
+          [
+            "W",
+            "Really? What did you do?"
+          ],
+          [
+            "M",
+            "I went kayaking on a river."
+          ],
+          [
+            "W",
+            "Kayaking? Weren't you scared?"
+          ],
+          [
+            "M",
+            "At first I was. But after I learned some techniques for maneuvering the kayak, it wasn't so bad. We didn't start out on the river. We had three whole days of instruction in a shallow pool first."
+          ],
+          [
+            "W",
+            "Did you spend the nights camping outside on the ground? That alone would make the trip unappealing to me."
+          ],
+          [
+            "M",
+            "Oh, no. The accommodations were fantastic. Each person had a private cabin, and there was a hot tub, a lodge where you could relax, and a top-notch cafeteria."
+          ],
+          [
+            "W",
+            "Now that part sounds good to me. But I don't think I'd like riding through rough water in a small kayak."
+          ],
+          [
+            "M",
+            "Oh, you should try it. I'm going to do it again as soon as I can afford the time and the money."
+          ],
+          [
+            "W",
+            "Well, better you than me."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c2-03",
+      "position": 8,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How much instruction did the man have before going out on the river?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Three hours."
+        },
+        {
+          "id": "B",
+          "text": "Three complete days."
+        },
+        {
+          "id": "C",
+          "text": "Three classes."
+        },
+        {
+          "id": "D",
+          "text": "Three weeks."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'three whole days of instruction in a shallow pool'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Cari angka tiga dan satuannya.",
+        "Jawaban B. 'three whole days of instruction in a shallow pool'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two friends."
+          ],
+          [
+            "W",
+            "Hi, Jack. It's good to see you again. Are you ready to get down to business after spring break?"
+          ],
+          [
+            "M",
+            "Not really, but I don't have much choice, do I? It's going to be hard to get back to work, since I just had the most fantastic vacation ever."
+          ],
+          [
+            "W",
+            "Really? What did you do?"
+          ],
+          [
+            "M",
+            "I went kayaking on a river."
+          ],
+          [
+            "W",
+            "Kayaking? Weren't you scared?"
+          ],
+          [
+            "M",
+            "At first I was. But after I learned some techniques for maneuvering the kayak, it wasn't so bad. We didn't start out on the river. We had three whole days of instruction in a shallow pool first."
+          ],
+          [
+            "W",
+            "Did you spend the nights camping outside on the ground? That alone would make the trip unappealing to me."
+          ],
+          [
+            "M",
+            "Oh, no. The accommodations were fantastic. Each person had a private cabin, and there was a hot tub, a lodge where you could relax, and a top-notch cafeteria."
+          ],
+          [
+            "W",
+            "Now that part sounds good to me. But I don't think I'd like riding through rough water in a small kayak."
+          ],
+          [
+            "M",
+            "Oh, you should try it. I'm going to do it again as soon as I can afford the time and the money."
+          ],
+          [
+            "W",
+            "Well, better you than me."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c2-04",
+      "position": 9,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "Which of the following is NOT part of the kayaking trip?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sleeping outside on the ground."
+        },
+        {
+          "id": "B",
+          "text": "Spending time in a hot tub."
+        },
+        {
+          "id": "C",
+          "text": "Relaxing at the lodge."
+        },
+        {
+          "id": "D",
+          "text": "Enjoying excellent food."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Peserta punya kabin pribadi, jadi tidak tidur di tanah.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Ini soal NOT: tiga opsi disebut, satu tidak.",
+        "Jawaban A. Peserta punya kabin pribadi, jadi tidak tidur di tanah."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two friends."
+          ],
+          [
+            "W",
+            "Hi, Jack. It's good to see you again. Are you ready to get down to business after spring break?"
+          ],
+          [
+            "M",
+            "Not really, but I don't have much choice, do I? It's going to be hard to get back to work, since I just had the most fantastic vacation ever."
+          ],
+          [
+            "W",
+            "Really? What did you do?"
+          ],
+          [
+            "M",
+            "I went kayaking on a river."
+          ],
+          [
+            "W",
+            "Kayaking? Weren't you scared?"
+          ],
+          [
+            "M",
+            "At first I was. But after I learned some techniques for maneuvering the kayak, it wasn't so bad. We didn't start out on the river. We had three whole days of instruction in a shallow pool first."
+          ],
+          [
+            "W",
+            "Did you spend the nights camping outside on the ground? That alone would make the trip unappealing to me."
+          ],
+          [
+            "M",
+            "Oh, no. The accommodations were fantastic. Each person had a private cabin, and there was a hot tub, a lodge where you could relax, and a top-notch cafeteria."
+          ],
+          [
+            "W",
+            "Now that part sounds good to me. But I don't think I'd like riding through rough water in a small kayak."
+          ],
+          [
+            "M",
+            "Oh, you should try it. I'm going to do it again as soon as I can afford the time and the money."
+          ],
+          [
+            "W",
+            "Well, better you than me."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c2-05",
+      "position": 10,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "How does the woman feel about taking a kayaking trip?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She'd be scared, but she'd like to try."
+        },
+        {
+          "id": "B",
+          "text": "She can't wait."
+        },
+        {
+          "id": "C",
+          "text": "It would be quite exciting for her."
+        },
+        {
+          "id": "D",
+          "text": "She'd prefer not to try."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'Better you than me' menunjukkan ia tidak mau.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Perhatikan kalimat penutupnya.",
+        "Jawaban D. 'Better you than me' menunjukkan ia tidak mau."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two friends."
+          ],
+          [
+            "W",
+            "Hi, Jack. It's good to see you again. Are you ready to get down to business after spring break?"
+          ],
+          [
+            "M",
+            "Not really, but I don't have much choice, do I? It's going to be hard to get back to work, since I just had the most fantastic vacation ever."
+          ],
+          [
+            "W",
+            "Really? What did you do?"
+          ],
+          [
+            "M",
+            "I went kayaking on a river."
+          ],
+          [
+            "W",
+            "Kayaking? Weren't you scared?"
+          ],
+          [
+            "M",
+            "At first I was. But after I learned some techniques for maneuvering the kayak, it wasn't so bad. We didn't start out on the river. We had three whole days of instruction in a shallow pool first."
+          ],
+          [
+            "W",
+            "Did you spend the nights camping outside on the ground? That alone would make the trip unappealing to me."
+          ],
+          [
+            "M",
+            "Oh, no. The accommodations were fantastic. Each person had a private cabin, and there was a hot tub, a lodge where you could relax, and a top-notch cafeteria."
+          ],
+          [
+            "W",
+            "Now that part sounds good to me. But I don't think I'd like riding through rough water in a small kayak."
+          ],
+          [
+            "M",
+            "Oh, you should try it. I'm going to do it again as soon as I can afford the time and the money."
+          ],
+          [
+            "W",
+            "Well, better you than me."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c3-01",
+      "position": 11,
+      "section": "listening",
+      "testingPoint": "listening-main-idea",
+      "type": "completion",
+      "text": "What is the topic of this conversation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All kinds of pollution."
+        },
+        {
+          "id": "B",
+          "text": "How acid rain has harmed the earth."
+        },
+        {
+          "id": "C",
+          "text": "Pollution from cars and factories."
+        },
+        {
+          "id": "D",
+          "text": "The causes and possible effects of acid rain."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Mereka membahas apa itu hujan asam, penyebab, dan dampak yang mungkin.",
+      "hints": [
+        "Dengarkan baris pertama dan kalimat pembuka: topik utamanya apa?",
+        "Topik umum, bukan satu detail saja.",
+        "Jawaban D. Mereka membahas apa itu hujan asam, penyebab, dan dampak yang mungkin."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two classmates."
+          ],
+          [
+            "M",
+            "Did you read the article that the professor assigned for tomorrow's class? It was really interesting."
+          ],
+          [
+            "W",
+            "No, not yet. What was it about?"
+          ],
+          [
+            "M",
+            "It was about pollution, specifically one kind called acid rain."
+          ],
+          [
+            "W",
+            "Why is it called acid rain?"
+          ],
+          [
+            "M",
+            "Because the rain, or some other kind of precipitation, has been polluted with acid."
+          ],
+          [
+            "W",
+            "Where does the acid come from?"
+          ],
+          [
+            "M",
+            "From cars and factories, anything that burns coal or oil. These release sulfur dioxide and nitrogen oxides. Sulfur dioxide reacts with water vapor to form sulfuric acid, and nitrogen oxides react with water vapor to form nitric acid."
+          ],
+          [
+            "W",
+            "So when coal or oil is burned, acid forms, and when it rains or snows, the acid falls back on the earth?"
+          ],
+          [
+            "M",
+            "Exactly. That's why it's so dangerous. Acid rain has been falling over parts of northern America and northern Europe, and if this isn't checked, the effect on the water supply and on plant and animal life could be disastrous."
+          ],
+          [
+            "W",
+            "This is important. I really need to read that article."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c3-02",
+      "position": 12,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "What energy sources cause acid rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nuclear power."
+        },
+        {
+          "id": "B",
+          "text": "Electricity."
+        },
+        {
+          "id": "C",
+          "text": "Burning coal and oil."
+        },
+        {
+          "id": "D",
+          "text": "Solar power."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'anything that burns coal or oil'.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Apa yang dibakar?",
+        "Jawaban C. 'anything that burns coal or oil'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two classmates."
+          ],
+          [
+            "M",
+            "Did you read the article that the professor assigned for tomorrow's class? It was really interesting."
+          ],
+          [
+            "W",
+            "No, not yet. What was it about?"
+          ],
+          [
+            "M",
+            "It was about pollution, specifically one kind called acid rain."
+          ],
+          [
+            "W",
+            "Why is it called acid rain?"
+          ],
+          [
+            "M",
+            "Because the rain, or some other kind of precipitation, has been polluted with acid."
+          ],
+          [
+            "W",
+            "Where does the acid come from?"
+          ],
+          [
+            "M",
+            "From cars and factories, anything that burns coal or oil. These release sulfur dioxide and nitrogen oxides. Sulfur dioxide reacts with water vapor to form sulfuric acid, and nitrogen oxides react with water vapor to form nitric acid."
+          ],
+          [
+            "W",
+            "So when coal or oil is burned, acid forms, and when it rains or snows, the acid falls back on the earth?"
+          ],
+          [
+            "M",
+            "Exactly. That's why it's so dangerous. Acid rain has been falling over parts of northern America and northern Europe, and if this isn't checked, the effect on the water supply and on plant and animal life could be disastrous."
+          ],
+          [
+            "W",
+            "This is important. I really need to read that article."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c3-03",
+      "position": 13,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "How is sulfuric acid formed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From sulfur dioxide and water vapor."
+        },
+        {
+          "id": "B",
+          "text": "From sulfur dioxide and nitrogen oxide."
+        },
+        {
+          "id": "C",
+          "text": "From nitric acid and sulfur dioxide."
+        },
+        {
+          "id": "D",
+          "text": "From water vapor and nitric acid."
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Sulfur dioxide bereaksi dengan water vapor membentuk sulfuric acid.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Perhatikan zat yang bereaksi dengan water vapor.",
+        "Jawaban A. Sulfur dioxide bereaksi dengan water vapor membentuk sulfuric acid."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two classmates."
+          ],
+          [
+            "M",
+            "Did you read the article that the professor assigned for tomorrow's class? It was really interesting."
+          ],
+          [
+            "W",
+            "No, not yet. What was it about?"
+          ],
+          [
+            "M",
+            "It was about pollution, specifically one kind called acid rain."
+          ],
+          [
+            "W",
+            "Why is it called acid rain?"
+          ],
+          [
+            "M",
+            "Because the rain, or some other kind of precipitation, has been polluted with acid."
+          ],
+          [
+            "W",
+            "Where does the acid come from?"
+          ],
+          [
+            "M",
+            "From cars and factories, anything that burns coal or oil. These release sulfur dioxide and nitrogen oxides. Sulfur dioxide reacts with water vapor to form sulfuric acid, and nitrogen oxides react with water vapor to form nitric acid."
+          ],
+          [
+            "W",
+            "So when coal or oil is burned, acid forms, and when it rains or snows, the acid falls back on the earth?"
+          ],
+          [
+            "M",
+            "Exactly. That's why it's so dangerous. Acid rain has been falling over parts of northern America and northern Europe, and if this isn't checked, the effect on the water supply and on plant and animal life could be disastrous."
+          ],
+          [
+            "W",
+            "This is important. I really need to read that article."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c3-04",
+      "position": 14,
+      "section": "listening",
+      "testingPoint": "listening-detail",
+      "type": "completion",
+      "text": "According to the man, where is acid rain a problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only in North America."
+        },
+        {
+          "id": "B",
+          "text": "At the North and South Poles."
+        },
+        {
+          "id": "C",
+          "text": "In parts of several northern continents."
+        },
+        {
+          "id": "D",
+          "text": "In equatorial areas."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Menimpa bagian Amerika utara dan Eropa utara.",
+      "hints": [
+        "Pertanyaan berurutan mengikuti isi audio. Cari bagian yang menjawabnya.",
+        "Wilayah apa yang disebut?",
+        "Jawaban C. Menimpa bagian Amerika utara dan Eropa utara."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two classmates."
+          ],
+          [
+            "M",
+            "Did you read the article that the professor assigned for tomorrow's class? It was really interesting."
+          ],
+          [
+            "W",
+            "No, not yet. What was it about?"
+          ],
+          [
+            "M",
+            "It was about pollution, specifically one kind called acid rain."
+          ],
+          [
+            "W",
+            "Why is it called acid rain?"
+          ],
+          [
+            "M",
+            "Because the rain, or some other kind of precipitation, has been polluted with acid."
+          ],
+          [
+            "W",
+            "Where does the acid come from?"
+          ],
+          [
+            "M",
+            "From cars and factories, anything that burns coal or oil. These release sulfur dioxide and nitrogen oxides. Sulfur dioxide reacts with water vapor to form sulfuric acid, and nitrogen oxides react with water vapor to form nitric acid."
+          ],
+          [
+            "W",
+            "So when coal or oil is burned, acid forms, and when it rains or snows, the acid falls back on the earth?"
+          ],
+          [
+            "M",
+            "Exactly. That's why it's so dangerous. Acid rain has been falling over parts of northern America and northern Europe, and if this isn't checked, the effect on the water supply and on plant and animal life could be disastrous."
+          ],
+          [
+            "W",
+            "This is important. I really need to read that article."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-r5-c3-05",
+      "position": 15,
+      "section": "listening",
+      "testingPoint": "listening-inference",
+      "type": "completion",
+      "text": "What action does the woman think she should take next?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She should protect herself from the rain."
+        },
+        {
+          "id": "B",
+          "text": "She should clean up the water supply."
+        },
+        {
+          "id": "C",
+          "text": "She should read a novel."
+        },
+        {
+          "id": "D",
+          "text": "She should get more information about acid rain."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'I really need to read that article'.",
+      "hints": [
+        "Simpulkan dari petunjuk: siapa pembicaranya, di mana, kapan?",
+        "Kalimat terakhir wanita.",
+        "Jawaban D. 'I really need to read that article'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Script ditulis ulang ringkas dari script di buku; kunci diturunkan dari script tersebut.",
+      "sourcePage": 30,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "N",
+            "Listen to a conversation between two classmates."
+          ],
+          [
+            "M",
+            "Did you read the article that the professor assigned for tomorrow's class? It was really interesting."
+          ],
+          [
+            "W",
+            "No, not yet. What was it about?"
+          ],
+          [
+            "M",
+            "It was about pollution, specifically one kind called acid rain."
+          ],
+          [
+            "W",
+            "Why is it called acid rain?"
+          ],
+          [
+            "M",
+            "Because the rain, or some other kind of precipitation, has been polluted with acid."
+          ],
+          [
+            "W",
+            "Where does the acid come from?"
+          ],
+          [
+            "M",
+            "From cars and factories, anything that burns coal or oil. These release sulfur dioxide and nitrogen oxides. Sulfur dioxide reacts with water vapor to form sulfuric acid, and nitrogen oxides react with water vapor to form nitric acid."
+          ],
+          [
+            "W",
+            "So when coal or oil is burned, acid forms, and when it rains or snows, the acid falls back on the earth?"
+          ],
+          [
+            "M",
+            "Exactly. That's why it's so dangerous. Acid rain has been falling over parts of northern America and northern Europe, and if this isn't checked, the effect on the water supply and on plant and animal life could be disastrous."
+          ],
+          [
+            "W",
+            "This is important. I really need to read that article."
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

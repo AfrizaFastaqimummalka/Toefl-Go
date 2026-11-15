@@ -69,7 +69,7 @@ export default (config) => ({
     },
     recoLabel(cat) {
         return (
-            { 'verb-forms': 'Bentuk verb', 'connector-time': 'Time', 'connector-cause': 'Cause', 'connector-noun': 'Noun clause', 'connector-adjective': 'Adjective clause' }[cat] ?? cat
+            { 'verb-forms': 'Bentuk verb', 'connector-time': 'Time', 'connector-cause': 'Cause', 'connector-noun': 'Noun clause', 'connector-adjective': 'Adjective clause', 'inversion-negative': 'Negative expression', 'paired-conjunction': 'Paired conjunction', 'usage-like-other': 'Like / other' }[cat] ?? cat
         );
     },
     get recoCards() {

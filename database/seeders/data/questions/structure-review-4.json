@@ -1,0 +1,410 @@
+{
+  "lesson": "structure-parallel/review-4",
+  "questions": [
+    {
+      "id": "str-rev4-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "completion",
+      "text": "Truman Capote's In Cold Blood is neither journalistically accurate _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a piece of fiction"
+        },
+        {
+          "id": "B",
+          "text": "nor a fictitious work"
+        },
+        {
+          "id": "C",
+          "text": "or written in a fictitious way"
+        },
+        {
+          "id": "D",
+          "text": "nor completely fictitious"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Setelah 'neither ... ' pasangannya 'nor', dan bagian ini sejajar dengan 'journalistically accurate' (adverb + adjective): 'nor completely fictitious'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Pasangan 'neither' apa, dan bentuk apa yang sejajar dengan 'journalistically accurate'?",
+        "Jawaban D. Setelah 'neither ... ' pasangannya 'nor', dan bagian ini sejajar dengan 'journalistically accurate' (adverb + adjective): 'nor completely fictitious'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60
+    },
+    {
+      "id": "str-rev4-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "completion",
+      "text": "Vitamin C is necessary for the prevention and _____ of scurvy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it cures"
+        },
+        {
+          "id": "B",
+          "text": "cures"
+        },
+        {
+          "id": "C",
+          "text": "cure"
+        },
+        {
+          "id": "D",
+          "text": "for curing"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'prevention and ___' menghubungkan dua noun: prevention dan cure.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Dua sisi 'and' harus sama kelas kata. Apa kelas kata 'prevention'?",
+        "Jawaban C. 'prevention and ___' menghubungkan dua noun: prevention dan cure."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60
+    },
+    {
+      "id": "str-rev4-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "completion",
+      "text": "A baby's development is influenced by both heredity and _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "by environmental factors"
+        },
+        {
+          "id": "B",
+          "text": "environmentally"
+        },
+        {
+          "id": "C",
+          "text": "the influence of the environment"
+        },
+        {
+          "id": "D",
+          "text": "environment"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'both heredity and ___': heredity noun, jadi pasangannya noun pendek 'environment'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Pasangan 'both ... and': bentuk apa yang sejajar dengan 'heredity'?",
+        "Jawaban D. 'both heredity and ___': heredity noun, jadi pasangannya noun pendek 'environment'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60
+    },
+    {
+      "id": "str-rev4-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "completion",
+      "text": "Because bone loss occurs earlier in women than _____, the effects of osteoporosis are more apparent in women.",
+      "options": [
+        {
+          "id": "A",
+          "text": "men do"
+        },
+        {
+          "id": "B",
+          "text": "in men"
+        },
+        {
+          "id": "C",
+          "text": "as men"
+        },
+        {
+          "id": "D",
+          "text": "similar to men"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Perbandingan 'earlier in women than ___': klausa dibandingkan dengan klausa, 'men do' (= men do occur earlier). Pilihan lain tidak sejajar.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Setelah 'than', bentuknya harus seperti sebelum 'than' (klausa).",
+        "Jawaban A. Perbandingan 'earlier in women than ___': klausa dibandingkan dengan klausa, 'men do' (= men do occur earlier). Pilihan lain tidak sejajar."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60
+    },
+    {
+      "id": "str-rev4-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Fire extinguishers can contain liquefied gas, dry chemicals, or watery .",
+      "segments": [
+        "Fire",
+        "extinguishers",
+        "can contain",
+        "liquefied gas, dry chemicals,",
+        "or",
+        "watery",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "water"
+      },
+      "explanation": "Daftar harus noun: liquefied gas, dry chemicals, water.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Daftar harus noun: liquefied gas, dry chemicals, water."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "id": "str-rev4-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "The U.S. Congress consists of both the Senate as well as the House of Representatives.",
+      "segments": [
+        "The U.S. Congress consists",
+        "of",
+        "both",
+        "the Senate",
+        "as well as",
+        "the House of Representatives."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 4,
+        "fix": "and"
+      },
+      "explanation": "Pasangan 'both' adalah 'and', bukan 'as well as'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Pasangan 'both' adalah 'and', bukan 'as well as'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "id": "str-rev4-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "The prison population in this state, now at an all time high , is higher than any state .",
+      "segments": [
+        "The prison",
+        "population",
+        "in this state, now",
+        "at an all time high",
+        ",",
+        "is higher",
+        "than",
+        "any state",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 7,
+        "fix": "any other state"
+      },
+      "explanation": "Perbandingan harus 'any other state' agar state ini tidak dibandingkan dengan dirinya sendiri.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Perbandingan harus 'any other state' agar state ini tidak dibandingkan dengan dirinya sendiri."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev4-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "A well-composed baroque opera achieves a delicate balance by focusing alternately on the aural, visual, emotional, and philosophy elements.",
+      "segments": [
+        "A",
+        "well-composed",
+        "baroque opera",
+        "achieves",
+        "a delicate balance by",
+        "focusing",
+        "alternately on the aural, visual, emotional, and",
+        "philosophy",
+        "elements."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 7,
+        "fix": "philosophical"
+      },
+      "explanation": "Daftar harus adjective: aural, visual, emotional, philosophical.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Daftar harus adjective: aural, visual, emotional, philosophical."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Kunci diturunkan dari analisis, buku tidak mencantumkan kunci.",
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "id": "str-rev4-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Manufacturers may use food additives for preserving , to color, to flavor, or to fortify foods .",
+      "segments": [
+        "Manufacturers",
+        "may use",
+        "food additives",
+        "for preserving",
+        ", to color, to flavor, or",
+        "to fortify",
+        "foods",
+        "."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "to preserve"
+      },
+      "explanation": "Daftar infinitive harus sejajar: to preserve, to color, to flavor, to fortify.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Daftar infinitive harus sejajar: to preserve, to color, to flavor, to fortify."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          2,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "id": "str-rev4-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "A bankruptcy may be either voluntary nor involuntary.",
+      "segments": [
+        "A",
+        "bankruptcy",
+        "may be",
+        "either",
+        "voluntary",
+        "nor",
+        "involuntary."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 5,
+        "fix": "or"
+      },
+      "explanation": "Pasangan 'either' adalah 'or', bukan 'nor'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Periksa tiap bagian bergaris bawah satu per satu: bentuk, jumlah, dan urutan katanya.",
+        "Pasangan 'either' adalah 'or', bukan 'nor'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 60,
+      "meta": {
+        "noAlt": true,
+        "plain": [
+          0,
+          3,
+          6
+        ]
+      }
+    }
+  ]
+}

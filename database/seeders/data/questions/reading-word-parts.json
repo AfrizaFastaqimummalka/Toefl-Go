@@ -1,0 +1,509 @@
+{
+  "lesson": "reading-word-parts/kuis",
+  "questions": [
+    {
+      "id": "rd-wp-01",
+      "position": 1,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"a-, an-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "no, not, or without"
+        },
+        {
+          "id": "B",
+          "text": "before"
+        },
+        {
+          "id": "C",
+          "text": "against, opposite"
+        },
+        {
+          "id": "D",
+          "text": "around"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"a-, an-\" artinya no, not, or without, seperti pada anesthesia (without feeling).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: anesthesia.",
+        "Jawaban A. \"a-, an-\" = no, not, or without."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-02",
+      "position": 2,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"ante-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "within"
+        },
+        {
+          "id": "B",
+          "text": "before"
+        },
+        {
+          "id": "C",
+          "text": "between"
+        },
+        {
+          "id": "D",
+          "text": "time"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"ante-\" artinya before, seperti pada antedate (come before).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: antedate.",
+        "Jawaban B. \"ante-\" = before."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-03",
+      "position": 3,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"anti-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "tongue, language"
+        },
+        {
+          "id": "B",
+          "text": "sound"
+        },
+        {
+          "id": "C",
+          "text": "against, opposite"
+        },
+        {
+          "id": "D",
+          "text": "build"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"anti-\" artinya against, opposite, seperti pada antiwar (against war).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: antiwar.",
+        "Jawaban C. \"anti-\" = against, opposite."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-04",
+      "position": 4,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"circum-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "heat"
+        },
+        {
+          "id": "B",
+          "text": "hold"
+        },
+        {
+          "id": "C",
+          "text": "no, not, or without"
+        },
+        {
+          "id": "D",
+          "text": "around"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"circum-\" artinya around, seperti pada circumvent (go around).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: circumvent.",
+        "Jawaban D. \"circum-\" = around."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-05",
+      "position": 5,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"intra-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "within"
+        },
+        {
+          "id": "B",
+          "text": "before"
+        },
+        {
+          "id": "C",
+          "text": "against, opposite"
+        },
+        {
+          "id": "D",
+          "text": "around"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"intra-\" artinya within, seperti pada intrastate (within the state).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: intrastate.",
+        "Jawaban A. \"intra-\" = within."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-06",
+      "position": 6,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"inter-\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "within"
+        },
+        {
+          "id": "B",
+          "text": "between"
+        },
+        {
+          "id": "C",
+          "text": "time"
+        },
+        {
+          "id": "D",
+          "text": "tongue, language"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"inter-\" artinya between, seperti pada interstate (between states).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: interstate.",
+        "Jawaban B. \"inter-\" = between."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-07",
+      "position": 7,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"chronos\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "sound"
+        },
+        {
+          "id": "B",
+          "text": "build"
+        },
+        {
+          "id": "C",
+          "text": "time"
+        },
+        {
+          "id": "D",
+          "text": "heat"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"chronos\" artinya time, seperti pada chronology (events in time order).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: chronology.",
+        "Jawaban C. \"chronos\" = time."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-08",
+      "position": 8,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"lingua\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "hold"
+        },
+        {
+          "id": "B",
+          "text": "no, not, or without"
+        },
+        {
+          "id": "C",
+          "text": "before"
+        },
+        {
+          "id": "D",
+          "text": "tongue, language"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"lingua\" artinya tongue, language, seperti pada multilingual (speaking many languages).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: multilingual.",
+        "Jawaban D. \"lingua\" = tongue, language."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-09",
+      "position": 9,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"phon, phone\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "sound"
+        },
+        {
+          "id": "B",
+          "text": "against, opposite"
+        },
+        {
+          "id": "C",
+          "text": "around"
+        },
+        {
+          "id": "D",
+          "text": "within"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "\"phon, phone\" artinya sound, seperti pada symphony (harmony of sounds).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: symphony.",
+        "Jawaban A. \"phon, phone\" = sound."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-10",
+      "position": 10,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"struct\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "between"
+        },
+        {
+          "id": "B",
+          "text": "build"
+        },
+        {
+          "id": "C",
+          "text": "time"
+        },
+        {
+          "id": "D",
+          "text": "tongue, language"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "\"struct\" artinya build, seperti pada construction (process of building).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: construction.",
+        "Jawaban B. \"struct\" = build."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-11",
+      "position": 11,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"therm\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "sound"
+        },
+        {
+          "id": "B",
+          "text": "build"
+        },
+        {
+          "id": "C",
+          "text": "heat"
+        },
+        {
+          "id": "D",
+          "text": "hold"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "\"therm\" artinya heat, seperti pada thermometer (measures heat).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: thermometer.",
+        "Jawaban C. \"therm\" = heat."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    },
+    {
+      "id": "rd-wp-12",
+      "position": 12,
+      "section": "reading",
+      "testingPoint": "word-parts",
+      "type": "completion",
+      "text": "The word part \"ten\" means",
+      "options": [
+        {
+          "id": "A",
+          "text": "no, not, or without"
+        },
+        {
+          "id": "B",
+          "text": "before"
+        },
+        {
+          "id": "C",
+          "text": "against, opposite"
+        },
+        {
+          "id": "D",
+          "text": "hold"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "\"ten\" artinya hold, seperti pada tenacious (holding firmly).",
+      "hints": [
+        "Pecah kata menjadi awalan (prefix) dan akar (root), lalu gabungkan maknanya.",
+        "Contoh katanya: tenacious.",
+        "Jawaban D. \"ten\" = hold."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 81,
+      "meta": {
+        "noBlank": true
+      }
+    }
+  ]
+}

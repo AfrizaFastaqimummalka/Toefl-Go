@@ -1,0 +1,1031 @@
+{
+  "lesson": "reading-passages/review-1",
+  "questions": [
+    {
+      "id": "rd-r1-a-01",
+      "position": 1,
+      "section": "reading",
+      "testingPoint": "reading-main-idea",
+      "type": "completion",
+      "text": "Which of the following best states the topic of the passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Differences between Bigfoot and Sasquatch"
+        },
+        {
+          "id": "B",
+          "text": "A description of Bigfoot"
+        },
+        {
+          "id": "C",
+          "text": "Where Bigfoot, or Sasquatch, can be found"
+        },
+        {
+          "id": "D",
+          "text": "The creature Bigfoot and its questionable existence"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Passage menggambarkan Bigfoot, lalu menekankan bahwa para ahli belum yakin ia ada.",
+      "hints": [
+        "Baca kalimat pertama dan terakhir. Pilih topik yang mencakup seluruh passage, bukan satu detail.",
+        "Topik harus mencakup deskripsi dan keraguan.",
+        "Jawaban D. Passage menggambarkan Bigfoot, lalu menekankan bahwa para ahli belum yakin ia ada."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-a-02",
+      "position": 2,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"noted\" in line 2 is closest in meaning to which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reported"
+        },
+        {
+          "id": "B",
+          "text": "Written in a letter"
+        },
+        {
+          "id": "C",
+          "text": "Refuted"
+        },
+        {
+          "id": "D",
+          "text": "Discussed"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "'sightings have been noted' = dilaporkan.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa yang dilakukan terhadap penampakan?",
+        "Jawaban A. 'sightings have been noted' = dilaporkan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-a-03",
+      "position": 3,
+      "section": "reading",
+      "testingPoint": "reading-inference",
+      "type": "completion",
+      "text": "It is implied in the passage that Bigfoot would probably NOT like to live",
+      "options": [
+        {
+          "id": "A",
+          "text": "in Oregon"
+        },
+        {
+          "id": "B",
+          "text": "in the Pacific Northwest"
+        },
+        {
+          "id": "C",
+          "text": "on coastal plains"
+        },
+        {
+          "id": "D",
+          "text": "in mountainous areas"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Penampakan paling sering di daerah pegunungan di barat laut Pasifik. Dataran pantai tidak disebut.",
+      "hints": [
+        "Jawaban tidak tertulis langsung. Simpulkan dari fakta yang ada, jangan menambah informasi baru.",
+        "Di mana ia paling sering terlihat?",
+        "Jawaban C. Penampakan paling sering di daerah pegunungan di barat laut Pasifik. Dataran pantai tidak disebut."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-a-04",
+      "position": 4,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "Which of the following is NOT true about the appearance of Bigfoot?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its arms and neck look like those of an ape."
+        },
+        {
+          "id": "B",
+          "text": "Its arms are covered with fur."
+        },
+        {
+          "id": "C",
+          "text": "It is short-necked."
+        },
+        {
+          "id": "D",
+          "text": "It walks like an ape."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Cara jalannya tegak, lebih mirip manusia (Homo sapiens), bukan kera.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Bandingkan cara jalannya dengan penampilan.",
+        "Jawaban D. Cara jalannya tegak, lebih mirip manusia (Homo sapiens), bukan kera."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-a-05",
+      "position": 5,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The expression Homo sapiens in line 7 is closest in meaning to",
+      "options": [
+        {
+          "id": "A",
+          "text": "ape"
+        },
+        {
+          "id": "B",
+          "text": "creature"
+        },
+        {
+          "id": "C",
+          "text": "human"
+        },
+        {
+          "id": "D",
+          "text": "furry animal"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Cara jalan tegaknya lebih mirip manusia.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Siapa yang berjalan tegak?",
+        "Jawaban C. Cara jalan tegaknya lebih mirip manusia."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-a-06",
+      "position": 6,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "According to the passage, how do experts feel about the evidence concerning Bigfoot's existence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They feel certain as to its existence."
+        },
+        {
+          "id": "B",
+          "text": "They are not yet certain."
+        },
+        {
+          "id": "C",
+          "text": "They are sure that it does not exist."
+        },
+        {
+          "id": "D",
+          "text": "They feel that all the evidence is fake."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Sebagian besar ahli belum yakin (not convinced).",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Cari kalimat tentang 'most experts'.",
+        "Jawaban B. Sebagian besar ahli belum yakin (not convinced)."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 83,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Bigfoot",
+          "lines": [
+            "Bigfoot is a humanlike creature reportedly living in the Pacific Northwest. Sightings of it",
+            "have been noted most often in the mountainous areas of Northern California, Oregon, and",
+            "Washington in the United States. It has also been seen many times in British",
+            "Columbia in Canada, where it is called Sasquatch.",
+            "Witnesses describe a creature that is tall by human standards, measuring 7 to 10 feet (2 to 3",
+            "meters). It looks like an ape, with thick, powerful, fur-covered arms and a short, strong",
+            "neck; however, the way it walks upright is more like that of Homo sapiens.",
+            "Although hundreds of sightings of Bigfoot have been reported, most experts have not seen",
+            "enough evidence to be convinced that it exists. The fact that some alleged evidence has been",
+            "proven fake may have discredited other, more credible information."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-01",
+      "position": 7,
+      "section": "reading",
+      "testingPoint": "reading-inference",
+      "type": "completion",
+      "text": "The paragraph preceding the passage most probably discusses",
+      "options": [
+        {
+          "id": "A",
+          "text": "further uses of epinephrine"
+        },
+        {
+          "id": "B",
+          "text": "the treatment of cardiac arrest"
+        },
+        {
+          "id": "C",
+          "text": "a different hormone"
+        },
+        {
+          "id": "D",
+          "text": "the secretions of the adrenal glands"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Passage dibuka dengan 'The next hormone', jadi paragraf sebelumnya membahas hormon lain.",
+      "hints": [
+        "Jawaban tidak tertulis langsung. Simpulkan dari fakta yang ada, jangan menambah informasi baru.",
+        "Perhatikan kata 'next'.",
+        "Jawaban C. Passage dibuka dengan 'The next hormone', jadi paragraf sebelumnya membahas hormon lain."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-02",
+      "position": 8,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "What is another name for epinephrine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adrenal glands"
+        },
+        {
+          "id": "B",
+          "text": "Stressful situation"
+        },
+        {
+          "id": "C",
+          "text": "Bronchi"
+        },
+        {
+          "id": "D",
+          "text": "Adrenaline"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'epinephrine, also called adrenaline'.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Cari kalimat pertama.",
+        "Jawaban D. 'epinephrine, also called adrenaline'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-03",
+      "position": 9,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "Which of the following is NOT mentioned as a result of the release of epinephrine in the blood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Severe asthma"
+        },
+        {
+          "id": "B",
+          "text": "An increase in blood pressure"
+        },
+        {
+          "id": "C",
+          "text": "Higher heartbeat"
+        },
+        {
+          "id": "D",
+          "text": "Increased energy"
+        }
+      ],
+      "answer": {
+        "option": "A"
+      },
+      "explanation": "Detak jantung, tekanan darah, dan energi disebut. Asma berat adalah penyakit yang diobati, bukan akibat pelepasan.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Soal NOT: cari efek di baris 4-6.",
+        "Jawaban A. Detak jantung, tekanan darah, dan energi disebut. Asma berat adalah penyakit yang diobati, bukan akibat pelepasan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-04",
+      "position": 10,
+      "section": "reading",
+      "testingPoint": "reading-inference",
+      "type": "completion",
+      "text": "It is implied in the passage that increased heartbeat",
+      "options": [
+        {
+          "id": "A",
+          "text": "harms the body"
+        },
+        {
+          "id": "B",
+          "text": "causes the release of epinephrine into the body"
+        },
+        {
+          "id": "C",
+          "text": "is helpful in combating the stressful situation"
+        },
+        {
+          "id": "D",
+          "text": "is useful in treating asthma"
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Tubuh merespons stres dengan detak jantung naik untuk menghadapinya.",
+      "hints": [
+        "Jawaban tidak tertulis langsung. Simpulkan dari fakta yang ada, jangan menambah informasi baru.",
+        "Mengapa tubuh meningkatkan detak jantung?",
+        "Jawaban C. Tubuh merespons stres dengan detak jantung naik untuk menghadapinya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-05",
+      "position": 11,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "The passage indicates that epinephrine is used in the treatment of all of the following EXCEPT",
+      "options": [
+        {
+          "id": "A",
+          "text": "asthma"
+        },
+        {
+          "id": "B",
+          "text": "high blood pressure"
+        },
+        {
+          "id": "C",
+          "text": "serious allergic reactions"
+        },
+        {
+          "id": "D",
+          "text": "heart problems"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Asma, reaksi alergi berat, dan henti jantung disebut. Tekanan darah tinggi tidak.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Soal EXCEPT: cari penggunaan di baris 7-10.",
+        "Jawaban B. Asma, reaksi alergi berat, dan henti jantung disebut. Tekanan darah tinggi tidak."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-06",
+      "position": 12,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "What are the \"bronchi\" in line 9?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A large muscle"
+        },
+        {
+          "id": "B",
+          "text": "Air passages"
+        },
+        {
+          "id": "C",
+          "text": "Part of the lungs"
+        },
+        {
+          "id": "D",
+          "text": "Part of the heart"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'the bronchi, the large air passages leading into the lungs'.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Baca penjelasan setelah kata itu.",
+        "Jawaban B. 'the bronchi, the large air passages leading into the lungs'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-b-07",
+      "position": 13,
+      "section": "reading",
+      "testingPoint": "reading-main-idea",
+      "type": "completion",
+      "text": "Which of the following best expresses the organization of the information in the passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Epinephrine and adrenaline"
+        },
+        {
+          "id": "B",
+          "text": "Various effects of epinephrine on the body"
+        },
+        {
+          "id": "C",
+          "text": "Causes of sudden stress"
+        },
+        {
+          "id": "D",
+          "text": "Epinephrine's natural functions and further applications"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Paragraf 1: fungsi alami. Paragraf 2: pemakaian lanjutan.",
+      "hints": [
+        "Baca kalimat pertama dan terakhir. Pilih topik yang mencakup seluruh passage, bukan satu detail.",
+        "Apa isi paragraf pertama dan kedua?",
+        "Jawaban D. Paragraf 1: fungsi alami. Paragraf 2: pemakaian lanjutan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 84,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "Epinephrine",
+          "lines": [
+            "The next hormone is epinephrine, also called adrenaline. This hormone is a natural secretion of the",
+            "adrenal glands in the human body. Its main function is to help the body cope",
+            "with sudden surges of stress. When a person unexpectedly finds himself in a stressful situation",
+            "filled with fear or anger, a large amount of epinephrine is released into the blood and the body",
+            "responds with an increased heartbeat, higher blood pressure, and conversion of glycogen into glucose",
+            "for energy so the body can deal with the stress.",
+            "Epinephrine can be extracted from the adrenal glands of animals or synthesized",
+            "chemically so that it can be put to further use. It is used in the treatment of severe asthma, where it",
+            "relaxes the large muscles of the bronchi, the large air passages leading into the lungs. It is also used in",
+            "cases of severe allergic reaction or cardiac arrest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-c-01",
+      "position": 13,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "The passage states that all of the following occurred prior to 1933 EXCEPT that",
+      "options": [
+        {
+          "id": "A",
+          "text": "many banks went under"
+        },
+        {
+          "id": "B",
+          "text": "many bank patrons were afraid of losing their deposits"
+        },
+        {
+          "id": "C",
+          "text": "a lot of money was withdrawn from accounts"
+        },
+        {
+          "id": "D",
+          "text": "Governor Comstock canceled all banking activities in Michigan"
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "Gubernur Comstock bertindak pada Februari 1933, bukan sebelum 1933.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Perhatikan tanggal tiap kejadian.",
+        "Jawaban D. Gubernur Comstock bertindak pada Februari 1933, bukan sebelum 1933."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 85,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "The banking crisis of 1933",
+          "lines": [
+            "A massive banking crisis struck the United States in 1933. In the two preceding years, a",
+            "large number of banks had failed, and fear of lost savings had led many depositors to withdraw",
+            "their funds. Problems became so serious in Michigan that Governor William",
+            "A. Comstock was forced to declare a moratorium on all banking activities in the state on February 14,",
+            "1933. The panic quickly spread to other states, and on March 6, President Franklin D.",
+            "Roosevelt declared a banking moratorium across the United States, leaving the entire country",
+            "without banking services.",
+            "Congress met immediately in a special session to solve the crisis and on March 9",
+            "passed the Emergency Banking Act of 1933 to help financially healthy banks reopen. By March",
+            "15, banks controlling 90 percent of the country's financial reserves were open for business again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-c-02",
+      "position": 14,
+      "section": "reading",
+      "testingPoint": "reading-vocabulary",
+      "type": "completion",
+      "text": "The word \"moratorium\" in line 4 is closest in meaning to which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Death"
+        },
+        {
+          "id": "B",
+          "text": "Temporary cessation"
+        },
+        {
+          "id": "C",
+          "text": "Murder"
+        },
+        {
+          "id": "D",
+          "text": "Slow decline"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Moratorium = penghentian sementara kegiatan perbankan.",
+      "hints": [
+        "Lihat konteks kalimat. Pilih arti yang cocok di kalimat itu.",
+        "Apa yang terjadi pada kegiatan bank?",
+        "Jawaban B. Moratorium = penghentian sementara kegiatan perbankan."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 85,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "The banking crisis of 1933",
+          "lines": [
+            "A massive banking crisis struck the United States in 1933. In the two preceding years, a",
+            "large number of banks had failed, and fear of lost savings had led many depositors to withdraw",
+            "their funds. Problems became so serious in Michigan that Governor William",
+            "A. Comstock was forced to declare a moratorium on all banking activities in the state on February 14,",
+            "1933. The panic quickly spread to other states, and on March 6, President Franklin D.",
+            "Roosevelt declared a banking moratorium across the United States, leaving the entire country",
+            "without banking services.",
+            "Congress met immediately in a special session to solve the crisis and on March 9",
+            "passed the Emergency Banking Act of 1933 to help financially healthy banks reopen. By March",
+            "15, banks controlling 90 percent of the country's financial reserves were open for business again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-c-03",
+      "position": 15,
+      "section": "reading",
+      "testingPoint": "reading-stated",
+      "type": "completion",
+      "text": "The passage indicates that the moratorium declared by Roosevelt affected",
+      "options": [
+        {
+          "id": "A",
+          "text": "the banks in Michigan"
+        },
+        {
+          "id": "B",
+          "text": "the banks in most of the U.S."
+        },
+        {
+          "id": "C",
+          "text": "only the financially unhealthy banks"
+        },
+        {
+          "id": "D",
+          "text": "all the banks in the U.S."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'across the United States, leaving the entire country without banking services'.",
+      "hints": [
+        "Cari kata kunci pertanyaan di passage. Jawaban tertulis langsung, hanya diparafrase.",
+        "Cari kata 'entire country'.",
+        "Jawaban D. 'across the United States, leaving the entire country without banking services'."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 85,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "The banking crisis of 1933",
+          "lines": [
+            "A massive banking crisis struck the United States in 1933. In the two preceding years, a",
+            "large number of banks had failed, and fear of lost savings had led many depositors to withdraw",
+            "their funds. Problems became so serious in Michigan that Governor William",
+            "A. Comstock was forced to declare a moratorium on all banking activities in the state on February 14,",
+            "1933. The panic quickly spread to other states, and on March 6, President Franklin D.",
+            "Roosevelt declared a banking moratorium across the United States, leaving the entire country",
+            "without banking services.",
+            "Congress met immediately in a special session to solve the crisis and on March 9",
+            "passed the Emergency Banking Act of 1933 to help financially healthy banks reopen. By March",
+            "15, banks controlling 90 percent of the country's financial reserves were open for business again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-c-04",
+      "position": 16,
+      "section": "reading",
+      "testingPoint": "reading-inference",
+      "type": "completion",
+      "text": "Which of the following can be inferred from the passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Congress did not give any special priority to the banking situation."
+        },
+        {
+          "id": "B",
+          "text": "The Emergency Banking Act helped all banks to reopen."
+        },
+        {
+          "id": "C",
+          "text": "Ten percent of the country's money was in financially unhealthy banks."
+        },
+        {
+          "id": "D",
+          "text": "Ninety percent of the banks reopened by the middle of March."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "Bank yang dibuka kembali memegang 90 persen cadangan, jadi sekitar 10 persen ada di bank yang tidak sehat.",
+      "hints": [
+        "Jawaban tidak tertulis langsung. Simpulkan dari fakta yang ada, jangan menambah informasi baru.",
+        "Hitung sisa dari 90 persen.",
+        "Jawaban C. Bank yang dibuka kembali memegang 90 persen cadangan, jadi sekitar 10 persen ada di bank yang tidak sehat."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 85,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "The banking crisis of 1933",
+          "lines": [
+            "A massive banking crisis struck the United States in 1933. In the two preceding years, a",
+            "large number of banks had failed, and fear of lost savings had led many depositors to withdraw",
+            "their funds. Problems became so serious in Michigan that Governor William",
+            "A. Comstock was forced to declare a moratorium on all banking activities in the state on February 14,",
+            "1933. The panic quickly spread to other states, and on March 6, President Franklin D.",
+            "Roosevelt declared a banking moratorium across the United States, leaving the entire country",
+            "without banking services.",
+            "Congress met immediately in a special session to solve the crisis and on March 9",
+            "passed the Emergency Banking Act of 1933 to help financially healthy banks reopen. By March",
+            "15, banks controlling 90 percent of the country's financial reserves were open for business again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rd-r1-c-05",
+      "position": 17,
+      "section": "reading",
+      "testingPoint": "reading-main-idea",
+      "type": "completion",
+      "text": "Which of the following best describes the organization of the passage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A theme followed by an example"
+        },
+        {
+          "id": "B",
+          "text": "A problem and a solution"
+        },
+        {
+          "id": "C",
+          "text": "Opposing viewpoints of an issue"
+        },
+        {
+          "id": "D",
+          "text": "A problem and its causes"
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Krisis bank dijelaskan, lalu Kongres mengesahkan undang-undang untuk mengatasinya.",
+      "hints": [
+        "Baca kalimat pertama dan terakhir. Pilih topik yang mencakup seluruh passage, bukan satu detail.",
+        "Apa yang dilakukan Kongres?",
+        "Jawaban B. Krisis bank dijelaskan, lalu Kongres mengesahkan undang-undang untuk mengatasinya."
+      ],
+      "xray": null,
+      "verified": false,
+      "note": "Passage ditulis ulang dengan kata sendiri dari passage buku (nomor baris mengikuti buku). Soal dan opsi mengikuti buku. Buku tidak punya kunci, jadi kunci diturunkan dari passage.",
+      "sourcePage": 85,
+      "meta": {
+        "noBlank": true,
+        "passage": {
+          "title": "The banking crisis of 1933",
+          "lines": [
+            "A massive banking crisis struck the United States in 1933. In the two preceding years, a",
+            "large number of banks had failed, and fear of lost savings had led many depositors to withdraw",
+            "their funds. Problems became so serious in Michigan that Governor William",
+            "A. Comstock was forced to declare a moratorium on all banking activities in the state on February 14,",
+            "1933. The panic quickly spread to other states, and on March 6, President Franklin D.",
+            "Roosevelt declared a banking moratorium across the United States, leaving the entire country",
+            "without banking services.",
+            "Congress met immediately in a special session to solve the crisis and on March 9",
+            "passed the Emergency Banking Act of 1933 to help financially healthy banks reopen. By March",
+            "15, banks controlling 90 percent of the country's financial reserves were open for business again."
+          ]
+        }
+      }
+    }
+  ]
+}

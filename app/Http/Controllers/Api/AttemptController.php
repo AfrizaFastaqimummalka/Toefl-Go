@@ -42,7 +42,7 @@ class AttemptController extends Controller
             if ($at->isFuture()) {
                 $at = now();
             }
-            $service->record($user, $questions[$it['code']], $it['answer'], (int) $it['hints_used'], $it['time_ms'] ?? null, 'practice', $at, false);
+            $service->record($user, $questions[$it['code']], $it['answer'], (int) $it['hints_used'], $it['time_ms'] ?? null, $it['mode'] ?? 'practice', $at, false);
         }
         $service->touchToday($user);
 

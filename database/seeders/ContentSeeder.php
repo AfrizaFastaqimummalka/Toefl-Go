@@ -19,7 +19,9 @@ class ContentSeeder extends Seeder
     {
         $dir = __DIR__.'/data';
 
-        DB::transaction(function () use ($dir) {
+        $codes = [];
+
+        DB::transaction(function () use ($dir, &$codes) {
             foreach ($this->json("$dir/chapters.json") as $c) {
                 $chapter = Chapter::updateOrCreate(['slug' => $c['slug']], [
                     'section' => $c['section'],
@@ -48,6 +50,7 @@ class ContentSeeder extends Seeder
                     ->where('slug', $lessonSlug)->firstOrFail();
 
                 foreach ($set['questions'] as $q) {
+                    $codes[] = $q['id'];
                     Question::updateOrCreate(['code' => $q['id']], [
                         'lesson_id' => $lesson->id,
                         'position' => $q['position'],
@@ -64,9 +67,13 @@ class ContentSeeder extends Seeder
                         'verified' => $q['verified'],
                         'note' => $q['note'] ?? null,
                         'source_page' => $q['sourcePage'] ?? null,
+                        'meta' => $q['meta'] ?? null,
                     ]);
                 }
             }
+
+            // Buang soal lama yang sudah tidak ada di JSON (attempts terkait ikut terhapus)
+            Question::whereNotIn('code', $codes)->delete();
 
             VocabCard::query()->delete();
             foreach ($this->json("$dir/vocab.json") as $v) {

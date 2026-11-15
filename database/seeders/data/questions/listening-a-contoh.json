@@ -1,0 +1,404 @@
+{
+  "lesson": "listening-part-a/contoh",
+  "questions": [
+    {
+      "id": "lst-a-ex-01",
+      "position": 1,
+      "section": "listening",
+      "testingPoint": "restatement",
+      "type": "completion",
+      "text": "What does the man say about Mark?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was in the department office."
+        },
+        {
+          "id": "B",
+          "text": "He was looking for a place to live."
+        },
+        {
+          "id": "C",
+          "text": "He was working on his research project."
+        },
+        {
+          "id": "D",
+          "text": "He had an appointment at church."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'searching' = looking for, 'apartment' = a place to live. Opsi lain bunyinya mirip (department, research, appointment) tapi menjebak.",
+      "hints": [
+        "Fokus ke baris kedua. Cari sinonim kata kuncinya, dan hindari opsi yang bunyinya mirip kata di audio.",
+        "Kata kunci baris kedua: searching dan apartment.",
+        "Jawaban B. 'searching' = looking for, 'apartment' = a place to live. Opsi lain bunyinya mirip (department, research, appointment) tapi menjebak."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 13,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Why couldn't Mark come with us?"
+          ],
+          [
+            "W",
+            "He was searching for a new apartment."
+          ],
+          [
+            "N",
+            "What does the woman say about Mark?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-02",
+      "position": 2,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is unsure about the hypothesis."
+        },
+        {
+          "id": "B",
+          "text": "The hippopotamus is behind the fence."
+        },
+        {
+          "id": "C",
+          "text": "She thinks that the hypothesis can be defended."
+        },
+        {
+          "id": "D",
+          "text": "She agrees with the man."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'So do I' menyatakan setuju dengan pernyataan positif.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'So do I' itu ungkapan apa?",
+        "Jawaban D. 'So do I' menyatakan setuju dengan pernyataan positif."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 19,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I think that the hypothesis is indefensible."
+          ],
+          [
+            "W",
+            "So do I."
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-03",
+      "position": 3,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The exam is not going to be too difficult."
+        },
+        {
+          "id": "B",
+          "text": "She thinks that it might be hard."
+        },
+        {
+          "id": "C",
+          "text": "She's positive that it's going to be hard."
+        },
+        {
+          "id": "D",
+          "text": "She has no idea about the exam."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "Tag question 'isn't it' menandakan ketidakpastian, jadi 'thinks ... might be hard'.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Tag question menandakan yakin atau ragu?",
+        "Jawaban B. Tag question 'isn't it' menandakan ketidakpastian, jadi 'thinks ... might be hard'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 20,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Do you know anything about the final exam in Physics?"
+          ],
+          [
+            "W",
+            "It's going to be rather difficult, isn't it?"
+          ],
+          [
+            "N",
+            "What does the woman mean?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-04",
+      "position": 4,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What does the woman suggest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Never typing the paper."
+        },
+        {
+          "id": "B",
+          "text": "Not working on the paper now."
+        },
+        {
+          "id": "C",
+          "text": "Finishing the paper today."
+        },
+        {
+          "id": "D",
+          "text": "Taking time out from the paper now."
+        }
+      ],
+      "answer": {
+        "option": "C"
+      },
+      "explanation": "'Why not do it now?' adalah saran: kerjakan sekarang.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "'Why not ...?' itu pertanyaan atau saran?",
+        "Jawaban C. 'Why not do it now?' adalah saran: kerjakan sekarang."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 20,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "I'll never have time to type my paper tomorrow."
+          ],
+          [
+            "W",
+            "Why not do it now?"
+          ],
+          [
+            "N",
+            "What does the woman suggest?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-05",
+      "position": 5,
+      "section": "listening",
+      "testingPoint": "functional-expression",
+      "type": "completion",
+      "text": "What had the man thought?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Paul would definitely get a Mustang."
+        },
+        {
+          "id": "B",
+          "text": "Paul would not get a new car."
+        },
+        {
+          "id": "C",
+          "text": "Paul did not know how to drive."
+        },
+        {
+          "id": "D",
+          "text": "Paul did not like Mustangs."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'he DID get' dengan nada naik menunjukkan kejutan: sebelumnya ia mengira Paul tidak akan membeli mobil baru.",
+      "hints": [
+        "Dengarkan ungkapan setuju, ragu/saran, atau terkejut di baris kedua.",
+        "Kata 'did' ditekankan. Apa artinya?",
+        "Jawaban B. 'he DID get' dengan nada naik menunjukkan kejutan: sebelumnya ia mengira Paul tidak akan membeli mobil baru."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 21,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "W",
+            "Did you see Paul driving around in his Mustang?"
+          ],
+          [
+            "M",
+            "Then, he DID get a new car?"
+          ],
+          [
+            "N",
+            "What had the man thought?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-06",
+      "position": 6,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman say about the meeting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The director called a meeting."
+        },
+        {
+          "id": "B",
+          "text": "The director cancelled the meeting."
+        },
+        {
+          "id": "C",
+          "text": "The director phoned her about the meeting."
+        },
+        {
+          "id": "D",
+          "text": "The director called the meeting to order."
+        }
+      ],
+      "answer": {
+        "option": "B"
+      },
+      "explanation": "'called off' berarti membatalkan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "'called off' bukan berarti menelepon.",
+        "Jawaban B. 'called off' berarti membatalkan."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 24,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "What time does the meeting start?"
+          ],
+          [
+            "W",
+            "Didn't you hear that it was called off by the director?"
+          ],
+          [
+            "N",
+            "What does the woman say about the meeting?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    },
+    {
+      "id": "lst-a-ex-07",
+      "position": 7,
+      "section": "listening",
+      "testingPoint": "idiom",
+      "type": "completion",
+      "text": "What does the woman say about Tom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He's lighting a candle."
+        },
+        {
+          "id": "B",
+          "text": "He's holding the candle at the top and the bottom."
+        },
+        {
+          "id": "C",
+          "text": "He's working as a firefighter."
+        },
+        {
+          "id": "D",
+          "text": "He's doing too much."
+        }
+      ],
+      "answer": {
+        "option": "D"
+      },
+      "explanation": "'burning the candle at both ends' = melakukan terlalu banyak sampai kelelahan.",
+      "hints": [
+        "Idiom tidak bermakna harfiah. Cari makna kiasan, bukan arti kata per kata.",
+        "Ungkapan kiasan: apa maksudnya kalau seseorang kerja dan kuliah penuh?",
+        "Jawaban D. 'burning the candle at both ends' = melakukan terlalu banyak sampai kelelahan."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 24,
+      "meta": {
+        "noBlank": true,
+        "script": [
+          [
+            "M",
+            "Tom is a full-time student and is holding down a full-time job."
+          ],
+          [
+            "W",
+            "He's really burning the candle at both ends."
+          ],
+          [
+            "N",
+            "What does the woman say about Tom?"
+          ]
+        ],
+        "scriptSource": "book"
+      }
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "lesson": "structure-inversion/lead-in-3",
+  "questions": [
+    {
+      "id": "str-lead3-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "The contracts signed by the company has been voided because some stipulations were not met.",
+      "segments": [
+        "The contracts signed by the company",
+        "has been voided",
+        "because some stipulations were not met."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "have been voided"
+      },
+      "explanation": "Subject asli 'The contracts' (jamak), bukan 'the company'. Verbnya harus 'have been voided'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Subject asli apa? Abaikan 'signed by the company'.",
+        "Subject asli 'The contracts' (jamak), bukan 'the company'. Verbnya harus 'have been voided'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Ten miles beyond the river was the farmlands that they had purchased with their life savings.",
+      "segments": [
+        "Ten miles beyond the river",
+        "was",
+        "the farmlands that they had purchased with their life savings."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "were"
+      },
+      "explanation": "Frasa tempat di depan wajib inversi. Subject asli 'the farmlands' (jamak), jadi 'were'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Frasa tempat di awal. Di mana subject aslinya?",
+        "Frasa tempat di depan wajib inversi. Subject asli 'the farmlands' (jamak), jadi 'were'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Each package that is not properly wrapped have to be returned to the sender.",
+      "segments": [
+        "Each package that is not properly wrapped",
+        "have",
+        "to be returned to the sender."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "has"
+      },
+      "explanation": "Subject 'Each package' (singular). 'that is not properly wrapped' hanya penerang.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Subject-nya 'each ...' singular atau jamak?",
+        "Subject 'Each package' (singular). 'that is not properly wrapped' hanya penerang."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "She would not have to enter the house through the bedroom window were the keys where they were supposed to be.",
+      "segments": [
+        "She would not have to enter the house through the bedroom window",
+        "were",
+        "the keys where they were supposed to be."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'were the keys ...' adalah inversi kondisional tanpa 'if' (= if the keys were ...).",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Kata 'if' tidak ada. Bentuk apa yang menggantikannya?",
+        "Benar. 'were the keys ...' adalah inversi kondisional tanpa 'if' (= if the keys were ...)."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "The proposal brought so much new work to the partnership that there was not enough hours to complete all of it.",
+      "segments": [
+        "The proposal brought so much new work to the partnership that",
+        "there was",
+        "not enough hours to complete all of it."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "there were"
+      },
+      "explanation": "Subject asli 'enough hours' (jamak), jadi 'there were'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Di balik 'there', apa subject aslinya?",
+        "Subject asli 'enough hours' (jamak), jadi 'there were'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "The box of ribbons for the electric typewriter have been misplaced.",
+      "segments": [
+        "The box of ribbons for the electric typewriter",
+        "have been",
+        "misplaced."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "has been"
+      },
+      "explanation": "Subject asli 'The box' (singular). 'of ribbons ...' frasa depan.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Coret 'of ribbons for the electric typewriter'. Apa sisanya?",
+        "Subject asli 'The box' (singular). 'of ribbons ...' frasa depan."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "It is disconcerting to believe that every possible candidate has been rejected for one reason or another.",
+      "segments": [
+        "It is disconcerting to believe that",
+        "every possible candidate",
+        "has been rejected for one reason or another."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'every possible candidate' singular, cocok dengan 'has been rejected'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Subject-nya 'every ...'. Singular atau jamak?",
+        "Benar. 'every possible candidate' singular, cocok dengan 'has been rejected'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Only once have there been more excitement in this city about a sporting event.",
+      "segments": [
+        "Only once",
+        "have there been",
+        "more excitement in this city about a sporting event."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "has there been"
+      },
+      "explanation": "Negative expression 'Only once' membuat inversi. Subject asli 'more excitement' (tak terhitung, singular), jadi 'has'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Subject asli ada setelah verb. Apa itu?",
+        "Negative expression 'Only once' membuat inversi. Subject asli 'more excitement' (tak terhitung, singular), jadi 'has'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "Bobby has a bigger bicycle than does the other children in the neighborhood.",
+      "segments": [
+        "Bobby has a bigger bicycle than",
+        "does",
+        "the other children in the neighborhood."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "do"
+      },
+      "explanation": "Setelah 'than', inversi boleh, tapi verb harus cocok dengan subject asli 'the other children' (jamak): 'do'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "Setelah 'than' ada inversi. Subject aslinya jamak atau singular?",
+        "Setelah 'than', inversi boleh, tapi verb harus cocok dengan subject asli 'the other children' (jamak): 'do'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead3-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "inversion",
+      "type": "error-find",
+      "text": "If nobody have bought that car from the dealer, then you should return and make another offer.",
+      "segments": [
+        "If",
+        "nobody have bought",
+        "that car from the dealer, then you should return and make another offer."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "nobody has bought"
+      },
+      "explanation": "'nobody' diperlakukan singular, jadi 'has bought'.",
+      "hints": [
+        "Cari subject yang sebenarnya (bisa ada di belakang verb), lalu cek verbnya.",
+        "'nobody' itu singular atau jamak?",
+        "'nobody' diperlakukan singular, jadi 'has bought'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 57,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    }
+  ]
+}

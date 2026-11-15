@@ -1,0 +1,312 @@
+{
+  "lesson": "structure-parallel/lead-in-4",
+  "questions": [
+    {
+      "id": "str-lead4-01",
+      "position": 1,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "After retirement he plans on traveling to exotic locations, dine in the finest restaurants, and playing a lot of golf.",
+      "segments": [
+        "After retirement he plans on",
+        "traveling to exotic locations,",
+        "dine in the finest restaurants,",
+        "and playing a lot of golf."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 2,
+        "fix": "dining in the finest restaurants"
+      },
+      "explanation": "Daftar tiga hal harus sejajar: traveling, dining, playing (semua -ing).",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Lihat tiga bentuk dalam daftar. Mana yang bentuknya beda?",
+        "Daftar tiga hal harus sejajar: traveling, dining, playing (semua -ing)."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-02",
+      "position": 2,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "She was both surprised by and pleased with the seminar.",
+      "segments": [
+        "She was",
+        "both surprised by",
+        "and pleased with",
+        "the seminar."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'both ... and' menghubungkan dua bentuk sejajar: surprised by dan pleased with.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Cek 'both ... and': kedua sisinya sama bentuknya?",
+        "Benar. 'both ... and' menghubungkan dua bentuk sejajar: surprised by dan pleased with."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-03",
+      "position": 3,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "What came after the break was even more boring than had come before.",
+      "segments": [
+        "What came after the break was even more boring than",
+        "had come before."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "what had come before"
+      },
+      "explanation": "Perbandingan harus sejajar: 'what came after' dibandingkan dengan 'what had come before'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Setelah 'than', bentuknya harus sejajar dengan sebelum 'than'.",
+        "Perbandingan harus sejajar: 'what came after' dibandingkan dengan 'what had come before'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-04",
+      "position": 4,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "He would find the missing keys neither under the bed or behind the sofa.",
+      "segments": [
+        "He would find the missing keys",
+        "neither under the bed",
+        "or",
+        "behind the sofa."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 2,
+        "fix": "nor"
+      },
+      "explanation": "Pasangan 'neither' adalah 'nor', bukan 'or'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Pasangan 'neither' apa?",
+        "Pasangan 'neither' adalah 'nor', bukan 'or'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-05",
+      "position": 5,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Depending on the perspective of the viewer, the film was considered laudable, mediocrity, or horrendous.",
+      "segments": [
+        "Depending on the perspective of the viewer, the film was considered",
+        "laudable,",
+        "mediocrity,",
+        "or horrendous."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 2,
+        "fix": "mediocre"
+      },
+      "explanation": "Daftar harus adjective semua: laudable, mediocre, horrendous.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Tiga kata dalam daftar. Mana yang bukan adjective?",
+        "Daftar harus adjective semua: laudable, mediocre, horrendous."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-06",
+      "position": 6,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "He exercised not only in the morning, but he also exercised every afternoon.",
+      "segments": [
+        "He exercised not only in the morning,",
+        "but he also exercised",
+        "every afternoon."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 1,
+        "fix": "but also"
+      },
+      "explanation": "Pasangan 'not only ... but also' harus diikuti bentuk sejajar: 'in the morning' dan 'every afternoon'.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Setelah 'not only' ada frasa waktu. Apa yang sejajar setelah 'but also'?",
+        "Pasangan 'not only ... but also' harus diikuti bentuk sejajar: 'in the morning' dan 'every afternoon'."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-07",
+      "position": 7,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Working four days per week is much more relaxing than working five days per week.",
+      "segments": [
+        "Working four days per week",
+        "is much more relaxing than",
+        "working five days per week."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'working four days' dibandingkan dengan 'working five days', keduanya -ing.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Cek kedua sisi perbandingan.",
+        "Benar. 'working four days' dibandingkan dengan 'working five days', keduanya -ing."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-08",
+      "position": 8,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Sam is always good-natured, generous, and helps you.",
+      "segments": [
+        "Sam is always",
+        "good-natured,",
+        "generous,",
+        "and helps you."
+      ],
+      "answer": {
+        "kind": "segment",
+        "index": 3,
+        "fix": "and helpful"
+      },
+      "explanation": "Daftar harus adjective: good-natured, generous, helpful.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Dua kata pertama adjective. Yang ketiga?",
+        "Daftar harus adjective: good-natured, generous, helpful."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-09",
+      "position": 9,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "Either you have to finish the project, or the contract will be canceled.",
+      "segments": [
+        "Either",
+        "you have to finish the project,",
+        "or",
+        "the contract will be canceled."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. 'either ... or' menghubungkan dua klausa yang sejajar.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Cek 'either ... or'.",
+        "Benar. 'either ... or' menghubungkan dua klausa yang sejajar."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    },
+    {
+      "id": "str-lead4-10",
+      "position": 10,
+      "section": "structure",
+      "testingPoint": "parallel-structure",
+      "type": "error-find",
+      "text": "The courses that you are required to take are more important than the courses that you choose.",
+      "segments": [
+        "The courses that you are required to take",
+        "are more important than",
+        "the courses that you choose."
+      ],
+      "answer": {
+        "kind": "correct"
+      },
+      "explanation": "Benar. Kedua sisi perbandingan sama bentuknya.",
+      "hints": [
+        "Lihat kata penghubung (and, or, but, both...and). Bentuk apa di kedua sisinya?",
+        "Bandingkan kedua sisi 'than'.",
+        "Benar. Kedua sisi perbandingan sama bentuknya."
+      ],
+      "xray": null,
+      "verified": true,
+      "note": null,
+      "sourcePage": 59,
+      "meta": {
+        "altCorrectOnly": true
+      }
+    }
+  ]
+}
