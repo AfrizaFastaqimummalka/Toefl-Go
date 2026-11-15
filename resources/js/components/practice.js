@@ -1,5 +1,6 @@
 import { postJson } from '../lib/http';
 import { guest } from '../lib/guest';
+import { getRuleSummary } from '../lib/rules';
 
 function sameAnswer(q, a) {
     const k = q.answer;
@@ -11,13 +12,14 @@ function sameAnswer(q, a) {
 }
 
 function describe(q, a) {
+    if (!a) return '(belum dipilih)';
     if (q.type === 'completion') {
         const o = q.options.find((x) => x.id === a.option);
         return o ? `${o.id}. ${o.text}` : '';
     }
-    if (a.kind === 'segment') return `bagian "${q.segments[a.index]}" yang salah`;
-    if (a.kind === 'missing') return `kalimat kekurangan ${a.what}`;
-    return 'kalimat sudah benar';
+    if (a.kind === 'segment') return `Bagian "${q.segments[a.index]}"`;
+    if (a.kind === 'missing') return `Kalimat kekurangan ${a.what}`;
+    return 'Kalimat sudah benar';
 }
 
 export default (config) => ({
@@ -195,14 +197,21 @@ export default (config) => ({
     answerText(r) {
         return describe(r.q, r.given);
     },
+    userAnswerText() {
+        return describe(this.q, this.sel);
+    },
+    ruleSummary(q) {
+        return getRuleSummary(q || this.q);
+    },
     keyText(q) {
+        if (!q) q = this.q;
         if (q.type === 'completion') {
             const o = q.options.find((x) => x.id === q.answer.option);
-            return `${o.id}. ${o.text}`;
+            return o ? `${o.id}. ${o.text}` : '';
         }
         const a = q.answer;
-        if (a.kind === 'segment') return `ganti "${q.segments[a.index]}": ${a.fix}`;
-        if (a.kind === 'missing') return a.fix;
-        return 'kalimat sudah benar';
+        if (a.kind === 'segment') return `Ganti "${q.segments[a.index]}" ➔ ${a.fix}`;
+        if (a.kind === 'missing') return `Perlu ${a.what}: ${a.fix}`;
+        return 'Kalimat sudah benar';
     },
 });

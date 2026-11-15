@@ -150,10 +150,10 @@
                             </div>
                         </div>
 
-                        {{-- AI hint --}}
+                        {{-- Petunjuk Analisis --}}
                         <div class="help-section">
-                            <div class="help-title">AI</div>
-                            <button type="button" class="ai-link" @click="askHint()">AI: hint tanpa bocor jawaban</button>
+                            <div class="help-title">Bantuan Analisis</div>
+                            <button type="button" class="ai-link" @click="askHint()">💡 Petunjuk Analisis (tanpa bocor jawaban)</button>
                         </div>
 
                     </div>
@@ -162,7 +162,7 @@
                 {{-- Sentence X-ray --}}
                 <div style="margin-top:12px">
                     <button type="button" class="help-trigger" x-show="canXray && !showXray" @click="showXray = true">
-                        🔍 Bedah kalimat (X-ray)
+                        🔍 Bedah Kalimat (Sentence X-ray)
                     </button>
                 </div>
                 <div @xray-checked="onXrayChecked()">
@@ -174,16 +174,40 @@
                 {{-- Umpan balik setelah menjawab --}}
                 <div class="feedback" :class="correct ? 'ok' : 'bad'" x-show="answered" role="status" aria-live="polite">
                     <div class="feedback-head">
-                        <span x-text="correct ? '✓ Tepat' : '✗ Belum tepat'"></span>
+                        <span class="feedback-badge" :class="correct ? 'ok' : 'bad'" x-text="correct ? '✅ Jawabanmu Tepat!' : '❌ Belum Tepat'"></span>
                     </div>
-                    <p style="margin-top:6px;font-size:0.95rem" x-text="q.explanation"></p>
-                    <p class="small muted" style="margin-top:8px" x-show="!correct" x-text="'Kunci: ' + keyText(q)"></p>
-                    <p class="small muted" style="margin-top:4px" x-show="q.note" x-text="q.note"></p>
-                    <p class="small muted" style="margin-top:4px" x-show="q.sourcePage" x-text="'Sumber: hal. ' + q.sourcePage"></p>
-                    <p class="small" style="margin-top:4px;color:var(--bad)" x-show="saveError" x-text="saveError"></p>
+
+                    {{-- Detail Perbandingan Pilihan & Kunci --}}
+                    <div class="feedback-compare">
+                        <div class="compare-item" :class="correct ? 'is-correct' : 'is-wrong'">
+                            <span class="compare-label">📌 Pilihanmu:</span>
+                            <span class="compare-val" x-text="userAnswerText()"></span>
+                        </div>
+                        <div class="compare-item is-key" x-show="!correct">
+                            <span class="compare-label">🔑 Kunci:</span>
+                            <span class="compare-val" x-text="keyText(q)"></span>
+                        </div>
+                    </div>
+
+                    {{-- Penjelasan Analisis --}}
+                    <div class="feedback-section">
+                        <div class="section-title">📖 Penjelasan:</div>
+                        <p class="section-text" x-text="q.explanation"></p>
+                        <p class="small muted" style="margin-top:6px" x-show="q.note" x-text="'📝 Catatan: ' + q.note"></p>
+                        <p class="small muted" style="margin-top:4px" x-show="q.sourcePage" x-text="'📚 Sumber Buku: Hal. ' + q.sourcePage"></p>
+                    </div>
+
+                    {{-- Kesimpulan & Aturan Penting --}}
+                    <div class="feedback-conclusion" x-show="ruleSummary(q)">
+                        <div class="conclusion-title">💡 Kesimpulan & Pola TOEFL:</div>
+                        <p class="conclusion-text" x-text="ruleSummary(q)"></p>
+                    </div>
+
+                    <p class="small" style="margin-top:6px;color:var(--bad)" x-show="saveError" x-text="saveError"></p>
+
                     <div class="ai-links">
-                        <button type="button" class="ai-link" x-show="!correct" @click="askExplain()">AI: jelaskan kenapa salah</button>
-                        <button type="button" class="ai-link" @click="askSimilar()">AI: buat 3 soal serupa</button>
+                        <button type="button" class="ai-link" x-show="!correct" @click="askExplain()">💬 Tanya Tutor: Kenapa Salah?</button>
+                        <button type="button" class="ai-link" @click="askSimilar()">📝 Latihan 3 Soal Serupa</button>
                     </div>
                 </div>
             </div>

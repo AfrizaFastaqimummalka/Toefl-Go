@@ -34,7 +34,7 @@
         </div>
         <p class="small muted" style="margin-top:8px" x-show="words < 40">Tulis minimal 40 kata supaya bisa dinilai.</p>
         <p class="small" style="margin-top:8px;color:var(--bad)" x-show="error" x-text="error"></p>
-        <p class="small muted" style="margin-top:8px" x-show="!aiReady">AI belum aktif: isi GEMINI_API_KEY di .env. Editor, timer, dan checklist tetap bisa dipakai.</p>
+        <p class="small muted" style="margin-top:8px" x-show="!aiReady">Tutor belum aktif: isi GEMINI_API_KEY di .env. Editor, timer, dan checklist tetap bisa dipakai.</p>
     </div>
 
     <div class="card" style="margin-top:12px" x-show="feedback" x-cloak>

@@ -1,15 +1,15 @@
 <div x-data x-show="$store.tutor.open" x-cloak @keydown.escape.window="$store.tutor.hide()">
     <div class="sheet-backdrop" @click="$store.tutor.hide()"></div>
-    <section class="sheet" role="dialog" aria-modal="true" aria-label="Tutor AI">
+    <section class="sheet" role="dialog" aria-modal="true" aria-label="Tanya Tutor">
         <div class="sheet-grip"></div>
         <div class="sheet-head">
-            <h2 style="font-size:1.25rem">Tutor AI</h2>
+            <h2 style="font-size:1.25rem">💬 Tanya Tutor</h2>
             <button type="button" class="btn btn-ghost btn-sm" @click="$store.tutor.hide()">Tutup</button>
         </div>
         <div class="sheet-body">
             <template x-if="!$store.tutor.aiReady">
                 <div class="msg err">
-                    AI belum aktif. Isi <b>GEMINI_API_KEY</b> di file <b>.env</b> (ambil di aistudio.google.com/apikey), lalu jalankan <b>php artisan config:clear</b>. Selain itu, app tetap jalan penuh.
+                    Tutor belum aktif. Isi <b>GEMINI_API_KEY</b> di file <b>.env</b> (ambil di aistudio.google.com/apikey), lalu jalankan <b>php artisan config:clear</b>. Selain itu, app tetap jalan penuh.
                 </div>
             </template>
             <template x-if="$store.tutor.msgs.length === 0">

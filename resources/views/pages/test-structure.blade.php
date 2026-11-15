@@ -117,11 +117,27 @@
             <div class="card" style="margin-top:12px" x-show="results.wrong.length">
                 <h3 style="font-size:1.1rem;margin-bottom:10px" x-text="results.wrong.length + ' soal salah atau kosong'"></h3>
                 <template x-for="w in results.wrong" :key="w.code">
-                    <div style="padding:10px 0;border-top:1px solid var(--line)">
-                        <p class="small" x-text="w.text"></p>
-                        <p class="small" style="color:var(--bad);margin-top:4px" x-text="'Jawabanmu: ' + w.given"></p>
-                        <p class="small" style="color:var(--ok)" x-text="'Kunci: ' + w.key"></p>
-                        <p class="small muted" x-show="!w.verified">Kunci belum diverifikasi.</p>
+                    <div style="padding:14px 0;border-top:1px solid var(--line)">
+                        <p class="small font-semibold" style="line-height:1.5" x-text="w.text"></p>
+                        <div class="feedback-compare" style="margin:8px 0">
+                            <div class="compare-item is-wrong">
+                                <span class="compare-label">📌 Jawabanmu:</span>
+                                <span class="compare-val" x-text="w.given"></span>
+                            </div>
+                            <div class="compare-item is-key">
+                                <span class="compare-label">🔑 Kunci:</span>
+                                <span class="compare-val" x-text="w.key"></span>
+                            </div>
+                        </div>
+                        <div class="feedback-section" style="margin-top:8px" x-show="w.explanation">
+                            <div class="section-title">📖 Penjelasan:</div>
+                            <p class="section-text small" x-text="w.explanation"></p>
+                        </div>
+                        <div class="feedback-conclusion" style="margin-top:8px" x-show="w.rule">
+                            <div class="conclusion-title">💡 Kesimpulan & Pola:</div>
+                            <p class="conclusion-text small" x-text="w.rule"></p>
+                        </div>
+                        <p class="small muted" style="margin-top:6px" x-show="!w.verified">Kunci belum diverifikasi.</p>
                         <template x-if="w.script">
                             <div class="audio-script" style="margin-top:8px">
                                 <p class="small" x-show="w.reconstructed" style="font-weight:700">Script rekonstruksi (audio di buku tidak tersedia).</p>

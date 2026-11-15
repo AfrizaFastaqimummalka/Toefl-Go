@@ -1,5 +1,6 @@
 import { postJson } from '../lib/http';
 import { guest } from '../lib/guest';
+import { getRuleSummary } from '../lib/rules';
 
 function same(q, a) {
     const k = q.answer;
@@ -13,23 +14,23 @@ function same(q, a) {
 function keyText(q) {
     if (q.type === 'completion') {
         const o = q.options.find((x) => x.id === q.answer.option);
-        return `${o.id}. ${o.text}`;
+        return o ? `${o.id}. ${o.text}` : '';
     }
     const a = q.answer;
-    if (a.kind === 'segment') return `ganti "${q.segments[a.index]}": ${a.fix}`;
-    if (a.kind === 'missing') return a.fix;
-    return 'kalimat sudah benar';
+    if (a.kind === 'segment') return `Ganti "${q.segments[a.index]}" ➔ ${a.fix}`;
+    if (a.kind === 'missing') return `Perlu ${a.what}: ${a.fix}`;
+    return 'Kalimat sudah benar';
 }
 
 function givenText(q, a) {
-    if (!a) return 'tidak dijawab';
+    if (!a) return '(tidak dijawab)';
     if (q.type === 'completion') {
         const o = q.options.find((x) => x.id === a.option);
         return o ? `${o.id}. ${o.text}` : '';
     }
-    if (a.kind === 'segment') return `bagian "${q.segments[a.index]}"`;
-    if (a.kind === 'missing') return `kekurangan ${a.what}`;
-    return 'sudah benar';
+    if (a.kind === 'segment') return `Bagian "${q.segments[a.index]}"`;
+    if (a.kind === 'missing') return `Kekurangan ${a.what}`;
+    return 'Sudah benar';
 }
 
 export default (config) => ({
@@ -135,7 +136,17 @@ export default (config) => ({
             seconds: used,
             auto,
             byTp: Object.entries(byTp).map(([k, v]) => ({ key: k, label: k.replaceAll('-', ' '), ...v, pct: Math.round((v.right / v.total) * 100) })),
-            wrong: rows.filter((r) => !r.correct).map((r) => ({ code: r.q.code, text: r.q.text, given: givenText(r.q, r.given), key: keyText(r.q), verified: r.q.verified, script: r.q.script || null, reconstructed: r.q.scriptSource === 'reconstructed' })),
+            wrong: rows.filter((r) => !r.correct).map((r) => ({
+                code: r.q.code,
+                text: r.q.text,
+                given: givenText(r.q, r.given),
+                key: keyText(r.q),
+                explanation: r.q.explanation,
+                rule: getRuleSummary(r.q),
+                verified: r.q.verified,
+                script: r.q.script || null,
+                reconstructed: r.q.scriptSource === 'reconstructed',
+            })),
         };
         this.phase = 'done';
         window.scrollTo({ top: 0 });

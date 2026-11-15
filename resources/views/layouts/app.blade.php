@@ -63,7 +63,7 @@
                     ['practice', 'Latihan', 'M4 12.5 9 17.5 20 6.5', ['practice', 'review', 'cards']],
                     ['test', 'Tes', 'M12 7v5l3 2M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Z', ['test']],
                     ['progress', 'Progres', 'M5 19V11M12 19V5M19 19v-6', ['progress']],
-                    ['ai', 'AI', 'M5 5h14v10H9l-4 4V5Z', ['ai']],
+                    ['ai', 'Tutor', 'M5 5h14v10H9l-4 4V5Z', ['ai']],
                 ];
                 $current = request()->route()?->getName();
             @endphp
